@@ -1,0 +1,31 @@
+# .gitignore — Swastik Traders Project
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.egg-info/
+
+# Secrets / credentials
+.env
+secrets.py
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Large generated files (optional — remove if you want CSVs tracked)
+# Phase-1-Data-Generation/data/raw/
