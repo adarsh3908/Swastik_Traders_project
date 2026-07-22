@@ -1,0 +1,12 @@
+supplier_id,supplier_name,supplier_type,contact_person,phone,city,payment_terms,is_active
+1,Asian Paints Distributor Ballia,paint_distributor,Ramesh Kumar,9415XXXXXX,Ballia,immediate,1
+2,Asian Paints Distributor Gorakhpur,paint_distributor,Sunil Tiwari,9839XXXXXX,Gorakhpur,7_days,1
+3,Indigo Paints Distributor Varanasi,paint_distributor,Vikram Singh,7007XXXXXX,Varanasi,7_days,1
+4,Indigo Paints Distributor Patna,paint_distributor,Anil Mishra,9431XXXXXX,Patna,15_days,1
+5,JSW Paints Distributor Lucknow,paint_distributor,Sanjay Pandey,9598XXXXXX,Lucknow,15_days,1
+6,JSW Paints Distributor Varanasi,paint_distributor,Deepak Rai,9450XXXXXX,Varanasi,7_days,1
+7,Saarthi E-Rickshaw OEM,erickshaw_oem,Mohit Srivastava,9935XXXXXX,Gorakhpur,immediate,1
+8,City Life E-Rickshaw OEM,erickshaw_oem,Rahul Yadav,9119XXXXXX,Varanasi,immediate,1
+9,Ballia Hardware Wholesale,accessory_wholesaler,Rajan Gupta,9838XXXXXX,Ballia,immediate,1
+10,Purvanchal Accessories,accessory_wholesaler,Ashok Verma,9792XXXXXX,Ghazipur,7_days,1
+11,UP Paint Accessories Depot,accessory_wholesaler,Prem Yadav,9415XXXXXX,Varanasi,7_days,1
