@@ -1,0 +1,3 @@
+warehouse_id,warehouse_name,capacity_sqft,is_active,operationalized_date
+1,Godown 1,800,1,2022-07-01
+2,Godown 2,1200,1,2025-02-01
