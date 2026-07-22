@@ -1,0 +1,203 @@
+product_id,product_name,category_id,brand_id,color,pack_size,unit,cost_price,selling_price,margin_pct,min_stock_level,is_active
+1,Asian Paints Tractor Emulsion,2,1,White,1L,litre,109.17,142.52,23.4,10,1
+2,Asian Paints Tractor Emulsion,2,1,White,4L,litre,446.12,562.21,20.65,10,1
+3,asian paints ltd tractor emulsion,2,1,White,10L,litre,1077.3,1380.74,21.98,10,1
+4,Asian Paints Tractor Emulsion,2,1,White,20L,litre,2141.67,2841.01,24.62,10,1
+5,Asian Paints Tractor Emulsion,2,1,Ivory,1L,litre,110.67,141.17,21.61,10,1
+6,Asian Paints Tractor Emulsion,2,1,Ivory,4L,litre,427.34,570.53,25.1,10,1
+7,Asian Paints Tractor Emulsion,2,1,Ivory,10L,litre,1121.94,1383.89,18.93,10,1
+8,Asian Paints Tractor Emulsion,2,1,Ivory,20L,litre,2158.0,2764.54,21.94,10,1
+9,Asian Paints Tractor Emulsion,2,1,Cream,1L,litre,108.71,140.14,22.43,10,1
+10,Asian Paints Tractor Emulsion,2,1,Cream,4L,litre,438.2,555.32,21.09,10,1
+11,Asian Paints Tractor Emulsion,2,1,Cream,10L,litre,1107.38,1379.81,19.74,10,1
+12,asian paints ltd tractor emulsion,2,1,Cream,20L,litre,2172.56,2785.03,21.99,10,1
+13,Asian Paints Royale Shyne,2,1,White,1L,litre,184.51,242.74,23.99,10,1
+14,Asian Paints Royale Shyne,2,1,White,4L,litre,726.67,960.55,24.35,10,1
+15,Asian Paints Royale Shyne,2,1,White,10L,litre,1860.26,2356.46,21.06,10,1
+16,Asian Paints Royale Shyne,2,1,White,20L,litre,3723.87,4736.74,21.38,10,1
+17,Asian Paints Royale Shyne,2,1,Ivory,1L,litre,180.17,244.31,26.25,10,1
+18,Asian Paints Royale Shyne,2,1,Ivory,4L,litre,760.67,971.84,21.73,10,1
+19,Asian Paints Royale Shyne,2,1,Ivory,10L,litre,1828.31,2361.38,22.57,10,1
+20,Asian Paints Royale Shyne,2,1,Ivory,20L,litre,3740.9,4788.51,21.88,10,1
+21,Asian Paints Royale Shyne,2,1,Cream,1L,litre,180.8,239.95,24.65,10,1
+22,Asian Paints Royale Shyne,2,1,Cream,4L,litre,719.33,975.72,26.28,10,1
+23,asian paints ltd royale shyne,2,1,Cream,10L,litre,1823.22,2415.6,24.52,10,1
+24,Asian Paints Royale Shyne,2,1,Cream,20L,litre,3658.2,4803.85,23.85,10,1
+25,Asian Paints Apcolite Premium Emulsion,2,1,White,1L,litre,145.41,182.67,20.4,10,1
+26,Asian Paints Apcolite Premium Emulsion,2,1,White,4L,litre,596.34,748.14,20.29,10,1
+27,Asian Paints Apcolite Premium Emulsion,2,1,White,10L,litre,1488.24,1879.22,20.81,10,1
+28,Asian Paints Apcolite Premium Emulsion,2,1,White,20L,litre,2917.03,3762.44,22.47,10,1
+29,Asian Paints Apcolite Premium Emulsion,2,1,Ivory,1L,litre,141.42,182.75,22.62,10,1
+30,Asian Paints Apcolite Premium Emulsion,2,1,Ivory,4L,litre,564.17,734.83,23.22,10,1
+31,Asian Paints Apcolite Premium Emulsion,2,1,Ivory,10L,litre,1440.31,1833.08,21.43,10,1
+32,Asian Paints Apcolite Premium Emulsion,2,1,Ivory,20L,litre,2957.2,3678.8,19.62,10,1
+33,Asian Paints Apcolite Premium Emulsion,2,1,Cream,1L,litre,143.09,185.32,22.79,10,1
+34,Asian Paints Apcolite Premium Emulsion,2,1,Cream,4L,litre,567.5,748.95,24.23,10,1
+35,Asian Paints Apcolite Premium Emulsion,2,1,Cream,10L,litre,1412.99,1886.03,25.08,10,1
+36,Asian Paints Apcolite Premium Emulsion,2,1,Cream,20L,litre,2947.37,3655.41,19.37,10,1
+37,Indigo Paints Infinity Interior Emulsion,2,2,White,1L,litre,116.44,156.96,25.82,10,1
+38,Indigo Paints Infinity Interior Emulsion,2,2,White,4L,litre,485.96,625.68,22.33,10,1
+39,Indigo Paints Infinity Interior Emulsion,2,2,White,10L,litre,1219.53,1523.59,19.96,10,1
+40,Indigo Paints Infinity Interior Emulsion,2,2,White,20L,litre,2379.62,3052.37,22.04,10,1
+41,Indigo Paints Infinity Interior Emulsion,2,2,Ivory,1L,litre,122.61,155.76,21.28,10,1
+42,Indigo Paints Infinity Interior Emulsion,2,2,Ivory,4L,litre,475.13,609.18,22.0,10,1
+43,Indigo Paints Infinity Interior Emulsion,2,2,Ivory,10L,litre,1186.39,1539.16,22.92,10,1
+44,Indigo Paints Infinity Interior Emulsion,2,2,Ivory,20L,litre,2433.06,3117.06,21.94,10,1
+45,Indigo Paints Infinity Interior Emulsion,2,2,Cream,1L,litre,122.79,154.83,20.69,10,1
+46,Indigo Paints Infinity Interior Emulsion,2,2,Cream,4L,litre,469.04,625.29,24.99,10,1
+47,Indigo Paints Infinity Interior Emulsion,2,2,Cream,10L,litre,1218.78,1553.8,21.56,10,1
+48,Indigo Paints Infinity Interior Emulsion,2,2,Cream,20L,litre,2439.02,3099.23,21.3,10,1
+49,Indigo Paints Plasto Emulsion Plus,2,2,White,1L,litre,105.14,134.61,21.89,10,1
+50,Indigo Paints Plasto Emulsion Plus,2,2,White,4L,litre,408.04,531.53,23.23,10,1
+51,Indigo Paints Plasto Emulsion Plus,2,2,White,10L,litre,1020.48,1357.37,24.82,10,1
+52,Indigo Paints Plasto Emulsion Plus,2,2,White,20L,litre,2076.61,2700.93,23.12,10,1
+53,Indigo Paints Plasto Emulsion Plus,2,2,Ivory,1L,litre,107.57,133.65,19.51,10,1
+54,Indigo Paints Plasto Emulsion Plus,2,2,Ivory,4L,litre,417.74,545.52,23.42,10,1
+55,Indigo Paints Plasto Emulsion Plus,2,2,Ivory,10L,litre,1032.91,1327.16,22.17,10,1
+56,Indigo Paints Plasto Emulsion Plus,2,2,Ivory,20L,litre,2073.51,2663.41,22.15,10,1
+57,Indigo Paints Plasto Emulsion Plus,2,2,Cream,1L,litre,107.71,136.66,21.18,10,1
+58,Indigo Paints Plasto Emulsion Plus,2,2,Cream,4L,litre,423.36,548.02,22.75,10,1
+59,Indigo Paints Plasto Emulsion Plus,2,2,Cream,10L,litre,1069.13,1333.07,19.8,10,1
+60,Indigo Paints Plasto Emulsion Plus,2,2,Cream,20L,litre,2149.46,2704.25,20.52,10,1
+61,JSW Paints Joie Interior Emulsion,2,3,White,1L,litre,101.84,132.06,22.88,10,1
+62,JSW Paints Joie Interior Emulsion,2,3,White,4L,litre,395.63,511.89,22.71,10,1
+63,JSW Paints Joie Interior Emulsion,2,3,White,10L,litre,983.68,1296.21,24.11,10,1
+64,jsw paints joie interior emulsion,2,3,White,20L,litre,2038.16,2637.52,22.72,10,1
+65,JSW Paints Joie Interior Emulsion,2,3,Ivory,1L,litre,97.04,130.06,25.39,10,1
+66,JSW Paints Joie Interior Emulsion,2,3,Ivory,4L,litre,398.02,514.22,22.6,10,1
+67,jsw paints joie interior emulsion,2,3,Ivory,10L,litre,977.19,1291.56,24.34,10,1
+68,JSW Paints Joie Interior Emulsion,2,3,Ivory,20L,litre,2053.15,2581.61,20.47,10,1
+69,JSW Paints Joie Interior Emulsion,2,3,Cream,1L,litre,100.11,131.06,23.62,10,1
+70,JSW Paints Joie Interior Emulsion,2,3,Cream,4L,litre,396.73,529.81,25.12,10,1
+71,JSW Paints Joie Interior Emulsion,2,3,Cream,10L,litre,1027.75,1287.09,20.15,10,1
+72,JSW Paints Joie Interior Emulsion,2,3,Cream,20L,litre,1999.67,2579.29,22.47,10,1
+73,Asian Paints Apex Exterior,3,1,White,1L,litre,157.93,201.2,21.51,10,1
+74,Asian Paints Apex Exterior,3,1,White,4L,litre,644.21,820.09,21.45,10,1
+75,Asian Paints Apex Exterior,3,1,White,10L,litre,1556.94,2031.85,23.37,10,1
+76,Asian Paints Apex Exterior,3,1,White,20L,litre,3278.39,4057.29,19.2,10,1
+77,Asian Paints Apex Exterior,3,1,Ivory,1L,litre,156.59,204.91,23.58,10,1
+78,Asian Paints Apex Exterior,3,1,Ivory,4L,litre,658.65,811.54,18.84,10,1
+79,Asian Paints Apex Exterior,3,1,Ivory,10L,litre,1616.53,2071.45,21.96,10,1
+80,Asian Paints Apex Exterior,3,1,Ivory,20L,litre,3149.63,4137.43,23.87,10,1
+81,Asian Paints Apex Exterior,3,1,Cream,1L,litre,158.73,206.08,22.98,10,1
+82,Asian Paints Apex Exterior,3,1,Cream,4L,litre,645.13,821.17,21.44,10,1
+83,Asian Paints Apex Exterior,3,1,Cream,10L,litre,1560.67,2077.49,24.88,10,1
+84,Asian Paints Apex Exterior,3,1,Cream,20L,litre,3165.59,4048.59,21.81,10,1
+85,Asian Paints Apex Ultima,3,1,White,1L,litre,209.08,276.0,24.25,10,1
+86,Asian Paints Apex Ultima,3,1,White,4L,litre,869.16,1078.73,19.43,10,1
+87,asian paints ltd apex ultima,3,1,White,10L,litre,2151.56,2719.91,20.9,10,1
+88,Asian Paints Apex Ultima,3,1,White,20L,litre,4337.45,5428.36,20.1,10,1
+89,Asian Paints Apex Ultima,3,1,Ivory,1L,litre,217.46,273.75,20.56,10,1
+90,Asian Paints Apex Ultima,3,1,Ivory,4L,litre,882.54,1084.05,18.59,10,1
+91,Asian Paints Apex Ultima,3,1,Ivory,10L,litre,2129.5,2707.48,21.35,10,1
+92,Asian Paints Apex Ultima,3,1,Ivory,20L,litre,4409.57,5583.01,21.02,10,1
+93,Asian Paints Apex Ultima,3,1,Cream,1L,litre,211.88,276.76,23.44,10,1
+94,Asian Paints Apex Ultima,3,1,Cream,4L,litre,876.37,1102.43,20.51,10,1
+95,asian paints ltd apex ultima,3,1,Cream,10L,litre,2153.82,2721.6,20.86,10,1
+96,Asian Paints Apex Ultima,3,1,Cream,20L,litre,4195.02,5587.39,24.92,10,1
+97,Asian Paints Ace Exterior,3,1,White,4L,litre,532.49,663.51,19.75,10,1
+98,Asian Paints Ace Exterior,3,1,White,10L,litre,1287.44,1640.05,21.5,10,1
+99,Asian Paints Ace Exterior,3,1,White,20L,litre,2635.25,3352.42,21.39,10,1
+100,Asian Paints Ace Exterior,3,1,Ivory,4L,litre,532.08,667.39,20.27,10,1
+101,Asian Paints Ace Exterior,3,1,Ivory,10L,litre,1311.08,1622.55,19.2,10,1
+102,Asian Paints Ace Exterior,3,1,Ivory,20L,litre,2547.21,3352.61,24.02,10,1
+103,Asian Paints Ace Exterior,3,1,Cream,4L,litre,523.32,647.04,19.12,10,1
+104,Asian Paints Ace Exterior,3,1,Cream,10L,litre,1268.91,1660.79,23.6,10,1
+105,Asian Paints Ace Exterior,3,1,Cream,20L,litre,2522.79,3255.23,22.5,10,1
+106,Indigo Paints Elastomeric Exterior Emulsion,3,2,White,4L,litre,681.99,878.69,22.39,10,1
+107,Indigo Paints Elastomeric Exterior Emulsion,3,2,White,10L,litre,1715.5,2155.96,20.43,10,1
+108,Indigo Paints Elastomeric Exterior Emulsion,3,2,White,20L,litre,3443.28,4314.18,20.19,10,1
+109,Indigo Paints Elastomeric Exterior Emulsion,3,2,Ivory,4L,litre,672.88,880.6,23.59,10,1
+110,Indigo Paints Elastomeric Exterior Emulsion,3,2,Ivory,10L,litre,1715.26,2210.45,22.4,10,1
+111,Indigo Paints Elastomeric Exterior Emulsion,3,2,Ivory,20L,litre,3432.15,4371.91,21.5,10,1
+112,Indigo Paints Elastomeric Exterior Emulsion,3,2,Cream,4L,litre,663.42,867.39,23.52,10,1
+113,Indigo Paints Elastomeric Exterior Emulsion,3,2,Cream,10L,litre,1676.05,2157.68,22.32,10,1
+114,Indigo Paints Elastomeric Exterior Emulsion,3,2,Cream,20L,litre,3496.49,4341.36,19.46,10,1
+115,Indigo Paints All Season Exterior Emulsion,3,2,White,4L,litre,614.11,772.03,20.46,10,1
+116,Indigo Paints All Season Exterior Emulsion,3,2,White,10L,litre,1526.53,1920.2,20.5,10,1
+117,Indigo Paints All Season Exterior Emulsion,3,2,White,20L,litre,3013.84,3838.85,21.49,10,1
+118,Indigo Paints All Season Exterior Emulsion,3,2,Ivory,4L,litre,589.03,774.83,23.98,10,1
+119,Indigo Paints All Season Exterior Emulsion,3,2,Ivory,10L,litre,1480.27,1883.47,21.41,10,1
+120,Indigo Paints All Season Exterior Emulsion,3,2,Ivory,20L,litre,3026.19,3790.4,20.16,10,1
+121,Indigo Paint all season exterior emulsion,3,2,Cream,4L,litre,615.86,781.94,21.24,10,1
+122,Indigo Paint all season exterior emulsion,3,2,Cream,10L,litre,1537.34,1910.03,19.51,10,1
+123,Indigo Paints All Season Exterior Emulsion,3,2,Cream,20L,litre,2912.78,3905.79,25.42,10,1
+124,JSW Paints Joie Exterior Emulsion,3,3,White,4L,litre,497.85,643.8,22.67,10,1
+125,JSW Paints Joie Exterior Emulsion,3,3,White,10L,litre,1284.77,1602.31,19.82,10,1
+126,JSW Paints Joie Exterior Emulsion,3,3,White,20L,litre,2469.17,3145.48,21.5,10,1
+127,JSW Paints Joie Exterior Emulsion,3,3,Ivory,4L,litre,510.53,627.37,18.62,10,1
+128,JSW Paints Joie Exterior Emulsion,3,3,Ivory,10L,litre,1225.21,1583.59,22.63,10,1
+129,JSW Paints Joie Exterior Emulsion,3,3,Ivory,20L,litre,2565.42,3184.78,19.45,10,1
+130,JSW Paints Joie Exterior Emulsion,3,3,Cream,4L,litre,502.1,621.82,19.25,10,1
+131,JSW Paints Joie Exterior Emulsion,3,3,Cream,10L,litre,1258.63,1610.97,21.87,10,1
+132,JSW Paints Joie Exterior Emulsion,3,3,Cream,20L,litre,2446.01,3162.32,22.65,10,1
+133,Asian Paints Apcolite Enamel (Gloss),6,1,White,0.5L,litre,46.02,59.57,22.75,10,1
+134,Asian Paints Apcolite Enamel (Gloss),6,1,White,1L,litre,91.06,118.96,23.45,10,1
+135,Asian Paints Apcolite Enamel (Gloss),6,1,White,4L,litre,356.97,468.1,23.74,10,1
+136,Asian Paints Apcolite Enamel (Gloss),6,1,Ivory,0.5L,litre,45.84,59.73,23.25,10,1
+137,Asian Paints Apcolite Enamel (Gloss),6,1,Ivory,1L,litre,91.98,119.95,23.32,10,1
+138,Asian Paints Apcolite Enamel (Gloss),6,1,Ivory,4L,litre,360.24,472.03,23.68,10,1
+139,Asian Paints Apcolite Enamel (Gloss),6,1,Cream,0.5L,litre,45.81,59.35,22.81,10,1
+140,Asian Paints Apcolite Enamel (Gloss),6,1,Cream,1L,litre,91.09,119.4,23.71,10,1
+141,Asian Paints Apcolite Enamel (Gloss),6,1,Cream,4L,litre,368.42,468.94,21.44,10,1
+142,Asian Paints Tractor Synthetic Distemper,6,1,White,5L,litre,248.13,319.72,22.39,10,1
+143,Asian Paints Tractor Synthetic Distemper,6,1,White,10L,litre,502.35,637.93,21.25,10,1
+144,Asian Paints Tractor Synthetic Distemper,6,1,White,20L,litre,997.94,1302.22,23.37,10,1
+145,Asian Paints Tractor Synthetic Distemper,6,1,Ivory,5L,litre,246.8,326.18,24.34,10,1
+146,Asian Paints Tractor Synthetic Distemper,6,1,Ivory,10L,litre,485.92,637.97,23.83,10,1
+147,Asian Paints Tractor Synthetic Distemper,6,1,Ivory,20L,litre,1019.36,1292.73,21.15,10,1
+148,Asian Paints Tractor Synthetic Distemper,6,1,Light Yellow,5L,litre,244.41,325.29,24.86,10,1
+149,Asian Paints Tractor Synthetic Distemper,6,1,Light Yellow,10L,litre,508.1,642.61,20.93,10,1
+150,Asian Paints Tractor Synthetic Distemper,6,1,Light Yellow,20L,litre,1007.37,1278.44,21.2,10,1
+151,Asian Paints Wall Primer (WB),4,1,White,4L,litre,253.01,328.41,22.96,10,1
+152,Asian Paints Wall Primer (WB),4,1,White,10L,litre,651.58,824.51,20.97,10,1
+153,Asian Paints Wall Primer (WB),4,1,White,20L,litre,1317.64,1671.22,21.16,10,1
+154,Asian Paints Exterior Wall Primer,4,1,White,4L,litre,288.28,357.45,19.35,10,1
+155,Asian Paints Exterior Wall Primer,4,1,White,10L,litre,732.75,891.75,17.83,10,1
+156,Asian Paints Exterior Wall Primer,4,1,White,20L,litre,1434.73,1769.65,18.93,10,1
+157,Indigo Paints Exterior Wall Primer,4,2,White,4L,litre,264.25,346.29,23.69,10,1
+158,Indigo Paints Exterior Wall Primer,4,2,White,10L,litre,693.71,856.66,19.02,10,1
+159,Indigo Paints Exterior Wall Primer,4,2,White,20L,litre,1352.57,1677.78,19.38,10,1
+160,Indigo Paints Water Thinnable Cement Primer,4,2,White,4L,litre,235.05,297.0,20.86,10,1
+161,Indigo Paints Water Thinnable Cement Primer,4,2,White,10L,litre,601.77,756.44,20.45,10,1
+162,Indigo Paints Water Thinnable Cement Primer,4,2,White,20L,litre,1211.53,1486.8,18.51,10,1
+163,JSW Paints Joie Primer (Interior),4,3,White,4L,litre,238.33,290.74,18.03,10,1
+164,JSW Paints Joie Primer (Interior),4,3,White,10L,litre,581.89,723.22,19.54,10,1
+165,JSW Paints Joie Primer (Exterior),4,3,White,4L,litre,246.8,304.89,19.05,10,1
+166,JSW Paints Joie Primer (Exterior),4,3,White,10L,litre,614.64,777.94,20.99,10,1
+167,Asian Paints TruCare Wall Care Putty,5,1,White,5kg,kg,135.92,147.7,7.98,10,1
+168,Asian Paints TruCare Wall Care Putty,5,1,White,10kg,kg,272.37,294.49,7.51,10,1
+169,Asian Paints TruCare Wall Care Putty,5,1,White,20kg,kg,571.94,604.89,5.45,10,1
+170,Asian Paints TruCare Wall Care Putty,5,1,White,40kg,kg,1118.26,1180.7,5.29,10,1
+171,Indigo Paints Polymer Putty,5,2,White,10kg,kg,299.85,319.66,6.2,10,1
+172,Indigo Paints Polymer Putty,5,2,White,20kg,kg,588.24,638.31,7.84,10,1
+173,Indigo Paints Polymer Putty,5,2,White,40kg,kg,1192.69,1285.93,7.25,10,1
+174,Indigo Paints Acrylic Wall Putty,5,2,White,1kg,kg,32.26,33.38,3.36,10,1
+175,Indigo Paints Acrylic Wall Putty,5,2,White,10kg,kg,317.59,341.71,7.06,10,1
+176,Indigo Paints Acrylic Wall Putty,5,2,White,20kg,kg,640.12,689.7,7.19,10,1
+177,JSW Paints Acrylic Wall Putty,5,3,White,10kg,kg,292.76,305.82,4.27,10,1
+178,JSW Paints Acrylic Wall Putty,5,3,White,20kg,kg,565.06,623.53,9.38,10,1
+179,JSW Paints Cement Putty,5,3,White,10kg,kg,262.33,290.99,9.85,10,1
+180,JSW Paints Cement Putty,5,3,White,20kg,kg,554.26,581.75,4.73,10,1
+181,Paint Brush 1 inch,8,1,,1 piece,piece,12.0,18.0,33.33,20,1
+182,paint brush 2 inch,8,1,,1 piece,piece,18.0,28.0,35.71,20,1
+183,Paint Brush 3 inch,8,1,,1 piece,piece,25.0,38.0,34.21,20,1
+184,Paint Brush 4 inch,8,1,,1 piece,piece,35.0,52.0,32.69,20,1
+185,Paint Roller 4 inch,9,1,,1 piece,piece,55.0,85.0,35.29,20,1
+186,Paint Roller 6 inch,9,1,,1 piece,piece,75.0,115.0,34.78,20,1
+187,Paint Roller 9 inch,9,1,,1 piece,piece,95.0,145.0,34.48,20,1
+188,Roller Tray,9,1,,1 piece,piece,40.0,62.0,35.48,20,1
+189,Masking Tape 1 inch,10,1,,1 piece,piece,18.0,28.0,35.71,20,1
+190,Masking Tape 2 inch,10,1,,1 piece,piece,28.0,42.0,33.33,20,1
+191,Turpentine 500ml,10,1,,1 piece,piece,35.0,52.0,32.69,20,1
+192,Turpentine 1L,10,1,,1 piece,piece,62.0,90.0,31.11,20,1
+193,Putty Blade Small,10,1,,1 piece,piece,15.0,25.0,40.0,20,1
+194,Putty Blade Medium,10,1,,1 piece,piece,22.0,35.0,37.14,20,1
+195,Putty Blade Large,10,1,,1 piece,piece,30.0,48.0,37.5,20,1
+196,Sandpaper 60 grit,10,1,,1 piece,piece,5.0,8.0,37.5,20,1
+197,Sandpaper 100 grit,10,1,,1 piece,piece,5.0,8.0,37.5,20,1
+198,Sandpaper 180 grit,10,1,,1 piece,piece,6.0,9.0,33.33,20,1
+199,Paint Stirrer,10,1,,1 piece,piece,8.0,12.0,33.33,20,1
+200,Saarthi Standard (4-seater),11,4,,1 unit,piece,95000.0,108000.0,12.04,1,1
+201,Saarthi Plus (5-seater),11,4,,1 unit,piece,108000.0,122000.0,11.48,1,1
+202,City Life Mini (4-seater),11,5,,1 unit,piece,88000.0,100000.0,12.0,1,1
