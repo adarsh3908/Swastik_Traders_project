@@ -1,0 +1,142 @@
+er_sale_id,customer_id,employee_id,product_id,enquiry_date,booking_date,delivery_date,amount,cost_price,payment_method,payment_status,er_model,festive_occasion
+1,789,3,202,2023-04-15,2023-04-16,2023-04-19,100000.0,88000.0,bank_transfer,partial,City Life Mini (4-seater),Akshaya Tritiya
+2,846,3,201,2023-04-15,2023-04-19,2023-04-24,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),Akshaya Tritiya
+3,821,2,202,2023-04-23,2023-04-25,2023-05-02,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),Akshaya Tritiya
+4,255,3,200,2023-04-26,2023-04-27,2023-04-30,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),Akshaya Tritiya
+5,165,3,200,2023-04-28,2023-04-28,2023-05-02,108000.0,95000.0,upi,paid,Saarthi Standard (4-seater),Akshaya Tritiya
+6,178,1,202,2023-05-06,2023-05-10,2023-05-14,100000.0,88000.0,upi,paid,City Life Mini (4-seater),
+7,739,2,200,2023-05-13,2023-05-17,2023-05-18,108000.0,95000.0,upi,paid,Saarthi Standard (4-seater),
+8,891,1,201,2023-05-14,2023-05-19,2023-05-25,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),
+9,365,1,201,2023-06-07,2023-06-12,2023-06-19,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),
+10,824,3,201,2023-06-23,2023-06-26,2023-06-28,122000.0,108000.0,bank_transfer,partial,Saarthi Plus (5-seater),
+11,134,1,201,2023-08-11,2023-08-16,2023-08-22,122000.0,108000.0,bank_transfer,pending,Saarthi Plus (5-seater),
+12,363,3,200,2023-08-22,2023-08-22,2023-08-23,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),
+13,406,1,202,2023-08-23,2023-08-25,2023-08-29,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),
+14,781,1,202,2023-08-29,2023-09-02,2023-09-03,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),
+15,323,2,201,2023-09-06,2023-09-10,2023-09-14,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),
+16,164,1,201,2023-09-09,2023-09-11,2023-09-16,122000.0,108000.0,bank_transfer,partial,Saarthi Plus (5-seater),
+17,534,3,200,2023-09-18,2023-09-20,2023-09-23,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),
+18,882,2,201,2023-09-21,2023-09-22,2023-09-28,122000.0,108000.0,upi,paid,Saarthi Plus (5-seater),
+19,319,2,201,2023-10-08,2023-10-10,2023-10-17,122000.0,108000.0,cash,paid,Saarthi Plus (5-seater),Navratri
+20,243,1,202,2023-10-11,2023-10-11,2023-10-15,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),Navratri
+21,416,1,201,2023-10-10,2023-10-12,2023-10-14,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),Navratri
+22,897,1,200,2023-10-10,2023-10-15,2023-10-17,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),Navratri
+23,105,1,200,2023-10-14,2023-10-17,2023-10-18,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),Navratri
+24,883,1,201,2023-10-18,2023-10-19,2023-10-23,122000.0,108000.0,bank_transfer,partial,Saarthi Plus (5-seater),Navratri
+25,674,3,202,2023-10-18,2023-10-22,2023-10-26,100000.0,88000.0,cash,pending,City Life Mini (4-seater),Navratri
+26,903,2,202,2023-10-25,2023-10-25,2023-10-27,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),
+27,197,1,202,2023-10-28,2023-10-28,2023-11-03,100000.0,88000.0,bank_transfer,partial,City Life Mini (4-seater),
+28,636,3,200,2023-10-25,2023-10-30,2023-10-31,108000.0,95000.0,upi,partial,Saarthi Standard (4-seater),
+29,617,1,200,2023-11-04,2023-11-04,2023-11-11,108000.0,95000.0,cash,paid,Saarthi Standard (4-seater),
+30,792,2,200,2023-11-03,2023-11-05,2023-11-12,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),Diwali
+31,875,3,201,2023-11-05,2023-11-06,2023-11-11,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),Diwali
+32,736,1,200,2023-11-08,2023-11-08,2023-11-12,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),Diwali
+33,276,3,200,2023-11-09,2023-11-09,2023-11-12,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),Diwali
+34,913,2,200,2023-11-05,2023-11-10,2023-11-11,108000.0,95000.0,cash,paid,Saarthi Standard (4-seater),Diwali
+35,866,2,202,2023-11-07,2023-11-12,2023-11-15,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),Diwali
+36,427,1,202,2023-11-09,2023-11-14,2023-11-15,100000.0,88000.0,bank_transfer,pending,City Life Mini (4-seater),Diwali
+37,246,2,202,2023-11-17,2023-11-19,2023-11-20,100000.0,88000.0,upi,paid,City Life Mini (4-seater),Diwali
+38,283,3,200,2023-11-15,2023-11-20,2023-11-27,108000.0,95000.0,cash,paid,Saarthi Standard (4-seater),Chhath Puja
+39,843,1,200,2023-11-23,2023-11-23,2023-11-28,108000.0,95000.0,bank_transfer,pending,Saarthi Standard (4-seater),Chhath Puja
+40,950,1,200,2023-11-23,2023-11-26,2023-12-03,108000.0,95000.0,upi,partial,Saarthi Standard (4-seater),Chhath Puja
+41,304,2,202,2023-12-14,2023-12-19,2023-12-22,100000.0,88000.0,upi,pending,City Life Mini (4-seater),
+42,457,1,201,2024-01-07,2024-01-09,2024-01-14,122000.0,108000.0,cash,paid,Saarthi Plus (5-seater),
+43,632,3,202,2024-01-28,2024-01-29,2024-02-03,100000.0,88000.0,upi,paid,City Life Mini (4-seater),
+44,729,2,202,2024-01-26,2024-01-30,2024-02-06,100000.0,88000.0,bank_transfer,pending,City Life Mini (4-seater),
+45,653,3,200,2024-02-12,2024-02-12,2024-02-19,108000.0,95000.0,bank_transfer,partial,Saarthi Standard (4-seater),
+46,94,3,202,2024-02-21,2024-02-24,2024-02-26,100000.0,88000.0,upi,paid,City Life Mini (4-seater),
+47,570,2,202,2024-03-04,2024-03-07,2024-03-10,100000.0,88000.0,bank_transfer,partial,City Life Mini (4-seater),
+48,625,1,202,2024-03-25,2024-03-26,2024-04-02,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),Holi
+49,27,2,202,2024-03-23,2024-03-27,2024-03-28,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),Holi
+50,45,1,201,2024-03-24,2024-03-28,2024-04-01,122000.0,108000.0,cash,pending,Saarthi Plus (5-seater),Holi
+51,887,2,200,2024-03-30,2024-04-01,2024-04-06,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),Holi
+52,293,2,200,2024-03-31,2024-04-05,2024-04-10,108000.0,95000.0,upi,partial,Saarthi Standard (4-seater),
+53,775,3,201,2024-04-08,2024-04-10,2024-04-11,122000.0,108000.0,upi,paid,Saarthi Plus (5-seater),
+54,661,3,201,2024-04-30,2024-04-30,2024-05-07,122000.0,108000.0,upi,partial,Saarthi Plus (5-seater),
+55,692,2,202,2024-04-29,2024-05-04,2024-05-10,100000.0,88000.0,bank_transfer,pending,City Life Mini (4-seater),Akshaya Tritiya
+56,369,3,202,2024-05-02,2024-05-05,2024-05-06,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),Akshaya Tritiya
+57,426,2,202,2024-05-02,2024-05-06,2024-05-11,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),Akshaya Tritiya
+58,189,2,202,2024-05-08,2024-05-10,2024-05-15,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),Akshaya Tritiya
+59,61,1,201,2024-05-12,2024-05-12,2024-05-19,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),Akshaya Tritiya
+60,485,3,200,2024-05-14,2024-05-14,2024-05-17,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),Akshaya Tritiya
+61,96,2,200,2024-05-13,2024-05-15,2024-05-17,108000.0,95000.0,upi,paid,Saarthi Standard (4-seater),Akshaya Tritiya
+62,45,2,202,2024-05-16,2024-05-16,2024-05-18,100000.0,88000.0,upi,paid,City Life Mini (4-seater),Akshaya Tritiya
+63,807,3,201,2024-05-17,2024-05-17,2024-05-18,122000.0,108000.0,cash,partial,Saarthi Plus (5-seater),Akshaya Tritiya
+64,761,1,201,2024-05-27,2024-05-27,2024-05-31,122000.0,108000.0,bank_transfer,partial,Saarthi Plus (5-seater),
+65,84,3,200,2024-06-12,2024-06-16,2024-06-17,108000.0,95000.0,upi,paid,Saarthi Standard (4-seater),
+66,359,3,201,2024-06-16,2024-06-19,2024-06-22,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),
+67,624,2,200,2024-06-23,2024-06-24,2024-06-25,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),
+68,175,2,200,2024-06-27,2024-06-27,2024-07-01,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),
+69,447,3,201,2024-07-14,2024-07-16,2024-07-21,122000.0,108000.0,bank_transfer,partial,Saarthi Plus (5-seater),
+70,875,2,201,2024-07-28,2024-07-28,2024-08-04,122000.0,108000.0,upi,partial,Saarthi Plus (5-seater),
+71,171,2,202,2024-07-25,2024-07-30,2024-08-06,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),
+72,615,1,200,2024-08-28,2024-08-28,2024-09-01,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),
+73,285,2,200,2024-08-24,2024-08-29,2024-08-31,108000.0,95000.0,cash,paid,Saarthi Standard (4-seater),
+74,71,3,200,2024-08-27,2024-09-01,2024-09-06,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),
+75,720,3,202,2024-09-12,2024-09-12,2024-09-13,100000.0,88000.0,upi,partial,City Life Mini (4-seater),
+76,456,1,200,2024-09-16,2024-09-18,2024-09-20,108000.0,95000.0,upi,paid,Saarthi Standard (4-seater),
+77,413,1,201,2024-09-25,2024-09-27,2024-10-03,122000.0,108000.0,cash,partial,Saarthi Plus (5-seater),Navratri
+78,719,2,201,2024-09-28,2024-09-28,2024-10-03,122000.0,108000.0,bank_transfer,partial,Saarthi Plus (5-seater),Navratri
+79,907,3,200,2024-09-29,2024-09-30,2024-10-06,108000.0,95000.0,upi,paid,Saarthi Standard (4-seater),Navratri
+80,750,3,200,2024-10-02,2024-10-03,2024-10-05,108000.0,95000.0,bank_transfer,partial,Saarthi Standard (4-seater),Navratri
+81,540,2,202,2024-10-04,2024-10-06,2024-10-07,100000.0,88000.0,upi,paid,City Life Mini (4-seater),Navratri
+82,315,3,201,2024-10-08,2024-10-08,2024-10-12,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),Navratri
+83,756,1,200,2024-10-08,2024-10-10,2024-10-15,108000.0,95000.0,upi,paid,Saarthi Standard (4-seater),Navratri
+84,428,2,202,2024-10-07,2024-10-11,2024-10-15,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),
+85,874,2,200,2024-10-12,2024-10-13,2024-10-16,108000.0,95000.0,upi,paid,Saarthi Standard (4-seater),
+86,16,1,201,2024-11-02,2024-11-04,2024-11-11,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),Diwali
+87,680,2,202,2024-11-05,2024-11-07,2024-11-08,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),Diwali
+88,428,2,202,2024-11-14,2024-11-14,2024-11-16,100000.0,88000.0,upi,pending,City Life Mini (4-seater),Chhath Puja
+89,897,3,200,2024-12-03,2024-12-04,2024-12-06,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),
+90,411,1,200,2024-12-09,2024-12-14,2024-12-15,108000.0,95000.0,upi,paid,Saarthi Standard (4-seater),
+91,591,3,200,2024-12-29,2024-12-29,2025-01-02,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),
+92,802,1,200,2024-12-26,2024-12-30,2025-01-01,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),
+93,493,2,201,2024-12-26,2024-12-31,2025-01-01,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),
+94,174,2,201,2025-01-10,2025-01-10,2025-01-15,122000.0,108000.0,upi,paid,Saarthi Plus (5-seater),
+95,95,2,201,2025-01-16,2025-01-20,2025-01-25,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),
+96,679,1,200,2025-01-22,2025-01-26,2025-01-29,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),
+97,122,3,202,2025-02-06,2025-02-06,2025-02-09,100000.0,88000.0,bank_transfer,partial,City Life Mini (4-seater),
+98,374,1,202,2025-02-09,2025-02-12,2025-02-16,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),
+99,695,1,201,2025-02-12,2025-02-17,2025-02-20,122000.0,108000.0,upi,paid,Saarthi Plus (5-seater),
+100,819,2,201,2025-03-07,2025-03-08,2025-03-11,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),Holi
+101,685,1,200,2025-03-11,2025-03-13,2025-03-17,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),Holi
+102,586,2,202,2025-03-16,2025-03-17,2025-03-20,100000.0,88000.0,cash,paid,City Life Mini (4-seater),Holi
+103,793,3,200,2025-03-19,2025-03-19,2025-03-26,108000.0,95000.0,upi,paid,Saarthi Standard (4-seater),Holi
+104,577,2,202,2025-04-17,2025-04-18,2025-04-19,100000.0,88000.0,upi,paid,City Life Mini (4-seater),
+105,169,3,201,2025-04-20,2025-04-23,2025-04-26,122000.0,108000.0,bank_transfer,partial,Saarthi Plus (5-seater),Akshaya Tritiya
+106,582,1,200,2025-04-25,2025-04-28,2025-05-03,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),Akshaya Tritiya
+107,310,1,200,2025-04-27,2025-04-29,2025-05-04,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),Akshaya Tritiya
+108,944,3,201,2025-05-01,2025-05-02,2025-05-08,122000.0,108000.0,upi,paid,Saarthi Plus (5-seater),Akshaya Tritiya
+109,191,3,201,2025-05-02,2025-05-05,2025-05-09,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),Akshaya Tritiya
+110,826,2,202,2025-05-13,2025-05-15,2025-05-22,100000.0,88000.0,bank_transfer,partial,City Life Mini (4-seater),
+111,132,3,200,2025-05-13,2025-05-16,2025-05-17,108000.0,95000.0,bank_transfer,partial,Saarthi Standard (4-seater),
+112,847,3,201,2025-06-04,2025-06-07,2025-06-09,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),
+113,819,2,202,2025-06-24,2025-06-27,2025-06-28,100000.0,88000.0,upi,paid,City Life Mini (4-seater),
+114,589,3,200,2025-07-06,2025-07-11,2025-07-16,108000.0,95000.0,upi,partial,Saarthi Standard (4-seater),
+115,729,1,201,2025-07-12,2025-07-17,2025-07-21,122000.0,108000.0,bank_transfer,partial,Saarthi Plus (5-seater),
+116,184,3,202,2025-07-20,2025-07-23,2025-07-28,100000.0,88000.0,bank_transfer,partial,City Life Mini (4-seater),
+117,740,1,200,2025-07-24,2025-07-26,2025-08-01,108000.0,95000.0,bank_transfer,pending,Saarthi Standard (4-seater),
+118,490,2,200,2025-09-02,2025-09-02,2025-09-04,108000.0,95000.0,cash,paid,Saarthi Standard (4-seater),
+119,448,1,200,2025-09-07,2025-09-08,2025-09-12,108000.0,95000.0,upi,paid,Saarthi Standard (4-seater),
+120,132,2,202,2025-09-11,2025-09-16,2025-09-23,100000.0,88000.0,bank_transfer,pending,City Life Mini (4-seater),Navratri
+121,207,2,200,2025-09-18,2025-09-18,2025-09-19,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),Navratri
+122,772,2,200,2025-09-21,2025-09-26,2025-10-03,108000.0,95000.0,upi,paid,Saarthi Standard (4-seater),Navratri
+123,17,2,201,2025-10-18,2025-10-22,2025-10-25,122000.0,108000.0,upi,paid,Saarthi Plus (5-seater),Diwali
+124,530,2,201,2025-10-24,2025-10-25,2025-10-28,122000.0,108000.0,bank_transfer,partial,Saarthi Plus (5-seater),Diwali
+125,197,1,200,2025-10-25,2025-10-26,2025-11-02,108000.0,95000.0,bank_transfer,pending,Saarthi Standard (4-seater),Diwali
+126,208,2,200,2025-11-01,2025-11-02,2025-11-06,108000.0,95000.0,cash,pending,Saarthi Standard (4-seater),Chhath Puja
+127,11,3,200,2025-11-03,2025-11-08,2025-11-13,108000.0,95000.0,bank_transfer,partial,Saarthi Standard (4-seater),
+128,283,2,201,2025-11-04,2025-11-09,2025-11-14,122000.0,108000.0,upi,paid,Saarthi Plus (5-seater),
+129,328,1,200,2025-11-23,2025-11-26,2025-11-30,108000.0,95000.0,upi,paid,Saarthi Standard (4-seater),
+130,12,3,200,2025-11-29,2025-11-29,2025-12-01,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),
+131,772,2,202,2025-11-29,2025-12-01,2025-12-07,100000.0,88000.0,cash,paid,City Life Mini (4-seater),
+132,263,2,200,2026-01-04,2026-01-04,2026-01-08,108000.0,95000.0,upi,partial,Saarthi Standard (4-seater),
+133,3,2,201,2026-01-30,2026-02-02,2026-02-07,122000.0,108000.0,upi,partial,Saarthi Plus (5-seater),
+134,411,1,202,2026-02-19,2026-02-23,2026-02-26,100000.0,88000.0,bank_transfer,partial,City Life Mini (4-seater),
+135,213,2,200,2026-02-25,2026-03-02,2026-03-07,108000.0,95000.0,cash,paid,Saarthi Standard (4-seater),
+136,339,1,201,2026-03-26,2026-03-27,2026-03-28,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),
+137,838,3,201,2026-05-05,2026-05-10,2026-05-14,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),
+138,453,1,201,2026-05-11,2026-05-12,2026-05-14,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),
+139,671,1,200,2026-05-28,2026-06-02,2026-06-08,108000.0,95000.0,bank_transfer,paid,Saarthi Standard (4-seater),
+140,489,2,201,2026-06-12,2026-06-14,2026-06-16,122000.0,108000.0,bank_transfer,paid,Saarthi Plus (5-seater),
+141,195,3,202,2026-06-13,2026-06-16,2026-06-20,100000.0,88000.0,bank_transfer,paid,City Life Mini (4-seater),
