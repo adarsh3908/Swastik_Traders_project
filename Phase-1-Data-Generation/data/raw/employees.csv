@@ -1,0 +1,8 @@
+employee_id,name,role,phone,monthly_salary,hire_date,is_active
+1,Ramesh Agarwal,owner,9415100001,0.0,2022-07-01,1
+2,Suresh Agarwal,co_founder,9415100002,18000.0,2022-07-01,1
+3,Dinesh Gupta,co_founder,9415100003,18000.0,2022-07-01,1
+4,Ramu Yadav,labour,9839200001,9000.0,2022-08-01,1
+5,Shyam Patel,labour,9839200002,9000.0,2022-09-01,1
+6,Mohan Singh,labour,9839200003,9500.0,2023-03-01,1
+7,Lallan Yadav,labour,9839200004,9500.0,2024-06-01,1
