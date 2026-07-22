@@ -1,0 +1,114 @@
+expense_id,expense_date,category,amount,approved_by,description
+1,2022-07-01,salary,36000.0,1,Monthly salary Jul 2022
+2,2022-07-01,utilities,4180.61,1,Electricity + water
+3,2022-07-02,maintenance,6581.01,1,Godown/shop maintenance
+4,2022-08-01,salary,45000.0,1,Monthly salary Aug 2022
+5,2022-08-01,utilities,4684.36,1,Electricity + water
+6,2022-09-01,salary,54000.0,1,Monthly salary Sep 2022
+7,2022-09-01,utilities,4498.7,1,Electricity + water
+8,2022-10-01,salary,54000.0,1,Monthly salary Oct 2022
+9,2022-10-01,utilities,4778.85,1,Electricity + water
+10,2022-11-01,salary,54000.0,1,Monthly salary Nov 2022
+11,2022-11-01,utilities,4098.39,1,Electricity + water
+12,2022-12-01,salary,54000.0,1,Monthly salary Dec 2022
+13,2022-12-01,utilities,2620.3,1,Electricity + water
+14,2023-01-01,salary,54000.0,1,Monthly salary Jan 2023
+15,2023-01-01,utilities,4290.84,1,Electricity + water
+16,2023-01-01,marketing,2047.71,1,Local pamphlets / newspaper ad
+17,2023-02-01,salary,54000.0,1,Monthly salary Feb 2023
+18,2023-02-01,utilities,4458.04,1,Electricity + water
+19,2023-03-01,salary,63500.0,1,Monthly salary Mar 2023
+20,2023-03-01,utilities,3444.86,1,Electricity + water
+21,2023-04-01,salary,63500.0,1,Monthly salary Apr 2023
+22,2023-04-01,utilities,4769.91,1,Electricity + water
+23,2023-04-19,maintenance,1054.79,1,Godown/shop maintenance
+24,2023-04-04,marketing,924.76,1,Local pamphlets / newspaper ad
+25,2023-05-01,salary,63500.0,1,Monthly salary May 2023
+26,2023-05-01,utilities,3900.32,1,Electricity + water
+27,2023-06-01,salary,63500.0,1,Monthly salary Jun 2023
+28,2023-06-01,utilities,2860.12,1,Electricity + water
+29,2023-06-08,maintenance,1101.71,1,Godown/shop maintenance
+30,2023-07-01,salary,63500.0,1,Monthly salary Jul 2023
+31,2023-07-01,utilities,3772.88,1,Electricity + water
+32,2023-07-06,maintenance,5778.24,1,Godown/shop maintenance
+33,2023-08-01,salary,63500.0,1,Monthly salary Aug 2023
+34,2023-08-01,utilities,4367.14,1,Electricity + water
+35,2023-09-01,salary,63500.0,1,Monthly salary Sep 2023
+36,2023-09-01,utilities,4016.11,1,Electricity + water
+37,2023-09-21,maintenance,4998.89,1,Godown/shop maintenance
+38,2023-10-01,salary,63500.0,1,Monthly salary Oct 2023
+39,2023-10-01,utilities,3504.02,1,Electricity + water
+40,2023-11-01,salary,63500.0,1,Monthly salary Nov 2023
+41,2023-11-01,utilities,3054.47,1,Electricity + water
+42,2023-12-01,salary,63500.0,1,Monthly salary Dec 2023
+43,2023-12-01,utilities,3019.23,1,Electricity + water
+44,2024-01-01,salary,63500.0,1,Monthly salary Jan 2024
+45,2024-01-01,utilities,4395.51,1,Electricity + water
+46,2024-02-01,salary,63500.0,1,Monthly salary Feb 2024
+47,2024-02-01,utilities,4180.1,1,Electricity + water
+48,2024-03-01,salary,63500.0,1,Monthly salary Mar 2024
+49,2024-03-01,utilities,4693.65,1,Electricity + water
+50,2024-04-01,salary,63500.0,1,Monthly salary Apr 2024
+51,2024-04-01,utilities,4694.52,1,Electricity + water
+52,2024-05-01,salary,63500.0,1,Monthly salary May 2024
+53,2024-05-01,utilities,4035.92,1,Electricity + water
+54,2024-06-01,salary,73000.0,1,Monthly salary Jun 2024
+55,2024-06-01,utilities,4731.45,1,Electricity + water
+56,2024-06-09,maintenance,7968.0,1,Godown/shop maintenance
+57,2024-07-01,salary,73000.0,1,Monthly salary Jul 2024
+58,2024-07-01,utilities,3915.17,1,Electricity + water
+59,2024-08-01,salary,73000.0,1,Monthly salary Aug 2024
+60,2024-08-01,utilities,3867.76,1,Electricity + water
+61,2024-09-01,salary,73000.0,1,Monthly salary Sep 2024
+62,2024-09-01,utilities,4599.77,1,Electricity + water
+63,2024-09-18,maintenance,2712.41,1,Godown/shop maintenance
+64,2024-10-01,salary,73000.0,1,Monthly salary Oct 2024
+65,2024-10-01,utilities,4542.03,1,Electricity + water
+66,2024-11-01,salary,73000.0,1,Monthly salary Nov 2024
+67,2024-11-01,utilities,3936.45,1,Electricity + water
+68,2024-12-01,salary,73000.0,1,Monthly salary Dec 2024
+69,2024-12-01,utilities,3129.59,1,Electricity + water
+70,2024-12-09,maintenance,1869.57,1,Godown/shop maintenance
+71,2025-01-01,salary,73000.0,1,Monthly salary Jan 2025
+72,2025-01-01,utilities,4376.81,1,Electricity + water
+73,2025-02-01,salary,73000.0,1,Monthly salary Feb 2025
+74,2025-02-01,utilities,3909.62,1,Electricity + water
+75,2025-03-01,salary,73000.0,1,Monthly salary Mar 2025
+76,2025-03-01,utilities,4547.33,1,Electricity + water
+77,2025-04-01,salary,73000.0,1,Monthly salary Apr 2025
+78,2025-04-01,utilities,4723.3,1,Electricity + water
+79,2025-05-01,salary,73000.0,1,Monthly salary May 2025
+80,2025-05-01,utilities,3972.87,1,Electricity + water
+81,2025-06-01,salary,73000.0,1,Monthly salary Jun 2025
+82,2025-06-01,utilities,2525.67,1,Electricity + water
+83,2025-06-03,marketing,2381.02,1,Local pamphlets / newspaper ad
+84,2025-07-01,salary,73000.0,1,Monthly salary Jul 2025
+85,2025-07-01,utilities,3832.48,1,Electricity + water
+86,2025-08-01,salary,73000.0,1,Monthly salary Aug 2025
+87,2025-08-01,utilities,2589.34,1,Electricity + water
+88,2025-09-01,salary,73000.0,1,Monthly salary Sep 2025
+89,2025-09-01,utilities,3919.31,1,Electricity + water
+90,2025-10-01,salary,73000.0,1,Monthly salary Oct 2025
+91,2025-10-01,utilities,4854.55,1,Electricity + water
+92,2025-10-02,maintenance,1452.3,1,Godown/shop maintenance
+93,2025-11-01,salary,73000.0,1,Monthly salary Nov 2025
+94,2025-11-01,utilities,3722.31,1,Electricity + water
+95,2025-11-12,maintenance,6578.9,1,Godown/shop maintenance
+96,2025-12-01,salary,73000.0,1,Monthly salary Dec 2025
+97,2025-12-01,utilities,4988.52,1,Electricity + water
+98,2026-01-01,salary,73000.0,1,Monthly salary Jan 2026
+99,2026-01-01,utilities,3123.7,1,Electricity + water
+100,2026-01-17,maintenance,6302.85,1,Godown/shop maintenance
+101,2026-02-01,salary,73000.0,1,Monthly salary Feb 2026
+102,2026-02-01,utilities,2748.5,1,Electricity + water
+103,2026-03-01,salary,73000.0,1,Monthly salary Mar 2026
+104,2026-03-01,utilities,3486.5,1,Electricity + water
+105,2026-04-01,salary,73000.0,1,Monthly salary Apr 2026
+106,2026-04-01,utilities,4408.0,1,Electricity + water
+107,2026-05-01,salary,73000.0,1,Monthly salary May 2026
+108,2026-05-01,utilities,4642.33,1,Electricity + water
+109,2026-05-10,maintenance,7357.83,1,Godown/shop maintenance
+110,2026-06-01,salary,73000.0,1,Monthly salary Jun 2026
+111,2026-06-01,utilities,3856.48,1,Electricity + water
+112,2026-06-06,maintenance,4451.32,1,Godown/shop maintenance
+113,2022-07-05,one_time_setup,1000000.0,1,"Shop fit-out, godown racks, signage, initial setup ~10L"
