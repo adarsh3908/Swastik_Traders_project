@@ -1,0 +1,1383 @@
+customer_id,name,phone,address,area,customer_type,first_purchase_date
+1,Raghav Raju,9965984448,"19, Balan Street",Civil Lines,retail,
+2,Wazir Verma,9175133802,"097, Choudhury Circle",Sikandarpur,retail,
+3,Yamini Grewal,9233815413,"H.No. 917, Bath Zila",Kotwali,retail,
+4,Hardik Comar,9450236225,"43/962, Atwal Zila",Rasra Road,contractor,
+5,Nimrat Mahal,9813962536,"71
+Chaudhuri Road",Rasra Road,retail,
+6,Lavanya Bala,9423142470,"22/459
+Sethi Nagar",Kotwali,contractor,
+7,Viraj Mohan,9561588882,"09/61, Jaggi Zila",Gai Ghat,retail,
+8,Baghyawati Bassi,9574765466,"142, Mittal Path",Rasra Road,retail,
+9,Parth Rajagopalan,9404713332,"43/108, Bali Ganj",Gai Ghat,contractor,
+10,Neha Pillay,9906528433,"463, Boase Street",Civil Lines,retail,
+11,Hardik Dey,9149621604,"50/568, Varghese Chowk",Sikta Mohalla,retail,
+12,Daksh Mane,9776205431,"11/85, Menon Chowk",Dubhar,retail,
+13,Aryan Bera,9258453521,,Sikta Mohalla,retail,
+14,Ucchal Shetty,9334978881,"H.No. 472
+Halder Circle",Bansdih,contractor,
+15,Victor Mangat,9698509918,"47/520
+Chahal Marg",Reoti,retail,
+16,Gaurangi Dugar,9598906879,"94
+Mahajan Marg",Sikandarpur,retail,
+17,Rushil Tella,9910943524,"16
+Palan Ganj",Bansdih,retail,
+18,Sara Joshi,9688273030,"H.No. 174, Jaggi Circle",Reoti,retail,
+19,Warinder Sharaf,9907214179,"762
+Chahal Nagar",Bansdih,retail,
+20,Yagnesh Prabhu,9356888294,,Kotwali,retail,
+21,Tripti Sha,9460613550,"H.No. 41
+Chowdhury",Rasra Road,retail,
+22,Lila Acharya,9511281012,"23
+Iyengar Circle",Sikta Mohalla,retail,
+23,Vinaya Kadakia,9455281184,"61, Sathe",Civil Lines,retail,
+24,Watika Menon,9518197538,"H.No. 63, Bhandari Street",Mau Bazar,painter,
+25,Yuvraj Soni,9922050912,"40
+Sagar Chowk",Gai Ghat,painter,
+26,Yasti Master,9518744974,"897, Dhar Nagar",Dubhar,retail,
+27,Ishani Khalsa,9888807316,"H.No. 95
+Kashyap Marg",Civil Lines,retail,
+28,Darsh Din,9393062061,,Gai Ghat,retail,
+29,Anusha Bhattacharyya,9956998797,"H.No. 84, Cheema Chowk",Reoti,contractor,
+30,Bhavna Muni,9768143326,"H.No. 99, Saraf Street",Sikandarpur,painter,
+31,Ranveer Banik,9129100607,"H.No. 255, Kalita Nagar",Reoti,contractor,
+32,Mitesh Raj,9379340713,"643, Keer Chowk",Gai Ghat,retail,
+33,Luke Tak,9507083673,"73, Kothari Zila",Dubhar,retail,
+34,Naksh Dugal,9187946147,"78
+Rai Street",Mau Bazar,retail,
+35,Udant Kanda,9475767056,,Mau Bazar,painter,
+36,Triya Bir,9365518424,,Rasra Road,contractor,
+37,Omaja Kurian,9608482316,"H.No. 407, Barad Road",Civil Lines,retail,
+38,Chatura Nagar,9375139575,"H.No. 99
+Buch Zila",Sikandarpur,retail,
+39,Max Mani,9871330207,"71/582
+Sidhu Ganj",Kotwali,painter,
+40,Manya Agate,9434961542,"77/37
+Bora",Dubhar,contractor,
+41,Atharv Mital,9867741192,"05/81, Wable Marg",Civil Lines,retail,
+42,Darsh D’Alia,9929445037,"H.No. 17
+Buch Marg",Sikta Mohalla,retail,
+43,Orinder Gandhi,9707665448,"H.No. 24
+Nadkarni Zila",Dubhar,contractor,
+44,Darsh Bala,9174041730,"35/60
+Mahal Street",Dubhar,contractor,
+45,Yashawini Chander,9213321496,"H.No. 06, Dara Nagar",Reoti,painter,
+46,Nathaniel Dada,9567600762,"02/073
+Mittal Chowk",Kotwali,contractor,
+47,Rachita Sha,9677858758,"842
+Virk Nagar",Sikandarpur,contractor,
+48,Yochana Pandey,9363598427,"68/41, Chatterjee Nagar",Reoti,retail,
+49,Chandresh Dora,9598976917,"00/857, Bhavsar Ganj",Gai Ghat,retail,
+50,Radhika Barman,9448981305,"29
+Modi Marg",Kotwali,retail,
+51,Hemangini Sami,9740116562,"95/704
+Kota Nagar",Mau Bazar,retail,
+52,Brijesh Deep,9305145276,"92
+Bhandari Path",Reoti,retail,
+53,Tripti Reddy,9358045858,"61/47
+Toor Chowk",Reoti,contractor,
+54,Ijaya Mukhopadhyay,9118514813,"H.No. 957
+Issac Path",Civil Lines,retail,
+55,Falguni Prabhakar,9496232693,"73/758
+Dey Marg",Dubhar,contractor,
+56,Lopa Comar,9690975123,"H.No. 71, Chana Path",Kotwali,painter,
+57,Udant Nagy,9347538338,"08/806
+Sandal Street",Sikta Mohalla,retail,
+58,Eesha Parikh,9918394863,"67, Peri Zila",Reoti,contractor,
+59,Jeremiah Kuruvilla,9733064117,"55, Apte",Kotwali,retail,
+60,Zarna Dhillon,9994027897,"82, Karnik Marg",Rasra Road,painter,
+61,Ira Peri,9860229059,"40/028
+Brar Street",Mau Bazar,retail,
+62,Qasim Pall,9848846217,"265, Sunder Marg",Reoti,contractor,
+63,Kamala Nazareth,9113169872,"34, Mishra Ganj",Reoti,retail,
+64,Vasudha Narasimhan,9155165334,"42, Jani",Sikta Mohalla,retail,
+65,Praneel Batta,9530256336,"56/036, Saran Street",Mau Bazar,painter,
+66,Eesha Tiwari,9970957171,"37/82
+Karpe Path",Civil Lines,retail,
+67,Eesha Majumdar,9920814900,"67/207, Rau Ganj",Sikandarpur,retail,
+68,Vrishti Natt,9661107986,"H.No. 50, Sekhon",Kotwali,retail,
+69,Rachita Verma,9560452529,"93/85
+De Road",Sikandarpur,painter,
+70,Aarna Bassi,9206551233,"H.No. 85, Das Path",Civil Lines,painter,
+71,Vidhi Palla,9187174381,"58, Gopal Circle",Sikta Mohalla,retail,
+72,Hemangini Pau,9538642403,"15/74, Sanghvi Chowk",Kotwali,retail,
+73,Matthew Sundaram,9409350265,"H.No. 360
+Rattan Ganj",Reoti,retail,
+74,Qushi Lalla,9350636897,"H.No. 73, Sahni Marg",Sikandarpur,retail,
+75,Vedika Prabhakar,9312406764,"H.No. 044, Mahal",Rasra Road,contractor,
+76,Omkaar Amble,9176675731,"H.No. 402
+Bobal Path",Sikandarpur,painter,
+77,Lakshmi Bansal,9711181411,"723
+Rama Path",Reoti,contractor,
+78,Orinder Patel,9851333320,"19/300
+Ram Nagar",Bansdih,contractor,
+79,Wridesh Radhakrishnan,9186373782,"49/588, Rajan Marg",Gai Ghat,retail,
+80,Bhavya Sodhi,9127772220,"H.No. 025, Warrior Ganj",Sikandarpur,contractor,
+81,Mitesh Peri,9122275263,"67/347, Oak Nagar",Kotwali,contractor,
+82,Girindra Ben,9919382051,"98
+Rana Chowk",Reoti,contractor,
+83,Anamika Konda,9294872482,"80, Samra Marg",Reoti,painter,
+84,Odika Date,9604669821,"98/94, Lal Circle",Sikta Mohalla,painter,
+85,Ojas Sharma,9454123990,"45/70, Bhakta",Dubhar,painter,
+86,Isaiah Datta,9690661,"831
+Parmer Chowk",Gai Ghat,painter,
+87,Harrison Wali,9929517022,"H.No. 77, Rajan Ganj",Mau Bazar,retail,
+88,Riya Ravi,9682605435,,Bansdih,contractor,
+89,Chasmum Nayak,9912224654,"472, Pandya Road",Mau Bazar,retail,
+90,Sai Vala,9689720101,"83/28
+Raman Marg",Reoti,retail,
+91,Amaira Yogi,9776481264,"H.No. 267
+Mohanty Ganj",Rasra Road,retail,
+92,Aadi Sarkar,9114682844,"392
+Yohannan Nagar",Sikta Mohalla,retail,
+93,Hemang Tiwari,9226128312,"H.No. 957, Sinha Street",Kotwali,retail,
+94,Yahvi Bahl,9393587744,"H.No. 62
+De Zila",Reoti,retail,
+95,Samar Upadhyay,9691916368,"460
+Pathak Marg",Sikandarpur,retail,
+96,Dalbir Kata,9246574716,"73/258, Thakkar Path",Dubhar,contractor,
+97,Shivansh Dey,9945805127,"778
+Sane Zila",Kotwali,retail,
+98,Frado Sood,9999232921,"25/098, Bir Nagar",Reoti,contractor,
+99,Hamsini Kibe,9579476614,"H.No. 291
+Som",Bansdih,painter,
+100,Ikbal Choudhury,9505026213,"H.No. 43, Pradhan",Civil Lines,contractor,
+101,Darpan Shan,9356415500,"222, Venkatesh Path",Dubhar,painter,
+102,Mitesh Khare,9899621068,"H.No. 33, Gala Ganj",Dubhar,retail,
+103,Anirudh Ben,9812630453,"19/06
+Atwal Path",Rasra Road,retail,
+104,Vincent Walla,9139749508,"98/48, Bava Circle",Gai Ghat,retail,
+105,Mugdha Garde,9572775194,"H.No. 55, Dora Chowk",Mau Bazar,painter,
+106,Krishna Parmar,9540211187,"266, Barad Street",Sikta Mohalla,contractor,
+107,Krishna Kota,9384566044,"82, Khosla Circle",Sikta Mohalla,retail,
+108,Abeer Anne,9824085842,"646
+Bedi Zila",Gai Ghat,painter,
+109,Pavani Pall,9915401487,"H.No. 904, Gera Road",Sikandarpur,contractor,
+110,Gavin Shroff,9777703980,"21/42
+Verma Path",Civil Lines,retail,
+111,Gunbir Balasubramanian,9565973314,"H.No. 531
+Wable Zila",Sikta Mohalla,contractor,
+112,Aarush Naik,9845178074,,Gai Ghat,retail,
+113,Ekta Garde,9415001254,"H.No. 82
+Kapur Marg",Civil Lines,contractor,
+114,Ijaya Shukla,9707660630,"52/602
+Som Zila",Rasra Road,retail,
+115,Megha Jayaraman,9510753814,"H.No. 14
+Sahni Path",Sikandarpur,retail,
+116,Hemal Mahajan,9595155950,"82, Dugal Chowk",Mau Bazar,retail,
+117,Aradhana Sehgal,9599561877,"08, Mall Road",Rasra Road,painter,
+118,Jeremiah Kalla,9471048258,"846
+Vora Path",Dubhar,retail,
+119,Sai Gupta,9590523712,"H.No. 085, Ramachandran Ganj",Dubhar,contractor,
+120,Faqid Sodhi,9214518079,"09/31, Mand Chowk",Sikandarpur,painter,
+121,Adya Mutti,9850845198,"430
+Dara Zila",Dubhar,retail,
+122,Diya Chowdhury,9707661655,"489, Dey Path",Mau Bazar,retail,
+123,Kabir Maharaj,9900122509,"54
+Chopra Nagar",Kotwali,painter,
+124,Hardik Comar,9478301747,"75/071, Bahri Ganj",Kotwali,contractor,
+125,Ekta Mani,9874090950,"66/639, Vohra Marg",Rasra Road,contractor,
+126,Balhaar Goel,9773728014,"960, Gola Zila",Reoti,contractor,
+127,Jack Koshy,9491766764,"90/851, Shetty Road",Kotwali,retail,
+128,Upkaar Seshadri,9546143048,"30/15
+Dhillon",Bansdih,retail,
+129,Reyansh Baral,9492836532,"H.No. 642, Maharaj Zila",Rasra Road,painter,
+130,Gaurang Rajagopalan,9985503942,"H.No. 763
+Samra",Kotwali,retail,
+131,Harini Loyal,9463692735,"95, Rau Chowk",Sikta Mohalla,contractor,
+132,Parth Keer,9342251928,"306, Karan Marg",Dubhar,retail,
+133,Sudiksha Kanda,9963919401,"360
+Boase Chowk",Dubhar,painter,
+134,Yasti Chander,9676140134,"81/79
+Chatterjee Circle",Kotwali,retail,
+135,Yatin Ganguly,9983063850,"H.No. 234, Hari Road",Civil Lines,contractor,
+136,Zaid Khurana,9765233376,"H.No. 906, Mukherjee Nagar",Sikandarpur,retail,
+137,Anay Wason,9167878777,"09/45, Swaminathan Chowk",Kotwali,retail,
+138,Logan Mand,9225279834,"85/747
+Dewan Chowk",Kotwali,contractor,
+139,Yashoda Kakar,9224683417,"68, Devi Path",Rasra Road,painter,
+140,Max Sharma,9498370582,"90/89, Dara Zila",Bansdih,retail,
+141,Jeevika Boase,9897005281,"79, Tailor",Sikta Mohalla,retail,
+142,Ansh Kalla,9761051532,"77/76, Patla Circle",Mau Bazar,painter,
+143,Shivansh Sidhu,9577488537,"H.No. 67, Arya Circle",Sikta Mohalla,retail,
+144,Chameli Bava,9494422907,"32/633
+Nath Path",Gai Ghat,painter,
+145,Kabir Bhatnagar,9396225446,"54/344
+Varughese Circle",Reoti,retail,
+146,Jhalak Ben,9327746886,"06/392
+Ram Circle",Mau Bazar,retail,
+147,Dakshesh Lad,9458102728,"02, Padmanabhan Path",Sikandarpur,retail,
+148,Eesha Swamy,9991010113,"94/853, Mitra Path",Civil Lines,retail,
+149,Kritika Parmar,9350180427,"H.No. 094
+Padmanabhan Zila",Sikandarpur,painter,
+150,Vinaya Kalla,9255357534,"24/492
+Mutti Nagar",Rasra Road,retail,
+151,Vidhi Wali,9127681228,"H.No. 68
+Chaudhari",Civil Lines,retail,
+152,Tejas Tiwari,9116944811,,Dubhar,contractor,
+153,Wriddhish Oak,9900651998,"72/688
+Buch Nagar",Gai Ghat,retail,
+154,Kamala Seshadri,9217095851,"852, Bhasin Circle",Sikandarpur,retail,
+155,Niharika Sethi,9940983577,"90/967, Buch Street",Kotwali,retail,
+156,Faris Sagar,9133447745,"H.No. 31
+Jayaraman Road",Dubhar,retail,
+157,Vrinda Ben,9215923129,"40/730, Walia Marg",Sikta Mohalla,retail,
+158,Alka Chaudhari,9445864933,,Kotwali,painter,
+159,Rachit Lanka,9728530544,"H.No. 694
+Varghese Ganj",Sikandarpur,contractor,
+160,Gopal Balay,9587173220,"906
+Srinivasan Street",Sikta Mohalla,retail,
+161,Darpan Mishra,9798916441,"179, Iyer Nagar",Civil Lines,painter,
+162,Zashil Ratti,9345343109,"H.No. 512, Lad Zila",Dubhar,retail,
+163,Anita Sood,9202097643,"H.No. 114, Wadhwa Chowk",Kotwali,retail,
+164,Zayan Acharya,9263894795,"H.No. 875, Tiwari Nagar",Sikta Mohalla,retail,
+165,Frederick Sani,9200105056,"25/68
+Venkataraman Zila",Gai Ghat,painter,
+166,Upadhriti Srinivas,9729712082,"958, Dyal",Sikta Mohalla,contractor,
+167,Chandani Thakkar,9814403943,"92
+Kala Nagar",Mau Bazar,retail,
+168,Dhriti Tiwari,9744685429,"45/12
+Basak Chowk",Bansdih,painter,
+169,Idika Palan,9805165232,"H.No. 88, Agrawal Marg",Gai Ghat,retail,
+170,George Tata,9494665673,"H.No. 081
+Nagi Zila",Civil Lines,painter,
+171,Shivani Morar,9702332331,"H.No. 408
+Pillay Circle",Sikandarpur,painter,
+172,Omisha Mutti,969779476,"H.No. 32
+Modi Marg",Kotwali,contractor,
+173,Nisha Gopal,9393421844,"H.No. 37
+Dubey Zila",Gai Ghat,retail,
+174,Yadavi Prakash,9294782734,"H.No. 713, Sundaram Nagar",Dubhar,retail,
+175,Warinder Dora,9895609471,,Bansdih,retail,
+176,Ishanvi Barad,9550791704,"14/981, Palan Chowk",Kotwali,retail,
+177,Bhavini Kala,9934120892,"889
+Bhakta Circle",Mau Bazar,contractor,
+178,Maya Tandon,9910069356,"613, Keer Chowk",Kotwali,retail,
+179,Darika Bahri,9555282394,"08/453
+Keer Path",Kotwali,retail,
+180,Advay Bhatnagar,9650127661,"H.No. 19
+Chahal Marg",Kotwali,retail,
+181,Krisha Manne,9736873048,"66
+Suresh Ganj",Mau Bazar,contractor,
+182,Ishaan Deol,9743520276,"55, Narang Road",Civil Lines,retail,
+183,Qadim Guha,9920511515,"60, Bhagat Chowk",Mau Bazar,contractor,
+184,Rajata Tandon,9562412302,"H.No. 81
+Bhatia Street",Civil Lines,retail,
+185,Abha Agrawal,9994807263,"50/81
+Bahri Chowk",Dubhar,retail,
+186,Keya Tara,9145421708,"566
+Sankaran Path",Sikta Mohalla,painter,
+187,Udant Natt,9718216692,"735
+Kar Road",Dubhar,painter,
+188,Madhav Sane,95349001,"26
+Rau Nagar",Sikandarpur,retail,
+189,Hemangini Khalsa,9840463141,"H.No. 53, Merchant Ganj",Sikta Mohalla,retail,
+190,Lila Kumar,9732295732,,Kotwali,retail,
+191,Akshay Bandi,9337911187,"925, Shetty Marg",Bansdih,contractor,
+192,Faqid Sibal,9669732591,"H.No. 24, Yadav Circle",Gai Ghat,contractor,
+193,Hemang Kumer,9979339361,"74/818
+Chakraborty Zila",Sikta Mohalla,retail,
+194,Fitan Ghosh,9311818984,"507
+Jani Path",Sikta Mohalla,retail,
+195,Harrison Boase,9929839316,"H.No. 87, Hegde Chowk",Sikandarpur,retail,
+196,George Mukherjee,9582008349,"77/57
+Ghosh Marg",Sikandarpur,contractor,
+197,Ayushman Kadakia,9773469560,"96/290, Kota Circle",Reoti,retail,
+198,Ladli Sandal,9425150964,"H.No. 93
+Dube",Gai Ghat,retail,
+199,Hritik Kata,9433297890,,Gai Ghat,retail,
+200,Yachana Khanna,9182389284,"31
+Raman Circle",Sikta Mohalla,painter,
+201,Hemal Karan,9723123952,"H.No. 69
+Soni",Mau Bazar,retail,
+202,Rayaan Mander,9969533218,"H.No. 650
+Vora Ganj",Sikandarpur,retail,
+203,Hemangini Kala,9261985842,"13
+Sankaran Ganj",Gai Ghat,retail,
+204,Gauri Dhingra,9190547712,"H.No. 205
+Chand Marg",Civil Lines,painter,
+205,Faris Ramakrishnan,9571825556,"H.No. 92, Deol Chowk",Gai Ghat,contractor,
+206,Jasmit Vaidya,9403754671,"467
+Goel",Sikandarpur,retail,
+207,Krishna Vohra,9777409303,,Sikta Mohalla,retail,
+208,Qasim Char,9515070154,"11, Bassi Chowk",Sikandarpur,contractor,
+209,Vedant Buch,9457944766,"36/512, Raval Street",Gai Ghat,painter,
+210,Watika Wagle,9804433388,"18/706
+Thakkar Nagar",Sikandarpur,retail,
+211,Ayushman Sharma,9190966348,"15/301
+Guha",Gai Ghat,contractor,
+212,Amara Buch,9819532005,"45/211
+Bhandari Marg",Bansdih,painter,
+213,Dipta Cherian,9819896690,"33, Pandya Road",Gai Ghat,retail,
+214,Garima Goswami,9329987621,"560, Kadakia Circle",Civil Lines,retail,
+215,Veer Kuruvilla,9247709679,"H.No. 26
+Misra Path",Sikta Mohalla,retail,
+216,Fitan Bansal,9679574436,"42/33
+Saran Street",Mau Bazar,retail,
+217,Yachana Goda,9922816526,"077, Krish Circle",Rasra Road,contractor,
+218,Girik Boase,9992649957,"H.No. 260, Dixit Street",Rasra Road,retail,
+219,Ishanvi Peri,9146914391,"755
+Thaman",Civil Lines,contractor,
+220,Fiyaz Sarkar,9755621841,"57
+Buch Path",Reoti,painter,
+221,Jonathan Choudhury,9356805216,"16/52, Puri Circle",Reoti,retail,
+222,Max Mallick,9308323285,"24
+Thakur Ganj",Reoti,painter,
+223,Odika Wable,9402550088,"288, Sundaram Chowk",Dubhar,retail,
+224,Tripti Goswami,9977130288,"H.No. 525, Raval Nagar",Kotwali,painter,
+225,Ekantika Borah,9616030284,"061
+Agrawal Zila",Sikta Mohalla,retail,
+226,Hamsini Brahmbhatt,9653953485,"H.No. 343, Kannan Nagar",Rasra Road,contractor,
+227,Hemang Goel,9651208305,"97, Krishnamurthy Road",Civil Lines,retail,
+228,Lucky Deo,9475364113,"65/140
+Hora Road",Dubhar,painter,
+229,Vrishti Tripathi,9514642708,"H.No. 85, Dhawan Zila",Mau Bazar,retail,
+230,Chandran Choudhary,9206389694,"51
+Mahal Marg",Rasra Road,retail,
+231,Vrinda Savant,9408034406,"33/463
+Memon Marg",Rasra Road,retail,
+232,Baljiwan Bora,9603703167,,Sikta Mohalla,contractor,
+233,Udyati Dada,9331557515,"29
+Nagar",Sikandarpur,retail,
+234,Ishita Jani,9219385981,"55/32
+Sarin Ganj",Sikta Mohalla,retail,
+235,Jeevika Patla,9550784243,"58
+Choudhury Road",Sikta Mohalla,retail,
+236,Caleb Sethi,9636687537,,Bansdih,retail,
+237,Vansha Pai,9871531100,"80/51
+Ravi Nagar",Sikandarpur,contractor,
+238,Xavier Rajagopal,9712745501,"80/205, Nath Ganj",Sikta Mohalla,retail,
+239,Reyansh Sehgal,9487195336,"H.No. 44
+Sarna Circle",Bansdih,retail,
+240,Shaurya Morar,9645055605,"33/894
+Banik Zila",Reoti,contractor,
+241,Dhruv Gole,9515410649,"48/545, Behl Path",Mau Bazar,retail,
+242,Wakeeta Pillai,9172541521,"H.No. 92, Upadhyay Circle",Sikta Mohalla,retail,
+243,Ekta Pandya,9889401015,"74/075
+Walla Ganj",Gai Ghat,contractor,
+244,Theodore Barad,9973498494,"65/40, Borde Zila",Reoti,retail,
+245,Triveni Anand,9613818935,"H.No. 33, Vasa Path",Sikta Mohalla,painter,
+246,Matthew Loyal,9591429,,Civil Lines,contractor,
+247,Chandran Lata,9438868427,"25
+Sarna",Bansdih,painter,
+248,Avni Konda,9139321248,"H.No. 80
+Gopal Nagar",Gai Ghat,retail,
+249,Ikbal Balakrishnan,9151329185,"16/962
+Khurana Ganj",Sikta Mohalla,painter,
+250,Dakshesh Nath,9569172971,"85/165
+Nigam Path",Dubhar,contractor,
+251,Jack Thakur,9300593456,"46/75, Doctor Ganj",Bansdih,retail,
+252,Darpan Rama,9188703430,,Sikandarpur,retail,
+253,Falak Goswami,9293763673,"49/98, Seth Path",Sikta Mohalla,painter,
+254,Sara Deshmukh,9417440983,"74/209
+Reddy Road",Dubhar,retail,
+255,Damyanti Mangat,9576642996,,Gai Ghat,retail,
+256,Saumya Ramaswamy,9567013808,"13/46, Barad Zila",Mau Bazar,contractor,
+257,Sarthak Solanki,9536164913,"H.No. 343, Bala Road",Rasra Road,contractor,
+258,Jhalak Guha,9253308283,"H.No. 383
+Bahri Nagar",Reoti,painter,
+259,Ekapad Doctor,9172191273,"04
+Sinha Nagar",Gai Ghat,retail,
+260,Vrinda Nadkarni,9709074,"H.No. 783, Sridhar Ganj",Gai Ghat,retail,
+261,Joshua Pandey,9919355714,"49/410
+Lalla Road",Gai Ghat,retail,
+262,Yutika Sura,9797460535,"81, Swaminathan Circle",Mau Bazar,retail,
+263,Ekavir Deo,9635844374,"H.No. 175, Khare Street",Sikta Mohalla,contractor,
+264,Xavier Mane,9379484009,"98
+Tailor Marg",Sikandarpur,retail,
+265,Jatin Verma,9627422192,"80/666, Patla Circle",Sikta Mohalla,retail,
+266,Isaac Kala,9865975088,"589, Golla",Gai Ghat,retail,
+267,Nitesh Majumdar,9861863296,"H.No. 813, Agarwal",Kotwali,contractor,
+268,Chandran Guha,9864299201,"78/779
+Viswanathan Street",Rasra Road,painter,
+269,Bhavika Basu,9646272321,"H.No. 69, Gaba Road",Rasra Road,contractor,
+270,Girish More,963045201,"66
+Naik Road",Reoti,retail,
+271,Anay Sachdeva,9192573170,"449
+Morar Marg",Reoti,contractor,
+272,Anya Shankar,9925884151,"40, Gera Ganj",Rasra Road,retail,
+273,Udarsh Gandhi,9789705810,"69/12, Mander Nagar",Bansdih,painter,
+274,Arya Pathak,9990189659,"41/163, Ganesh Road",Rasra Road,retail,
+275,Ansh Banerjee,9238548086,"679, Walla Zila",Mau Bazar,contractor,
+276,Chanchal Ramakrishnan,9656307931,"85/898, Menon Road",Gai Ghat,painter,
+277,Varenya Chaudhry,9342096876,"80, Balakrishnan Chowk",Kotwali,painter,
+278,Janani Chowdhury,9369085407,"815
+Yadav Path",Kotwali,painter,
+279,Mitesh Lanka,9425155441,"43/60, Vig Road",Rasra Road,retail,
+280,Pratyush Kamdar,9723464439,"36/315, Barman Path",Sikandarpur,contractor,
+281,Pallavi More,9705180,"83/084, Sharaf Ganj",Sikandarpur,retail,
+282,Neelima Narang,9326353775,"755
+Murthy Ganj",Mau Bazar,retail,
+283,Nihal Bava,9773412230,"61
+Bhatia Zila",Kotwali,retail,
+284,Vritti Doshi,9964027324,"64, Chander Ganj",Reoti,retail,
+285,Barkha Batra,9164331134,"37/52
+Buch Marg",Reoti,retail,
+286,Rehaan Bobal,9751396498,"460
+Jain Street",Gai Ghat,retail,
+287,Dhruv Sunder,9240409084,"H.No. 56, Dave Ganj",Sikta Mohalla,painter,
+288,Dhruv Chauhan,9600871106,"536
+Mital Ganj",Rasra Road,retail,
+289,Tara Din,9411612760,"19/12, Biswas Nagar",Dubhar,retail,
+290,Panini Lata,9271476207,"25/500, Narula Chowk",Gai Ghat,retail,
+291,Wahab Singhal,9271092615,"H.No. 95, Purohit Path",Reoti,retail,
+292,Meera Bera,96340472,"H.No. 36
+Mittal Road",Civil Lines,painter,
+293,Reva Mohanty,94789182,"489
+Vohra",Reoti,retail,
+294,Jagvi Vaidya,9108780419,"H.No. 419, Bains",Kotwali,retail,
+295,Shivansh Zacharia,9920184955,,Mau Bazar,contractor,
+296,Gaurav Prabhu,9309009538,"H.No. 541, Lata",Dubhar,contractor,
+297,Krish Dara,9920772671,"H.No. 772
+Chaudhari Chowk",Sikandarpur,retail,
+298,Vincent Guha,9227572362,"62/15
+Shroff Marg",Gai Ghat,contractor,
+299,Hemani Lalla,9464090064,"H.No. 58
+Jain",Rasra Road,contractor,
+300,Janaki Seth,9646666136,,Mau Bazar,retail,
+301,Anthony Sahota,9457599735,"08, Boase Nagar",Rasra Road,retail,
+302,Bina Mital,9653520069,"H.No. 288
+Shukla Nagar",Gai Ghat,contractor,
+303,Caleb Arya,9761962359,"72/83
+Ben Path",Gai Ghat,retail,
+304,Nirja Nayak,9647301347,"57/482, Sharma Chowk",Kotwali,retail,
+305,Divya Raja,9117863798,"31/594, Pillay Marg",Dubhar,retail,
+306,Nidhi Mukherjee,9955508961,"413
+Kanda Path",Mau Bazar,contractor,
+307,Ayushman Kapur,9385111130,"63/00
+Tank Street",Sikandarpur,contractor,
+308,Tanay Goswami,9874597473,"41/17
+Bedi Ganj",Bansdih,contractor,
+309,Ekaraj Contractor,9765436255,"357, Agrawal Ganj",Civil Lines,contractor,
+310,Qasim Kohli,9852178601,,Gai Ghat,contractor,
+311,Yashodhara Wable,9543412542,"570, Bir Ganj",Sikandarpur,retail,
+312,Forum Acharya,9890099255,"81/74
+Bhardwaj Ganj",Bansdih,painter,
+313,Charvi Goyal,9449019278,"71/15, Kurian Path",Dubhar,retail,
+314,Urvi Kaul,9285953213,"H.No. 05
+Sami Road",Bansdih,retail,
+315,Lila Wali,9928917719,"13/829, Som Ganj",Kotwali,retail,
+316,Inaya Chander,9306442077,"04/84, Vohra Marg",Kotwali,contractor,
+317,Qasim Peri,9419561201,"49/69
+Hayre Zila",Reoti,retail,
+318,Wahab Verma,9474524558,"50/37
+Devi",Kotwali,retail,
+319,Warhi Jayaraman,9715766024,"H.No. 942
+Parikh",Dubhar,retail,
+320,Siya Wason,9930071496,"974, Natt Chowk",Kotwali,painter,
+321,Anjali Walla,9184857208,"573, Venkataraman Nagar",Kotwali,painter,
+322,Patrick Dass,9329766590,"466, Sandhu Ganj",Bansdih,contractor,
+323,Ronith Bhat,9761078179,"H.No. 884, Bhat Street",Mau Bazar,retail,
+324,Advaith Sandal,9670201461,"14/36
+Shanker Street",Sikta Mohalla,contractor,
+325,Sara Kohli,9870257350,"49, Singh Chowk",Rasra Road,retail,
+326,Pooja Sengupta,9690936560,"884
+Jha Path",Reoti,retail,
+327,Lajita Contractor,9314164216,"H.No. 350
+Dhar Circle",Kotwali,retail,
+328,Brijesh Bhattacharyya,9925412179,"18
+Puri Chowk",Bansdih,contractor,
+329,Gaurika Puri,9140048684,"62/140, Mutti Zila",Rasra Road,contractor,
+330,Matthew Salvi,9139019611,"H.No. 576
+Ramakrishnan Zila",Reoti,painter,
+331,Nidra Nagar,9904236062,"424, Garde Zila",Mau Bazar,retail,
+332,Aditya Saini,9709844411,"H.No. 64, Dugar Street",Gai Ghat,retail,
+333,Nilima Pathak,9788603957,"67, Gour",Rasra Road,retail,
+334,Timothy Dash,9602533479,"H.No. 756, Ram Marg",Gai Ghat,painter,
+335,Alexander Divan,9592755658,"H.No. 043, Raj",Mau Bazar,retail,
+336,Aarnav Karpe,9949080318,"791
+Swamy Circle",Civil Lines,contractor,
+337,Anay Ramachandran,9785826598,"H.No. 13, Deshpande Path",Bansdih,retail,
+338,Daksha Walla,9530391423,"87/169
+Varkey",Rasra Road,retail,
+339,Upadhriti Bhattacharyya,93663385,"28/59
+Desai Nagar",Kotwali,retail,
+340,Janya De,9424211872,"H.No. 20, Lal Nagar",Kotwali,painter,
+341,Dominic Goswami,9843854609,"61/48, Keer",Reoti,contractor,
+342,Arunima Guha,9535312769,"55/54, Thaman",Kotwali,retail,
+343,Arin Ravi,9416794215,"510
+Goyal Nagar",Rasra Road,contractor,
+344,Chatresh Arya,9588529624,"65/32, Vala",Dubhar,retail,
+345,Ladli Bhardwaj,9605547798,"008
+Gopal Path",Civil Lines,contractor,
+346,Januja Sandhu,9830511568,"H.No. 718
+Pingle Ganj",Sikta Mohalla,contractor,
+347,Damini Chana,9667121569,,Sikandarpur,retail,
+348,Ronith Sathe,9989889367,"10
+Hayer Ganj",Sikandarpur,retail,
+349,Rachana Khanna,9276670424,"90, Bali Marg",Sikta Mohalla,retail,
+350,Bhavani Ratta,9869784803,"57
+Kamdar Path",Bansdih,contractor,
+351,Simon Talwar,9159738492,"89/434, Goyal",Reoti,retail,
+352,Andrew Hans,9700003920,"02, Chahal Ganj",Mau Bazar,contractor,
+353,Prisha Amble,9976659,"379, Chad Ganj",Mau Bazar,retail,
+354,Jack Oommen,9852032540,"H.No. 05, Saxena",Sikta Mohalla,retail,
+355,Keya Dar,96068825,"91, Loke Street",Rasra Road,painter,
+356,Janani Swaminathan,9883068639,"62/13, Dara",Dubhar,contractor,
+357,Ranbir Shere,9505333621,"H.No. 37
+Thakkar Path",Bansdih,retail,
+358,Brinda Ramesh,9473415078,"H.No. 057, Vig Ganj",Dubhar,contractor,
+359,Eesha Minhas,9881531720,"H.No. 516, Sarkar Ganj",Mau Bazar,retail,
+360,Ansh Mani,9597146648,"H.No. 613, Tella Road",Bansdih,painter,
+361,Laksh Sagar,9346599912,"H.No. 43, Bose Road",Kotwali,retail,
+362,Janaki Sahni,9878488534,,Dubhar,retail,
+363,Henry Ratta,9116799547,,Sikandarpur,contractor,
+364,Pahal Seth,9741866641,"08
+Deol Nagar",Civil Lines,retail,
+365,Ethan Sankaran,9531929128,"479, Rajan Street",Mau Bazar,contractor,
+366,Omya Chaudhari,9410594268,"96, Subramaniam Marg",Sikandarpur,retail,
+367,Om Pillai,9742009209,"88/720
+Bedi Marg",Civil Lines,retail,
+368,Jack Kibe,9253824712,"83/268
+Ahluwalia Circle",Dubhar,retail,
+369,Azaan Konda,9165452764,"25/223, Chaudhary Street",Rasra Road,retail,
+370,Suhani Sarraf,9558703133,,Gai Ghat,contractor,
+371,Aadhya Koshy,9820848547,"775
+Mani Marg",Dubhar,painter,
+372,Gautam Handa,9422002819,"49, Kakar Ganj",Reoti,retail,
+373,Vaishnavi Balan,9341961866,"86/174
+Shroff Zila",Reoti,retail,
+374,Mugdha Pradhan,9547221915,"85/86
+Panchal Chowk",Civil Lines,contractor,
+375,Abeer Jain,9454617185,"29/128
+Ratta Chowk",Gai Ghat,retail,
+376,Kalpit Kapoor,9878016905,,Dubhar,retail,
+377,Urmi Misra,9747382,"H.No. 093, Badami Nagar",Sikandarpur,contractor,
+378,Ikshita Brar,9700061135,"33
+Salvi Street",Gai Ghat,contractor,
+379,Jeevika Butala,9116464447,"H.No. 08
+Sampath Circle",Sikta Mohalla,retail,
+380,Darsh Mall,9909956465,"H.No. 10, Banik Road",Sikandarpur,contractor,
+381,Sneha Nagi,9525880424,"466
+Bakshi Nagar",Kotwali,contractor,
+382,Warjas Goyal,9673002461,"17/51, Date Road",Gai Ghat,retail,
+383,Indira Thaker,9633947427,"H.No. 92, Murty Chowk",Reoti,retail,
+384,Jagrati Khurana,9443847870,"H.No. 60
+Shan Circle",Dubhar,contractor,
+385,Rajeshri Kurian,9337591250,,Bansdih,retail,
+386,Balhaar Srivastava,9721849977,"061, Madan",Civil Lines,painter,
+387,Chakradhar Agrawal,9711806831,"24/34, Raval Path",Gai Ghat,retail,
+388,Madhav Deol,9982177625,"H.No. 522, Mitra Circle",Reoti,retail,
+389,Aarnav Balay,9886808192,"H.No. 32
+Chanda Ganj",Bansdih,retail,
+390,Qushi Karan,9682115008,"H.No. 72, Sinha Chowk",Bansdih,retail,
+391,Jeremiah Balasubramanian,9179811669,"42, Hora Circle",Mau Bazar,retail,
+392,Jeet Ravi,9777210736,"627, Chowdhury Marg",Mau Bazar,retail,
+393,Urishilla Bala,9589636644,"774, Nath Street",Sikandarpur,retail,
+394,Nimrat Nagarajan,9807901168,,Bansdih,painter,
+395,Daniel Barad,9117959560,"88/50, Gala Path",Kotwali,retail,
+396,Devika Devi,9973120912,"58/98, Kamdar Marg",Rasra Road,retail,
+397,Girish Seth,9203416251,"14/820
+Bobal Ganj",Sikandarpur,retail,
+398,Vasatika Jayaraman,9975329786,"12
+Mohanty Ganj",Sikta Mohalla,retail,
+399,Advay Mukhopadhyay,9535968611,"H.No. 279
+Vasa Street",Civil Lines,retail,
+400,Widisha Saxena,9989124880,"H.No. 60
+Natt Path",Mau Bazar,retail,
+401,Tanish Sane,9507231644,"81/767
+Raj Street",Mau Bazar,retail,
+402,Lila Gaba,9188783547,"41
+Chowdhury Ganj",Gai Ghat,contractor,
+403,Naveen Barad,9202393989,"84/455, Kanda Chowk",Civil Lines,contractor,
+404,Patrick Bansal,9843338269,"H.No. 819, Batta Circle",Mau Bazar,retail,
+405,Isaiah Bose,9834899763,"H.No. 89, Chowdhury",Sikandarpur,painter,
+406,Keya Rastogi,9292580427,"259, Goel Chowk",Civil Lines,contractor,
+407,Sachi Pingle,9907727084,"H.No. 39
+Chahal Chowk",Sikta Mohalla,contractor,
+408,Udyati Raval,9705545509,"99/62
+Kapoor Road",Dubhar,retail,
+409,Jeremiah Contractor,9894295332,"30, Kapoor Nagar",Sikta Mohalla,retail,
+410,Udyati Sachdeva,9471363809,"H.No. 005, Baral Road",Sikta Mohalla,retail,
+411,Yagnesh Vyas,9925713533,"947, Narula Street",Gai Ghat,retail,
+412,Imaran Mody,9393482659,"24, Vaidya",Civil Lines,retail,
+413,Qushi Sharma,9503111666,"H.No. 889, Kannan Chowk",Dubhar,retail,
+414,Sachi Sani,9764233758,"H.No. 99
+Bakshi Nagar",Sikta Mohalla,retail,
+415,Neelima Chhabra,9265593497,"H.No. 518
+Kakar",Rasra Road,retail,
+416,Thomas Bhargava,9440030663,"267
+Chokshi Street",Kotwali,contractor,
+417,Sachi Banik,9917489574,"306, Sehgal",Rasra Road,retail,
+418,David Tripathi,9698058121,"27
+Swaminathan Marg",Mau Bazar,retail,
+419,Aadi Bail,9695088987,"34/340
+Dugal Ganj",Gai Ghat,retail,
+420,Tara Krish,9113250637,"951, Soman Ganj",Sikta Mohalla,painter,
+421,Damini Lad,9700797791,"H.No. 388
+Agarwal Ganj",Sikandarpur,contractor,
+422,Henry Gade,9835852444,"H.No. 470, Boase Circle",Kotwali,retail,
+423,Girindra Pandey,9256696327,"H.No. 38, Bose",Dubhar,retail,
+424,Frederick Narain,9940381893,"23/44, Menon Nagar",Civil Lines,retail,
+425,Ansh Rao,9632363811,"16, Bail Marg",Sikta Mohalla,contractor,
+426,Arya Gara,9107266407,"72/578
+Gokhale Nagar",Sikandarpur,retail,
+427,Yadavi Dyal,9453842723,"00/175, Tara Road",Sikandarpur,retail,
+428,Zaid Gola,9444311586,"H.No. 865
+Basu",Reoti,retail,
+429,Lopa Bath,9527606494,"72, Oza Ganj",Reoti,retail,
+430,Ekiya Bala,9939638591,"11, Sandhu Road",Dubhar,painter,
+431,Gayathri Dubey,9705429879,"76, Rege",Rasra Road,retail,
+432,Hiral Ramakrishnan,969066447,"65, Master Nagar",Civil Lines,contractor,
+433,Janani Dani,9412814503,,Dubhar,retail,
+434,Raksha Sarna,9249442440,"282
+Sandhu Marg",Rasra Road,contractor,
+435,Gautam Sood,9947264726,"44/382
+Brahmbhatt Zila",Sikandarpur,contractor,
+436,Xiti Choudhury,9530361198,"73/46
+Patla Ganj",Dubhar,retail,
+437,Frederick Bawa,9949030118,"57/590
+Venkatesh Zila",Bansdih,retail,
+438,Yashica Vaidya,9191248659,"H.No. 652
+Pall Path",Gai Ghat,contractor,
+439,Chatura Kaul,975785789,"23/494, Chawla Circle",Dubhar,retail,
+440,Janaki Mall,9456049246,"H.No. 599, Oak Chowk",Mau Bazar,painter,
+441,Anamika Dewan,9338371847,"H.No. 089, Deo Road",Sikandarpur,retail,
+442,Lopa Dara,9337331022,"19
+Sur Circle",Sikandarpur,contractor,
+443,Faqid Kaul,9261861139,,Sikta Mohalla,contractor,
+444,Aarnav Prabhakar,9192185888,"H.No. 97, Dhaliwal Road",Rasra Road,retail,
+445,Forum Karpe,9468365044,"855, Bajwa Path",Reoti,retail,
+446,Jeet Manne,9204821934,"08/28, Iyengar Marg",Gai Ghat,retail,
+447,Siddharth Contractor,9147978060,"59/17
+Vora Path",Gai Ghat,retail,
+448,Mugdha Gade,9827072823,"07/146
+Dhingra Nagar",Civil Lines,contractor,
+449,Bina Mallick,9692609167,"H.No. 176
+Kakar Zila",Reoti,retail,
+450,Hritik Basu,9534916368,"77, Chand Circle",Dubhar,retail,
+451,Christopher Nori,9891764728,"38/03, Malhotra Road",Sikandarpur,retail,
+452,Quincy Nadkarni,9104778194,"61/25
+Saha Zila",Sikta Mohalla,retail,
+453,Kashish Pall,9958459117,"H.No. 55, Char Nagar",Gai Ghat,contractor,
+454,Ekiya Pant,9381699808,"40/43, Walla Road",Gai Ghat,retail,
+455,Nidhi Pillay,9756387421,"76/58
+Barad Ganj",Gai Ghat,contractor,
+456,Samuel Bir,9762888128,"223
+Mistry",Kotwali,painter,
+457,Gavin Lanka,9733688460,"940, Muni Street",Sikta Mohalla,painter,
+458,Devansh Date,9225572934,"H.No. 94
+Sandal Nagar",Bansdih,retail,
+459,Watika Shankar,9740407346,"67/25
+Prasad",Rasra Road,retail,
+460,Falan Vora,9677006598,"096, Lanka Ganj",Rasra Road,retail,
+461,Vasana Sarraf,9625749126,"H.No. 142
+Mitra Ganj",Reoti,contractor,
+462,Chandran Nath,9485515372,"H.No. 119, Ravel Ganj",Civil Lines,contractor,
+463,Chanakya Char,9702994164,"64/123, Dey Ganj",Reoti,painter,
+464,Kritika Kashyap,9576582183,"12/711
+Babu Road",Mau Bazar,retail,
+465,Chasmum Handa,9336791759,"78/13, Subramanian",Bansdih,contractor,
+466,Jagat Wali,9938313402,"337, Gopal Ganj",Reoti,retail,
+467,Nitesh Kanda,9221559383,"38/16
+Naidu Circle",Bansdih,retail,
+468,Oni Subramaniam,9493914829,"H.No. 094
+Keer Chowk",Reoti,painter,
+469,Patrick Kanda,9556506372,"112
+Om",Civil Lines,retail,
+470,Odika Pillai,9134607126,"33/896, Loyal Street",Sikta Mohalla,retail,
+471,Harinakshi Dhingra,9226042285,"H.No. 10, Sidhu Path",Sikandarpur,retail,
+472,Radha Issac,9755263618,"H.No. 208, Mital Road",Rasra Road,painter,
+473,Benjamin Mitra,9973521043,,Gai Ghat,contractor,
+474,Nikita Balan,9740871060,"54/65
+Dhar Road",Kotwali,retail,
+475,Theodore Setty,9387057426,"944, Sarraf Road",Sikta Mohalla,retail,
+476,Gautami Bhatti,9905407446,"47/02
+Muni Zila",Kotwali,retail,
+477,Kashvi Sachdev,9236245128,"46/417
+Barad Nagar",Rasra Road,painter,
+478,Bakhshi Khanna,9989575564,"00/87
+Minhas Marg",Dubhar,contractor,
+479,Ryan Chadha,9720005941,"98/55, Sethi Marg",Dubhar,retail,
+480,Aarush Venkatesh,9780352629,"89/88, Kala Zila",Dubhar,retail,
+481,Deepa Palla,9398742558,"97
+Gour Ganj",Reoti,retail,
+482,Yachana Hayre,9451424185,"36, Babu Marg",Sikta Mohalla,painter,
+483,William Solanki,9592256138,"77/84
+Prakash Chowk",Sikta Mohalla,contractor,
+484,Arya Sabharwal,9527044165,"58, Kumar Street",Civil Lines,contractor,
+485,Hiral Pau,9446673808,"H.No. 24
+Kuruvilla Circle",Sikandarpur,retail,
+486,Harini Gaba,9621127607,"H.No. 800
+Merchant Path",Mau Bazar,retail,
+487,Chavvi Bawa,9772355141,"70/988
+Bath Marg",Sikta Mohalla,retail,
+488,Ekalinga Sathe,9269633510,,Dubhar,painter,
+489,Turvi Rau,9839369897,"26, Chandran Marg",Kotwali,retail,
+490,Oliver Barad,9394226159,"45, Sandal Chowk",Sikta Mohalla,retail,
+491,Yashawini Bhasin,9796763109,"570, Dada Road",Kotwali,retail,
+492,Warjas Dewan,9910924352,"H.No. 061
+Sachdev",Sikta Mohalla,contractor,
+493,Gaurang Sheth,9611967311,"39/908, Tella Path",Bansdih,retail,
+494,Vidhi Basak,91099717,"86/92
+Anne Zila",Dubhar,contractor,
+495,Logan Palla,9345829826,"52, Wadhwa Zila",Sikta Mohalla,retail,
+496,Ethan Ramakrishnan,9494666352,"035, Shankar Zila",Rasra Road,retail,
+497,Chandresh Nagi,9827070406,"H.No. 603, Bora Road",Mau Bazar,contractor,
+498,Ranbir Boase,9276218805,"02/37
+Bobal Ganj",Rasra Road,contractor,
+499,Oni Ray,9761506578,"577
+Kara Marg",Sikta Mohalla,painter,
+500,Wridesh Wadhwa,9250337960,"H.No. 27, Dutta Marg",Dubhar,painter,
+501,Chasmum Chakrabarti,9561052655,"61/59, Bedi Circle",Kotwali,retail,
+502,Jai Sahota,9366467312,"H.No. 229
+Natt Chowk",Sikandarpur,contractor,
+503,Dakshesh Mukherjee,984139304,"H.No. 14
+Bir Zila",Civil Lines,retail,
+504,Arin Khalsa,9647095694,"39, Dugar Path",Mau Bazar,retail,
+505,Yutika Shere,9952312670,"68
+Shere Chowk",Sikta Mohalla,contractor,
+506,Rehaan Bhatnagar,9785135687,"83/66
+Srivastava Ganj",Mau Bazar,retail,
+507,Ekani Badal,9439809925,"H.No. 21
+Shere Chowk",Sikandarpur,painter,
+508,Vrishti Atwal,9686645526,"26
+Sodhi Circle",Sikta Mohalla,retail,
+509,Laban Borra,9172512,,Mau Bazar,retail,
+510,Jyoti Mann,9527322429,"11, Kari Circle",Bansdih,painter,
+511,Rohan Mital,9531942087,"16, Bose Chowk",Sikandarpur,retail,
+512,Sarthak Kapur,9189761677,"72/744, Sridhar Chowk",Civil Lines,retail,
+513,Jeevika Dani,9266834924,"H.No. 52
+Basak",Sikta Mohalla,painter,
+514,Dominic Minhas,9569747059,"19
+Basu Marg",Mau Bazar,retail,
+515,Balendra Bedi,9566523205,"69/937
+Sant Nagar",Mau Bazar,retail,
+516,Yashica Krishnan,9896387342,"72/09
+Sunder Road",Mau Bazar,retail,
+517,Jeremiah Bhagat,98532294,"803
+Muni Circle",Bansdih,contractor,
+518,Upadhriti Ranganathan,9983160026,"H.No. 71, Kulkarni Marg",Rasra Road,retail,
+519,Madhav Palla,9388583671,"751
+Sarkar Ganj",Mau Bazar,contractor,
+520,Omaja Badami,9560983746,,Sikandarpur,retail,
+521,Chaitaly Singh,9632734398,"H.No. 004
+Wable Path",Reoti,contractor,
+522,Nitara Sridhar,9279187532,"937, Kota Circle",Sikta Mohalla,painter,
+523,Jairaj Yogi,9823831302,"89/277, Lala Nagar",Bansdih,painter,
+524,Mohini Merchant,9113194223,"155, Basu",Dubhar,retail,
+525,Aarini Majumdar,9292157835,"H.No. 741
+Walla Street",Bansdih,painter,
+526,Azaan Mani,9866673993,"29, Devi Nagar",Gai Ghat,painter,
+527,Chandran Panchal,9873403266,"84
+Khatri Ganj",Sikandarpur,retail,
+528,Anita Bhasin,9639062353,,Civil Lines,retail,
+529,Mugdha Shenoy,9149315449,,Reoti,painter,
+530,Chaman Patel,9930568802,"56/88, Singhal Zila",Bansdih,painter,
+531,Harsh Rastogi,9496124146,"885, Kala Nagar",Kotwali,retail,
+532,Radha Sankar,9360472583,"H.No. 60, Grewal Ganj",Reoti,contractor,
+533,Jason Nigam,9933101205,"392, Merchant Chowk",Civil Lines,painter,
+534,Manbir Ramakrishnan,954027292,"14/84
+Dube Chowk",Mau Bazar,retail,
+535,Neel Dutt,9101569849,"H.No. 866
+Chauhan Chowk",Kotwali,painter,
+536,Hemang Vohra,9355730504,"44/98
+Rajan Road",Rasra Road,retail,
+537,Aadhya Badal,9199886,"29/330
+Chaudhry Chowk",Bansdih,contractor,
+538,Arin Sethi,9499960213,"72/549
+Mahajan Chowk",Sikandarpur,retail,
+539,Jatin Seth,9243359401,"55/543, Samra Nagar",Sikandarpur,retail,
+540,Harrison Mallick,9567059305,"47/487
+Wagle Street",Kotwali,contractor,
+541,Balveer Nayak,9438238241,"H.No. 797, Kashyap Chowk",Gai Ghat,retail,
+542,Veda Ravi,9392010397,"41, Arora Road",Rasra Road,retail,
+543,Warjas Ghosh,9727825475,"58, Pau Circle",Reoti,contractor,
+544,Brijesh Mitra,9536489528,"23/105, Murty Street",Civil Lines,retail,
+545,Januja Kale,9597514616,"H.No. 319
+Pant Circle",Rasra Road,retail,
+546,Darsh Sen,9426648350,"50/182, Shan Road",Mau Bazar,painter,
+547,Hamsini Lall,9451965766,"H.No. 99
+Dhaliwal Path",Gai Ghat,retail,
+548,Shravya Konda,9152560325,"073
+Bhargava Marg",Rasra Road,retail,
+549,Eta Roy,9534212844,"45
+Subramaniam Ganj",Bansdih,retail,
+550,Siddharth Sidhu,9596115163,"89
+Khurana Chowk",Sikta Mohalla,retail,
+551,Vivaan Randhawa,9938549404,"10/042
+Dugar Chowk",Dubhar,retail,
+552,Manthan Batra,9776776838,"H.No. 37, Subramaniam Ganj",Sikandarpur,retail,
+553,Zansi Prasad,9972680546,"47/23
+Batta Marg",Civil Lines,retail,
+554,Ranveer Dua,9576130756,"H.No. 01
+Nagi Street",Gai Ghat,painter,
+555,Dominic Biswas,9594989531,"818
+Guha Marg",Dubhar,retail,
+556,Oscar Parekh,9524126612,"H.No. 683
+Sinha Street",Dubhar,painter,
+557,Jagat Pant,9330549659,"35/631
+Chauhan Street",Reoti,retail,
+558,Onveer Chokshi,9137204552,"119
+Balay Zila",Kotwali,painter,
+559,Indrajit Patla,9691297450,"91/68
+Krishna Zila",Dubhar,retail,
+560,Rajeshri Cherian,9314166184,"421, Khatri Nagar",Civil Lines,retail,
+561,Nilima Koshy,9961321417,,Dubhar,contractor,
+562,Jai Palla,9485593692,"89
+Deol Circle",Gai Ghat,contractor,
+563,Isha Vaidya,9390378111,"62/038
+Sanghvi Road",Civil Lines,retail,
+564,Robert Dyal,9970471079,,Reoti,retail,
+565,Hritik Kala,9923390510,"H.No. 063, Roy Chowk",Rasra Road,retail,
+566,Dalbir Hora,9805302800,"H.No. 38, Suri Ganj",Mau Bazar,retail,
+567,Tarak Shah,9335591393,"015
+Shenoy Chowk",Dubhar,contractor,
+568,Rohan Keer,9286521875,"534
+Pai Path",Gai Ghat,retail,
+569,Zayyan Chahal,9130286569,"53/724, Dani Path",Sikandarpur,painter,
+570,Ekalinga Walla,9704633564,"H.No. 18
+Krishnan Path",Reoti,contractor,
+571,Libni Chaudhuri,9288502642,"H.No. 436
+Chowdhury Zila",Civil Lines,retail,
+572,Vrishti Kala,9121397518,,Sikandarpur,contractor,
+573,Pushti Mangal,9240112087,"67/396, Mittal Nagar",Gai Ghat,retail,
+574,Sneha Raman,9258604568,"H.No. 758, Sur Path",Sikta Mohalla,retail,
+575,Atharv Vora,9491797490,"29/99
+Goswami Road",Dubhar,painter,
+576,Zaitra Shah,9461379699,"63/56, Prashad Circle",Rasra Road,contractor,
+577,Maanas Divan,9569083854,"539, Ratti Marg",Gai Ghat,contractor,
+578,Manbir Kannan,9703418543,"62
+Sastry Street",Gai Ghat,retail,
+579,Daksh Kaur,9732380409,"H.No. 528, Shere Circle",Kotwali,retail,
+580,Oviya Brahmbhatt,988257628,"63/72, Nori Chowk",Dubhar,retail,
+581,Anirudh Chaudhuri,9927672827,,Sikandarpur,painter,
+582,Manthan Singh,9968449816,"46/557
+Narayanan Road",Sikandarpur,retail,
+583,Hredhaan Vasa,9632774653,"623
+Mitter Marg",Civil Lines,retail,
+584,Wazir Chahal,9443080569,"22, Mukhopadhyay Zila",Sikta Mohalla,retail,
+585,Isaiah Kari,9819433407,"46/291
+Desai Marg",Reoti,painter,
+586,Mohini Shere,9325146786,,Kotwali,retail,
+587,Odika Pillai,98735382,"H.No. 10, Dave Road",Dubhar,contractor,
+588,Oeshi Gaba,9544549689,"85/610, Nagar Zila",Bansdih,painter,
+589,Pallavi Tandon,9989924715,"H.No. 47, Choudhry Street",Civil Lines,retail,
+590,Timothy Bansal,9179144854,,Mau Bazar,retail,
+591,Elijah Jha,9212447665,"225
+Wadhwa Road",Dubhar,retail,
+592,Xalak Varkey,9180533234,"28, Taneja Circle",Sikta Mohalla,retail,
+593,Omkaar Sachdeva,9758896006,"83/808
+Yohannan Ganj",Dubhar,retail,
+594,Harinakshi Shanker,9277164387,"572
+Choudhary Ganj",Mau Bazar,painter,
+595,Mohammed Gupta,9320708138,"55/287
+Dasgupta",Bansdih,retail,
+596,Logan Raj,9883803621,"00/94, Nigam Ganj",Kotwali,contractor,
+597,Eesha Mangat,9153295652,"830, Venkataraman Nagar",Reoti,retail,
+598,Balhaar Madan,9487437,"H.No. 09
+Magar Nagar",Sikandarpur,retail,
+599,Nicholas Tata,9204138,"H.No. 48, Natt Zila",Sikta Mohalla,retail,
+600,Agastya Bhavsar,9224026766,"H.No. 61, Chadha Chowk",Reoti,retail,
+601,Panini Khalsa,9384546308,"63/525
+Gera Marg",Rasra Road,painter,
+602,Aishani Kibe,9509573649,"H.No. 13
+Sabharwal Zila",Kotwali,retail,
+603,Warhi Rattan,9382824466,"44/03, Acharya Road",Mau Bazar,retail,
+604,Dev Sawhney,9847829989,"727, Varkey Street",Gai Ghat,retail,
+605,Panini Chaudry,9544514776,"H.No. 45
+Patla Street",Bansdih,painter,
+606,Ishani Zachariah,9515652006,"829
+Parmer Road",Bansdih,retail,
+607,Janani Halder,9609838807,"H.No. 343
+Basu Ganj",Kotwali,contractor,
+608,Avi Goel,986697990,"H.No. 382
+Mitra Marg",Sikandarpur,retail,
+609,Aarush Prakash,9766013190,"H.No. 35
+Sood Road",Reoti,contractor,
+610,Victor Arora,9279491823,"86/20, Dyal Path",Rasra Road,retail,
+611,Jalsa Ramaswamy,9184147554,"H.No. 865
+Lala Marg",Rasra Road,retail,
+612,Diya Chaudry,9376903372,"98/089
+Bahri Chowk",Sikta Mohalla,painter,
+613,Ekaja Chander,9526656677,"H.No. 73
+Rao Chowk",Bansdih,retail,
+614,Devansh Saran,9113275526,"H.No. 82
+Pandit Ganj",Bansdih,retail,
+615,Qadim Bir,9220816186,"06
+Chand Marg",Sikandarpur,contractor,
+616,Manan Venkatesh,9207593219,"39/461
+Thakkar",Sikta Mohalla,contractor,
+617,Zashil Pillai,9675132064,"041
+Shenoy Road",Kotwali,contractor,
+618,Chaitaly Agrawal,9621392697,"754, Chandran",Rasra Road,retail,
+619,Yatin Bhandari,9254460628,"H.No. 81
+Sama",Dubhar,retail,
+620,Sanaya Ganguly,9455939049,,Reoti,retail,
+621,Aahana Desai,94999051,"51, Thaman Nagar",Reoti,painter,
+622,Warda Mammen,9835354265,"H.No. 898
+Dugar Street",Rasra Road,painter,
+623,Wridesh Rai,9898567178,"86/645, Suri Chowk",Kotwali,retail,
+624,Warhi Rai,9749591392,"H.No. 042
+Mannan Street",Civil Lines,contractor,
+625,Tanish Borra,9537195843,"540, Chandran Zila",Gai Ghat,painter,
+626,Yatan Kamdar,9653266624,,Bansdih,painter,
+627,Gopal Banerjee,9662948033,,Civil Lines,retail,
+628,Mohini Bandi,9315528733,"22/57, Wable Road",Reoti,painter,
+629,Abhiram Datta,9486949792,"362
+Tara Path",Reoti,retail,
+630,Darsh Chaudhari,9782266083,"58/259, Sagar Street",Civil Lines,retail,
+631,Harrison Mohanty,9737849448,"19/48
+Garg Nagar",Reoti,retail,
+632,Xiti Nigam,9475551835,"34/04, Sankaran Nagar",Kotwali,contractor,
+633,Saumya Kota,9839647637,,Mau Bazar,contractor,
+634,Wishi Ahluwalia,9714457408,"H.No. 56
+Khare Zila",Civil Lines,retail,
+635,Gauri Comar,9827669728,"444, Subramaniam Marg",Bansdih,contractor,
+636,Chakrika Dayal,9937844678,"118, Mody Zila",Reoti,retail,
+637,Jagdish Kant,9795109916,"64/434, Bahri Street",Civil Lines,painter,
+638,Naksh Seth,9964454042,"896, Peri Nagar",Kotwali,retail,
+639,Mugdha Chaudhari,9504237434,"88/95
+Batra Zila",Civil Lines,retail,
+640,Utkarsh Natarajan,9827133833,"06, Agarwal Zila",Sikandarpur,retail,
+641,Chameli Bedi,9649233665,"94/30
+Kumar Zila",Gai Ghat,retail,
+642,Ishaan Bhasin,9737558411,"03/61, Krish Path",Sikta Mohalla,contractor,
+643,Kritika Lad,9461081823,"64
+Bail Circle",Kotwali,retail,
+644,Daksha Malhotra,9863531123,"H.No. 057
+Loke Nagar",Civil Lines,retail,
+645,Ati Borah,9921921869,,Sikandarpur,retail,
+646,Rachana Mani,9443152572,"95/161, Natarajan Nagar",Reoti,retail,
+647,Om Kapur,9378556835,"115, Oza Marg",Mau Bazar,painter,
+648,Chatresh Goswami,9714225883,"34
+Luthra Nagar",Civil Lines,contractor,
+649,Vasudha Khosla,9785383997,"89/219, Mallick Path",Gai Ghat,contractor,
+650,Nicholas Sabharwal,9282521788,"723, Dave Chowk",Rasra Road,retail,
+651,Charvi Contractor,9237378973,"H.No. 66, Oak Path",Bansdih,retail,
+652,Dalbir Pall,9296568144,"82/338, Nagi Marg",Sikta Mohalla,contractor,
+653,Chakrika Upadhyay,9339796534,"23/16
+Sandal Circle",Gai Ghat,retail,
+654,Tejas Narayanan,9728751749,"H.No. 24, Madan Circle",Reoti,retail,
+655,Unnati Bava,9781178315,"97
+Kar Nagar",Sikta Mohalla,retail,
+656,Sachi Ganesan,9308889819,"448
+Pandit Marg",Dubhar,retail,
+657,Mahika Menon,9543570539,"H.No. 24
+Sahota Road",Rasra Road,retail,
+658,Warinder Dewan,9467938988,"H.No. 41, Sachar Circle",Reoti,painter,
+659,Aryan Atwal,9868443155,"734, Padmanabhan Zila",Gai Ghat,retail,
+660,Ekta Atwal,9289863614,,Reoti,contractor,
+661,Garima Mital,9917325063,"08
+Kuruvilla Ganj",Rasra Road,retail,
+662,Anvi Goyal,9919876144,"H.No. 938
+Narula",Dubhar,retail,
+663,Samar Hari,9533140455,"65/538
+Mittal Street",Mau Bazar,contractor,
+664,Anthony Mandal,9314119421,"H.No. 111, Krishnamurthy Nagar",Gai Ghat,retail,
+665,Aahana Sarma,9670193187,"663
+Brahmbhatt Nagar",Civil Lines,contractor,
+666,Megha Ram,9469742752,"H.No. 345
+Rama Road",Bansdih,retail,
+667,Jeremiah Reddy,9279336562,,Kotwali,contractor,
+668,Fariq Bhatia,9658655427,"H.No. 935, Kari Street",Rasra Road,retail,
+669,Liam Tara,9626325353,"31/866, Thakur Chowk",Dubhar,retail,
+670,Nathaniel Nagy,9340863230,"H.No. 864
+Keer Marg",Mau Bazar,retail,
+671,Rohan Chandran,9281445989,"53/83, Vora Street",Mau Bazar,contractor,
+672,Oliver Roy,9374651533,"49, Sura Road",Sikandarpur,painter,
+673,Bhavini Roy,9810784787,"H.No. 03
+Rege",Mau Bazar,painter,
+674,Pallavi Chakrabarti,9547509357,"49/650
+Sathe Chowk",Kotwali,contractor,
+675,Udant Chauhan,9264418972,"H.No. 83
+Deo",Mau Bazar,retail,
+676,Aishani Lalla,9810456933,"32/151
+Kala Street",Sikandarpur,retail,
+677,Victor Garg,9247278210,"H.No. 27, Chopra Marg",Bansdih,contractor,
+678,Anamika Chandran,9226416530,"97
+Lanka Road",Reoti,contractor,
+679,Samar Zacharia,9314479266,"55/04, Pillay Ganj",Civil Lines,retail,
+680,Ekantika Handa,9539972403,,Reoti,retail,
+681,Oscar Purohit,9838953322,"H.No. 718, Chopra Nagar",Mau Bazar,painter,
+682,Mugdha Bath,9195566069,"80
+Dewan",Reoti,retail,
+683,Yashawini Saha,9196725534,,Sikta Mohalla,retail,
+684,Widisha Sidhu,9791851361,"84/44
+Chana Circle",Kotwali,painter,
+685,Ishwar Narasimhan,9153773200,"H.No. 057, Bhakta Ganj",Mau Bazar,retail,
+686,Alexander Bhatt,9486777550,"646
+Murthy Path",Sikta Mohalla,painter,
+687,Januja Subramaniam,9914115345,,Rasra Road,retail,
+688,Neel Wable,9283086166,"57, Bora Marg",Sikandarpur,contractor,
+689,Harish Ganguly,9887125715,"H.No. 82, Koshy Path",Rasra Road,retail,
+690,Anmol Nayak,9529765405,"H.No. 45
+Pai Path",Dubhar,retail,
+691,Bhavika Mammen,9613511668,"73/738
+Tara Street",Rasra Road,contractor,
+692,Anthony Acharya,9847506709,"88, Kaul Ganj",Rasra Road,retail,
+693,Yamini Chowdhury,9734313309,"H.No. 434, Buch Chowk",Reoti,retail,
+694,Inaya Dey,9507754288,"44, Chatterjee Circle",Rasra Road,retail,
+695,Karan Seth,9624117847,"H.No. 226, Tailor Marg",Mau Bazar,retail,
+696,Inaya Upadhyay,943741042,"64
+Aggarwal",Sikandarpur,retail,
+697,Devika Vasa,9340501969,"H.No. 423
+Bora Path",Gai Ghat,contractor,
+698,Faqid Panchal,9838993835,"10/90, Chowdhury Circle",Civil Lines,retail,
+699,Xiti Parikh,9812653878,"10/74, Bhatia",Bansdih,retail,
+700,Ayush Merchant,9758111412,"21, Mistry Chowk",Rasra Road,painter,
+701,Chavvi Bose,9603895158,"H.No. 571, Kant Nagar",Sikta Mohalla,retail,
+702,Elijah Ray,9444277942,"H.No. 50, Mittal Chowk",Mau Bazar,contractor,
+703,Vritti Vaidya,9691090113,"34, Goda Street",Civil Lines,retail,
+704,Nirja Kakar,9576944168,"08/70, Oak Zila",Reoti,retail,
+705,Yash Padmanabhan,9227460504,"782, Boase Circle",Mau Bazar,retail,
+706,Tamanna Warrior,954274515,,Sikta Mohalla,retail,
+707,Peter Bassi,9764717221,"61
+Pau Path",Bansdih,contractor,
+708,Radha Sunder,9820990117,"H.No. 67
+Dalal Road",Mau Bazar,retail,
+709,Anjali Gole,9587972689,"01/824
+Pandya Circle",Sikandarpur,painter,
+710,Yug Bhalla,9490084550,"H.No. 584
+Dugar Zila",Civil Lines,contractor,
+711,Charan Mall,9481327572,"338, Samra Nagar",Kotwali,retail,
+712,Bhavini Bakshi,9501461715,,Rasra Road,retail,
+713,Qadim Mital,9982442542,"79/754, Sidhu Chowk",Sikta Mohalla,retail,
+714,Rayaan Sekhon,9310369078,"843
+Ravi Chowk",Dubhar,retail,
+715,Zashil Sanghvi,9985358270,"95/71
+Gupta Path",Sikta Mohalla,retail,
+716,Abdul Srinivasan,9149929379,"04/26, Narang Ganj",Sikandarpur,contractor,
+717,Michael Tailor,9583725630,"13
+Krishnan Street",Bansdih,retail,
+718,Oscar Chaudhari,963561317,,Dubhar,retail,
+719,Wridesh Dalal,9618544245,"64, Dewan Street",Rasra Road,painter,
+720,Rajata Vora,9286455552,"H.No. 891
+Peri Road",Dubhar,contractor,
+721,Anmol Mani,9750860170,"39/777
+Mammen Path",Dubhar,contractor,
+722,Caleb Dugar,9753901994,"01, Raju Nagar",Kotwali,retail,
+723,Lopa Badal,9468141835,"H.No. 375, Nori Nagar",Rasra Road,retail,
+724,Naveen Jha,9746955700,"37/781, Kunda Chowk",Kotwali,retail,
+725,Falan Pandey,9688202182,"027, Venkatesh Marg",Bansdih,painter,
+726,Devika Edwin,9315703009,"156
+Cheema Marg",Gai Ghat,contractor,
+727,Urishilla Mall,9242455183,"H.No. 788, Bora Marg",Rasra Road,painter,
+728,Aradhana Roy,9845511804,"H.No. 81
+Dutta Marg",Gai Ghat,retail,
+729,Yachana Wali,9725783470,"H.No. 85
+Banik Ganj",Dubhar,contractor,
+730,Oeshi Raghavan,9673273772,"H.No. 277
+Saran Nagar",Mau Bazar,contractor,
+731,Rohan Mutti,9127135757,,Mau Bazar,retail,
+732,Lavanya Pau,9905505027,"927
+Naidu Zila",Kotwali,retail,
+733,Omisha Mukherjee,9166607238,"674
+Sibal Road",Bansdih,retail,
+734,Yachana Gour,9974053994,"26/832, Gopal Chowk",Bansdih,retail,
+735,Mahika Kaur,9897159606,"74/53, Malhotra Road",Bansdih,painter,
+736,Arin Aggarwal,9957728325,"256
+Garg Ganj",Mau Bazar,contractor,
+737,Balhaar Patil,9946228305,"H.No. 32
+Vohra Road",Bansdih,retail,
+738,Shaurya Mann,9898509546,"H.No. 35, Khare",Reoti,retail,
+739,Hiral Raju,9780525215,"402
+Karan",Sikandarpur,painter,
+740,Joshua Sood,9747881832,"695
+Mistry Path",Civil Lines,retail,
+741,Christopher Borah,9290509600,,Rasra Road,retail,
+742,Hiral Dutta,9228155179,"86/96, Sibal Ganj",Bansdih,contractor,
+743,Om Srinivasan,9272796036,"H.No. 492, Pradhan Road",Gai Ghat,retail,
+744,Bachittar Subramanian,92662213,"16
+Sane Circle",Sikandarpur,retail,
+745,Amrita Rajagopal,9423362525,"H.No. 64, Dube Nagar",Gai Ghat,painter,
+746,Ekapad Prabhakar,9859867290,"73, Koshy Street",Rasra Road,retail,
+747,Qushi Bhatti,9944238354,"46/20, Das Ganj",Bansdih,retail,
+748,Manya Samra,9475168561,"27/99
+Dugar Nagar",Gai Ghat,retail,
+749,Wriddhish Kapur,9415223070,"373, Khurana Zila",Bansdih,retail,
+750,Kamala Loke,9702728525,"731
+Dada Circle",Mau Bazar,retail,
+751,Kashvi Patla,9471522500,"H.No. 278, Badal Nagar",Sikandarpur,retail,
+752,Varenya Kalita,9361807423,"12/041
+Deol Street",Gai Ghat,painter,
+753,Forum Nazareth,9954920307,"75/285, Gill Zila",Bansdih,retail,
+754,Chatura Sachdeva,9126527569,"29
+Raja Marg",Gai Ghat,contractor,
+755,Pooja Bhagat,9646250686,,Civil Lines,retail,
+756,Lila Dora,9188417749,"02/15, Dass Street",Bansdih,retail,
+757,Yashica Shan,9773164268,"H.No. 43, Mishra Street",Civil Lines,retail,
+758,Wishi Lalla,9555491430,"29
+Goda Street",Dubhar,painter,
+759,Jack Ramesh,9177438788,"51/96, Bhat Zila",Reoti,contractor,
+760,Manya Chanda,9140680121,,Kotwali,contractor,
+761,Triveni Bawa,9344432632,"590, Raman Zila",Reoti,contractor,
+762,Kamala Sarma,9564957091,"403, Nadkarni Ganj",Sikta Mohalla,contractor,
+763,Vritti Shere,9788722430,,Sikandarpur,retail,
+764,Neelima Apte,9177942327,"H.No. 92
+Karan Zila",Kotwali,retail,
+765,Onveer Borah,9423572858,"357
+Nath Street",Reoti,contractor,
+766,Jeevika Karnik,9982747173,"H.No. 02
+Krishnamurthy",Bansdih,retail,
+767,Aadi Hayer,9901820909,"45
+Naidu Path",Bansdih,retail,
+768,Mekhala Srinivas,9780801356,"H.No. 12
+Nair Nagar",Gai Ghat,retail,
+769,Shaurya Lala,9111972445,"39, Salvi Circle",Sikta Mohalla,painter,
+770,Zehaan Bala,9714951911,"46/402, Swamy Circle",Sikta Mohalla,retail,
+771,Chaman Buch,9903477338,"68/032
+Lad Chowk",Civil Lines,retail,
+772,Saumya Nagi,9793563667,"17
+Sengupta Circle",Rasra Road,retail,
+773,Yochana Mandal,9996304234,"H.No. 824, Suri Circle",Sikandarpur,retail,
+774,Radhika Brar,9906425007,"117, Sharaf Nagar",Reoti,painter,
+775,Urvi Palla,9172330209,"93/33, Sem Nagar",Sikandarpur,retail,
+776,Vasatika Gill,9455248480,"H.No. 52, Nath Ganj",Civil Lines,retail,
+777,Tripti Dasgupta,9765200007,"774
+Issac Street",Reoti,retail,
+778,Wyatt Sandal,9761792646,"05/36
+Randhawa Street",Rasra Road,retail,
+779,Hamsini Anne,9491371841,"65/166, Mammen Street",Rasra Road,contractor,
+780,Ekalinga Jayaraman,9364328543,"478, Devan Circle",Dubhar,retail,
+781,Tara Venkatesh,9485995156,"H.No. 326
+Sarraf Zila",Reoti,retail,
+782,Quincy Saini,9485195859,"67/902
+Mallick Circle",Sikta Mohalla,retail,
+783,Mason Subramanian,9751361501,"59/06, Mital Path",Rasra Road,retail,
+784,Maanav Krishnamurthy,9310917183,"H.No. 593, Viswanathan Nagar",Sikta Mohalla,painter,
+785,Dakshesh Virk,9120004122,"98/35
+Raju Chowk",Sikandarpur,contractor,
+786,Chaitanya Ravi,9925922483,"32/16, Pal Nagar",Bansdih,contractor,
+787,Chaaya Dey,9679473892,"51/170
+Cheema Marg",Gai Ghat,retail,
+788,Isha Murty,9929084214,"H.No. 99
+Narasimhan Path",Rasra Road,retail,
+789,Wazir Nazareth,9197231642,"88/143, Mangal Circle",Civil Lines,retail,
+790,Ucchal Kari,9966015789,"02
+Chopra Ganj",Bansdih,painter,
+791,Kalpit Radhakrishnan,9270963770,"93/55, Shah Road",Rasra Road,retail,
+792,Xavier Narayanan,9619157832,,Reoti,contractor,
+793,Janani Chaudhuri,9383851293,,Civil Lines,retail,
+794,Vincent Pall,9949824193,"H.No. 44, Varty Circle",Reoti,retail,
+795,Aashi Chowdhury,9142847338,"87
+Shah Zila",Bansdih,painter,
+796,Fitan Lanka,9393663355,"15/41, Setty Road",Bansdih,contractor,
+797,Fiyaz Bhasin,9504435133,"81/867
+Chaudry Nagar",Sikta Mohalla,contractor,
+798,Nitesh Narain,9504079950,"H.No. 91, Srinivasan Ganj",Dubhar,retail,
+799,Fiyaz Hayre,9470475638,"33
+Natarajan Nagar",Sikandarpur,retail,
+800,Girik Batra,9249216081,"73
+More Road",Bansdih,retail,
+801,Aryan Pal,9327114760,"531
+Raja Road",Sikandarpur,contractor,
+802,Sneha Agate,9227056105,"65/965
+Ganesan Road",Gai Ghat,contractor,
+803,Shaurya Ratti,9617024564,"40/707
+Sur Zila",Sikandarpur,contractor,
+804,Urmi Khanna,9994818854,"14
+Chandra Chowk",Rasra Road,retail,
+805,Saksham Viswanathan,9273011097,"608, Batta",Sikandarpur,contractor,
+806,Neelima Chakrabarti,9278607682,"H.No. 49
+Srinivas Nagar",Dubhar,retail,
+807,Sneha Sengupta,9705165937,"44
+Pai Chowk",Kotwali,contractor,
+808,Matthew Joshi,9332565413,"H.No. 491, Ravi",Reoti,painter,
+809,Nathan Shere,9991596102,"88
+Sami Chowk",Sikandarpur,retail,
+810,Pranav Thaman,9295296618,"505
+Ahluwalia Road",Rasra Road,painter,
+811,Gautami Devan,9467940478,"H.No. 69
+Padmanabhan Circle",Sikta Mohalla,contractor,
+812,Banjeet Vohra,9513886549,,Bansdih,retail,
+813,Qadim Dugar,9641551915,"97/46, Master Street",Sikandarpur,painter,
+814,Yashawini Chokshi,9610960640,"H.No. 066, Handa Chowk",Bansdih,retail,
+815,Theodore Shankar,9200061963,"59, Dewan Street",Sikandarpur,contractor,
+816,Vedant Sharma,9101288710,"82
+Sangha Road",Dubhar,retail,
+817,Hredhaan Kapadia,9497689759,"230, Sawhney Street",Dubhar,retail,
+818,Priya Edwin,9961463274,"382, Acharya Road",Gai Ghat,retail,
+819,Oeshi Viswanathan,9896065791,"205, Dara Circle",Sikandarpur,contractor,
+820,Noah Naidu,9243755891,"H.No. 57, Handa Ganj",Sikta Mohalla,retail,
+821,Chakradhar Radhakrishnan,9683826742,"58/342, Tella Marg",Mau Bazar,retail,
+822,Amrita Sama,9226517500,"15/750
+Banik Zila",Civil Lines,contractor,
+823,Vedant Nanda,9439196880,"H.No. 73
+Bhagat Nagar",Dubhar,contractor,
+824,Saumya Goda,9372336071,"H.No. 70
+Varughese Marg",Sikandarpur,contractor,
+825,Harita Doctor,9395880875,"H.No. 252
+Upadhyay Ganj",Civil Lines,retail,
+826,Shravya Acharya,9941586401,"H.No. 54, Ghose Nagar",Bansdih,retail,
+827,Orinder Atwal,9372491666,"121
+Panchal Ganj",Dubhar,contractor,
+828,Watika Agarwal,9807899575,"817
+Thakur Street",Rasra Road,contractor,
+829,Eta Gade,9645829727,"H.No. 21, Sule Chowk",Bansdih,retail,
+830,Jack Yadav,9835045478,"943
+Krishna Nagar",Mau Bazar,contractor,
+831,Ishanvi Saran,9983963824,"87/584
+Dave Nagar",Dubhar,painter,
+832,Jagdish Kota,9382492880,"H.No. 58, Hari Street",Mau Bazar,retail,
+833,Geetika Bath,9530189140,"12/538, Kaul Ganj",Sikandarpur,contractor,
+834,Chavvi Dixit,9930655747,"H.No. 856
+Raju Path",Reoti,retail,
+835,Oviya Mittal,9805324063,"44
+Sawhney Nagar",Civil Lines,retail,
+836,Ronith Kaul,9743724233,"91/90, Hora Road",Sikandarpur,retail,
+837,Jatin Hayer,9138720348,"221, Barad Path",Rasra Road,retail,
+838,Abhiram Chaudry,9396284956,"105, Bhat Ganj",Dubhar,retail,
+839,Omisha Deol,9315081636,"H.No. 876
+Sahni Ganj",Sikta Mohalla,retail,
+840,Simon Deep,9690120616,"37/32
+Sachar",Sikandarpur,painter,
+841,Jonathan Nigam,9975652436,"H.No. 01, Mammen Ganj",Civil Lines,retail,
+842,William Shukla,9533744956,"91/69
+Zachariah Zila",Dubhar,retail,
+843,Xalak Pant,9177723844,"60/70, Jain Ganj",Sikta Mohalla,retail,
+844,Gavin Kari,9376696166,"596
+Pai Road",Sikandarpur,painter,
+845,Michael Kanda,9575419205,"60/57
+Yadav Zila",Civil Lines,retail,
+846,Qushi Rana,9932792876,"85, Merchant",Sikandarpur,contractor,
+847,Zilmil Som,9617511527,,Civil Lines,painter,
+848,Krishna Yadav,9346885603,"90
+Rau Ganj",Gai Ghat,contractor,
+849,Priya Cheema,9110440194,"543, Kaul Road",Kotwali,retail,
+850,Shravya Sarna,9823377624,"03/63, Balan",Bansdih,retail,
+851,Nidra Malhotra,9611697526,"85/726
+Sarin Ganj",Sikandarpur,painter,
+852,Falak Batra,9901179178,"H.No. 67, Lal Zila",Reoti,retail,
+853,Jagdish Ramanathan,9352180476,"49/667
+Kurian Chowk",Civil Lines,contractor,
+854,Mason Mutti,9996510519,"H.No. 29, Tak Path",Rasra Road,retail,
+855,Balhaar Bose,9228718546,"H.No. 579, Agarwal Circle",Reoti,contractor,
+856,Avi Tailor,9920600973,"H.No. 88
+Grover Nagar",Reoti,contractor,
+857,Finn Om,9438676325,"52/94
+Sethi Circle",Sikandarpur,retail,
+858,Harshil Sane,9626998235,"845
+Varghese Road",Bansdih,painter,
+859,Warda Kibe,9338470307,"440, Ghose Zila",Bansdih,retail,
+860,Yug Khanna,9613592269,,Gai Ghat,contractor,
+861,Pratyush Brahmbhatt,9836950507,"H.No. 792
+Ray Ganj",Sikta Mohalla,retail,
+862,Charita Saini,9593997037,,Civil Lines,contractor,
+863,Vyanjana Chad,9208177158,"H.No. 44, Bora Street",Kotwali,retail,
+864,Watika Pingle,9382232003,"H.No. 66
+Kaur Circle",Sikandarpur,retail,
+865,Aadhya Chokshi,9297475805,"69/421, Modi Nagar",Gai Ghat,retail,
+866,Aayush Dixit,9530133026,"H.No. 763, Bhargava Path",Rasra Road,retail,
+867,Lavanya Golla,9836599683,"H.No. 33
+Yohannan Road",Kotwali,painter,
+868,Udyati Desai,9696291839,"58/230
+Cherian Path",Rasra Road,painter,
+869,Gavin Mall,9893003451,"47
+Tiwari Nagar",Rasra Road,painter,
+870,Wakeeta Nazareth,9244387866,"H.No. 247
+Warrior Chowk",Bansdih,retail,
+871,Dakshesh Chaudhary,9422159250,"H.No. 080
+Mani Road",Mau Bazar,contractor,
+872,Yagnesh Gour,9841465088,"H.No. 03, Dasgupta Nagar",Kotwali,retail,
+873,Urvashi Das,9776309403,"47, Agarwal Chowk",Kotwali,retail,
+874,Reva Rajagopalan,9701671267,"834, Mani Circle",Gai Ghat,retail,
+875,Yashasvi Magar,9230177767,"H.No. 079
+Pall Road",Sikandarpur,retail,
+876,Vyanjana Bhagat,9718361962,"H.No. 951, Bhakta Zila",Kotwali,retail,
+877,Rushil Sampath,9822835305,"66/26, Oommen Road",Reoti,retail,
+878,Darsh Balay,9509171868,"H.No. 975
+Contractor",Rasra Road,painter,
+879,Rushil Bose,9787818236,"72/63
+Bhatt Nagar",Sikandarpur,painter,
+880,Yahvi Prabhakar,9176605123,"611
+Bhandari Circle",Gai Ghat,contractor,
+881,Chandani Rege,9412841502,"64/811, Behl Road",Dubhar,retail,
+882,Thomas Zacharia,9577706000,"33, Cheema Zila",Sikandarpur,retail,
+883,Aayush Kaur,9583493761,"H.No. 383
+Sule Street",Mau Bazar,retail,
+884,Yadavi Dhaliwal,9351929030,"68/82, Sawhney Marg",Sikta Mohalla,retail,
+885,Tarak Bala,9526324454,,Reoti,retail,
+886,Sudiksha Dewan,9128309105,"20/16, Narayanan Circle",Sikta Mohalla,retail,
+887,Chavvi Tank,9763682156,"H.No. 07
+Varkey Ganj",Dubhar,retail,
+888,Anya Mangat,9365639987,"H.No. 179
+Natarajan Nagar",Rasra Road,retail,
+889,Rohan Wable,928318893,"H.No. 788
+Bora Path",Gai Ghat,retail,
+890,Indali Mody,9601645174,"94
+Dugar Ganj",Kotwali,painter,
+891,Lavanya Gala,9245078524,"H.No. 00, Rana Path",Rasra Road,retail,
+892,Avni Gandhi,9590209766,"65, Bhattacharyya Marg",Sikandarpur,contractor,
+893,Siddharth Goda,9786688228,"24/50
+Chhabra Path",Reoti,retail,
+894,Unni Lad,9964048388,"25/697, Chokshi Circle",Dubhar,retail,
+895,Nathaniel Kashyap,942595894,"87, Shenoy Chowk",Rasra Road,retail,
+896,Banjeet Pandit,9603797467,"H.No. 73, Rai Street",Reoti,retail,
+897,Mohammed Sandal,9612246868,"H.No. 89
+Mammen Ganj",Kotwali,painter,
+898,Luke Krish,99555224,"29/47
+Kala Marg",Bansdih,contractor,
+899,Yashawini Sridhar,9368323917,"H.No. 077
+Bali Zila",Dubhar,retail,
+900,Unnati Natt,9336859315,"789, Lala Circle",Civil Lines,painter,
+901,Radha Tandon,9958949509,"78/126
+Mander Path",Kotwali,retail,
+902,Vedika Goel,9897711678,"40, Narayan Nagar",Civil Lines,retail,
+903,Krishna Mital,9295858216,"H.No. 490
+Kadakia Marg",Reoti,painter,
+904,Omisha Agarwal,9392201792,"43
+Nagar Street",Gai Ghat,contractor,
+905,Owen Master,9153292024,,Sikta Mohalla,retail,
+906,Ojasvi Rama,9234259822,"H.No. 31, Agarwal Ganj",Civil Lines,retail,
+907,Umang Handa,9115810687,"79
+Shah Road",Kotwali,retail,
+908,Nakul Sachdeva,9635148365,"H.No. 99
+Dhawan Circle",Mau Bazar,contractor,
+909,Rachit Sachar,9905917946,,Dubhar,retail,
+910,Jeremiah Wadhwa,9604816257,"687, Chokshi Circle",Kotwali,retail,
+911,Nidhi Bhavsar,998932886,"54/009, Mane Path",Reoti,painter,
+912,Unnati Sharma,9135981405,"H.No. 93, Prashad Circle",Sikta Mohalla,retail,
+913,Krish Wadhwa,9323818407,"302
+Mistry Circle",Kotwali,retail,
+914,Nisha Banik,9270307732,,Bansdih,painter,
+915,Dayamai Oommen,9371992483,"H.No. 227, Vohra Nagar",Gai Ghat,retail,
+916,Gunbir More,9815858075,"04/23, Ben Marg",Dubhar,painter,
+917,Samarth Sarma,9279701810,"H.No. 41
+Grover Ganj",Dubhar,retail,
+918,Eta Thaker,9145090037,"H.No. 00, Lalla Ganj",Sikandarpur,retail,
+919,Ronith Ranganathan,9927636977,"92, Natt Road",Sikta Mohalla,retail,
+920,Deepa Pingle,9463377959,"78/474
+Bhattacharyya",Mau Bazar,contractor,
+921,Aarav Doshi,9792107026,"37, Tripathi Road",Sikta Mohalla,retail,
+922,Saanvi Devi,9349832483,"63/71
+Manda",Gai Ghat,retail,
+923,Vedika Chhabra,9571070826,,Dubhar,painter,
+924,Saanvi Edwin,9244667571,,Reoti,retail,
+925,Pavani Ahuja,9682756272,"16/195
+Dutt Path",Rasra Road,contractor,
+926,Samarth Chopra,9447549695,"28, Rama Chowk",Sikandarpur,retail,
+927,Qasim Bhagat,9695411648,"H.No. 74, Desai Chowk",Reoti,painter,
+928,Bimala Kale,9382769127,"47/80
+Randhawa Zila",Bansdih,retail,
+929,Indrajit Cheema,9299215925,"H.No. 56, Mittal Circle",Gai Ghat,retail,
+930,Inaya Hora,9356395115,,Bansdih,contractor,
+931,Frado Sangha,9303870775,"79/78
+Bhattacharyya Street",Bansdih,painter,
+932,Udarsh Bajwa,9404007541,"H.No. 108, Mani Ganj",Sikta Mohalla,retail,
+933,Dhriti Bassi,9807478862,"H.No. 43, Shanker Zila",Rasra Road,retail,
+934,Vrishti Verma,9133579936,"21/30
+Manne Ganj",Sikta Mohalla,retail,
+935,Ikshita Goyal,9789075603,"19/61, Bala Circle",Bansdih,retail,
+936,Jagvi Atwal,9733830783,"67/876, Muni Road",Sikandarpur,contractor,
+937,Noah Kumar,9324130818,"98
+Rana Street",Sikta Mohalla,retail,
+938,Kai Rout,9786031600,"37/71, Mallick Path",Dubhar,retail,
+939,Kala Nagarajan,9952818991,"808, Mall Zila",Kotwali,painter,
+940,Krishna Parmar,9888448988,"766
+Kata Ganj",Civil Lines,retail,
+941,Dalaja Krishna,9204281005,"H.No. 046
+Goda Street",Dubhar,painter,
+942,Chatura Dhingra,9664994379,"51/44, Barad Nagar",Rasra Road,retail,
+943,Jagdish Kalita,9699299989,"48/19
+Sachdeva Street",Sikandarpur,contractor,
+944,Janani Kala,9592547487,"12/863, Kala",Sikta Mohalla,retail,
+945,Ishaan Krishna,9293699305,"29/921
+Baria Chowk",Rasra Road,retail,
+946,Irya Koshy,9744154611,"808, Subramaniam Street",Gai Ghat,retail,
+947,Sanya Vala,9448594692,"H.No. 14, Mall Marg",Dubhar,contractor,
+948,Nikita Bhattacharyya,9447302779,"H.No. 924
+Mitter Marg",Civil Lines,painter,
+949,Oeshi Kanda,9690814307,"H.No. 81
+Palla Road",Reoti,retail,
+950,Kamya Raja,9526372,"65/67, Chaudhary Chowk",Sikandarpur,retail,
