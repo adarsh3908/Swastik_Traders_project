@@ -1,0 +1,104 @@
+return_id,sale_id,product_id,return_date,quantity_returned,reason,refund_amount,status
+1,4528,180.0,2025-05-15,1,Damaged packaging,549.03,pending
+2,737,24.0,2023-08-17,5,Customer changed mind,24089.75,pending
+3,2212,177.0,2024-04-20,3,Excess quantity ordered,946.77,processed
+4,2666,174.0,2024-06-24,1,Customer changed mind,34.13,processed
+5,3134,67.0,2024-10-12,1,Wrong colour ordered,1232.28,processed
+6,1759,143.0,2024-02-17,1,Customer changed mind,656.81,pending
+7,2827,102.0,2024-08-12,1,Excess quantity ordered,3256.21,processed
+8,6388,131.0,2026-04-12,5,Wrong colour ordered,7652.3,processed
+9,4282,78.0,2025-04-07,1,Customer changed mind,835.3,pending
+10,458,95.0,2023-06-03,2,Quality issue,5510.06,pending
+11,4049,162.0,2025-03-12,1,Excess quantity ordered,1371.31,processed
+12,97,114.0,2023-04-17,3,Wrong colour ordered,12209.74,pending
+13,3973,174.0,2025-02-24,3,Quality issue,102.39,pending
+14,2153,170.0,2024-04-11,9,Quality issue,10863.72,pending
+15,6701,143.0,2026-05-26,1,Wrong colour ordered,623.97,processed
+16,6607,65.0,2026-05-13,2,Excess quantity ordered,243.6,processed
+17,5194,37.0,2025-10-09,2,Quality issue,307.0,processed
+18,4655,175.0,2025-05-29,7,Customer changed mind,2391.69,processed
+19,6736,94.0,2026-06-03,2,Wrong colour ordered,2099.88,processed
+20,3093,1.0,2024-10-13,4,Customer changed mind,510.76,processed
+21,6732,119.0,2026-05-29,1,Customer changed mind,1835.97,pending
+22,4513,152.0,2025-05-13,2,Wrong colour ordered,1561.29,processed
+23,1026,183.0,2023-10-22,4,Customer changed mind,152.0,pending
+24,318,180.0,2023-05-15,12,Quality issue,6935.16,pending
+25,1242,183.0,2023-11-14,4,Customer changed mind,136.8,pending
+26,2228,169.0,2024-04-20,1,Wrong colour ordered,603.79,pending
+27,984,52.0,2023-10-18,4,Customer changed mind,10862.32,pending
+28,4329,179.0,2025-04-13,6,Damaged packaging,1747.2,processed
+29,2456,92.0,2024-05-16,1,Customer changed mind,5271.72,processed
+30,3369,174.0,2024-11-08,8,Wrong colour ordered,240.28,processed
+31,2840,190.0,2024-08-16,1,Customer changed mind,42.0,processed
+32,6814,90.0,2026-06-22,1,Excess quantity ordered,1107.51,processed
+33,2071,67.0,2024-03-30,2,Customer changed mind,2438.06,processed
+34,853,190.0,2023-09-23,2,Wrong colour ordered,84.0,processed
+35,2790,49.0,2024-08-02,2,Customer changed mind,254.59,processed
+36,4744,79.0,2025-06-20,1,Damaged packaging,2020.71,processed
+37,4446,17.0,2025-04-30,3,Excess quantity ordered,681.46,pending
+38,6801,166.0,2026-06-14,1,Wrong colour ordered,779.59,processed
+39,6571,59.0,2026-05-09,4,Wrong colour ordered,5122.59,pending
+40,273,124.0,2023-05-05,2,Damaged packaging,1269.08,processed
+41,3264,69.0,2024-11-01,1,Customer changed mind,113.71,processed
+42,2524,173.0,2024-05-28,6,Damaged packaging,7688.64,processed
+43,1812,168.0,2024-02-23,3,Quality issue,915.63,processed
+44,5093,199.0,2025-09-20,1,Wrong colour ordered,11.04,processed
+45,5095,142.0,2025-09-22,4,Quality issue,1190.52,processed
+46,3302,87.0,2024-10-30,4,Quality issue,9632.06,processed
+47,5179,82.0,2025-10-08,1,Quality issue,815.09,processed
+48,4902,16.0,2025-08-04,2,Excess quantity ordered,9505.8,processed
+49,5560,113.0,2025-11-19,1,Damaged packaging,2218.81,processed
+50,3150,173.0,2024-10-17,12,Damaged packaging,14300.87,pending
+51,4832,188.0,2025-07-17,3,Excess quantity ordered,186.0,pending
+52,615,172.0,2023-07-09,6,Damaged packaging,3842.64,pending
+53,1337,23.0,2023-11-20,2,Quality issue,4267.76,pending
+54,6456,169.0,2026-04-24,5,Quality issue,2868.0,pending
+55,5412,175.0,2025-11-02,5,Customer changed mind,1503.35,processed
+56,3685,58.0,2024-12-24,1,Wrong colour ordered,512.06,processed
+57,4715,54.0,2025-06-13,4,Wrong colour ordered,2196.28,processed
+58,5449,135.0,2025-11-07,1,Wrong colour ordered,410.43,processed
+59,1145,100.0,2023-11-03,1,Quality issue,594.91,pending
+60,5520,174.0,2025-11-15,2,Excess quantity ordered,68.26,pending
+61,319,172.0,2023-05-14,11,Customer changed mind,7044.84,pending
+62,3978,100.0,2025-02-23,5,Damaged packaging,3305.05,processed
+63,329,118.0,2023-05-10,1,Quality issue,768.11,processed
+64,3700,106.0,2024-12-28,4,Customer changed mind,3267.93,processed
+65,2699,191.0,2024-07-02,2,Wrong colour ordered,104.0,processed
+66,2004,78.0,2024-03-23,1,Wrong colour ordered,768.48,processed
+67,837,176.0,2023-09-23,2,Wrong colour ordered,1343.4,processed
+68,2050,156.0,2024-03-27,2,Excess quantity ordered,3324.62,pending
+69,2421,81.0,2024-05-13,3,Customer changed mind,592.86,pending
+70,1248,198.0,2023-11-16,2,Quality issue,16.2,processed
+71,142,140.0,2023-04-25,2,Excess quantity ordered,227.39,processed
+72,3837,167.0,2025-01-27,9,Quality issue,1352.07,processed
+73,2590,156.0,2024-06-06,1,Quality issue,1806.86,processed
+74,299,171.0,2023-05-07,1,Customer changed mind,322.74,pending
+75,1602,110.0,2024-01-10,1,Excess quantity ordered,2139.67,processed
+76,49,107.0,2023-04-08,1,Quality issue,2052.25,pending
+77,864,189.0,2023-09-28,1,Customer changed mind,28.0,processed
+78,4099,85.0,2025-03-17,5,Excess quantity ordered,1250.52,pending
+79,2611,34.0,2024-06-10,2,Damaged packaging,1492.04,processed
+80,184,183.0,2023-04-29,3,Quality issue,108.3,processed
+81,2243,170.0,2024-04-25,3,Damaged packaging,3621.24,processed
+82,2691,180.0,2024-07-02,1,Customer changed mind,577.93,processed
+83,2653,179.0,2024-06-23,2,Customer changed mind,582.4,processed
+84,4995,153.0,2025-08-29,2,Customer changed mind,3230.94,pending
+85,1822,187.0,2024-02-22,3,Wrong colour ordered,435.0,processed
+86,6178,41.0,2026-03-16,2,Excess quantity ordered,313.38,processed
+87,4401,126.0,2025-04-25,1,Quality issue,2997.16,processed
+88,4517,174.0,2025-05-12,6,Excess quantity ordered,194.54,processed
+89,1626,35.0,2024-01-10,3,Excess quantity ordered,5643.24,processed
+90,3341,42.0,2024-11-01,1,Quality issue,538.03,pending
+91,4916,190.0,2025-08-03,5,Damaged packaging,210.0,pending
+92,107,191.0,2023-04-17,1,Customer changed mind,49.4,pending
+93,3339,169.0,2024-11-03,1,Damaged packaging,531.34,processed
+94,765,181.0,2023-08-26,1,Damaged packaging,18.0,processed
+95,5756,18.0,2025-12-27,1,Quality issue,867.51,pending
+96,745,139.0,2023-08-17,1,Customer changed mind,57.93,processed
+97,4515,167.0,2025-05-12,1,Customer changed mind,142.72,pending
+98,2518,1.0,2024-05-22,3,Excess quantity ordered,411.9,processed
+99,4977,189.0,2025-08-28,2,Excess quantity ordered,56.0,processed
+100,4681,112.0,2025-06-02,3,Excess quantity ordered,2620.23,processed
+101,3444,44.0,2024-11-11,1,Damaged packaging,2760.57,processed
+102,1081,174.0,2023-10-26,1,Quality issue,34.13,processed
+103,3544,191.0,2024-11-24,4,Customer changed mind,208.0,processed
