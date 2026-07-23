@@ -7,7 +7,7 @@ End-to-end retail analytics ecosystem for Swastik Traders (a multi-brand paint &
 - **[x] Phase 0: Business Understanding & Requirements** (BRD, FRS, ERD, Data Dictionary)
 - **[x] Phase 1: Synthetic Data Generation** (Python generator script + CSV generation)
 - **[x] Phase 2: Database Design & Schema Setup** (MySQL Schema creation and validation queries)
-- **[ ] Phase 3: ETL Pipeline & Data Cleaning**
+- **[x] Phase 3: ETL Pipeline & Data Cleaning** (Python cleaning pipeline and feature engineering)
 - **[ ] Phase 4: Core SQL Business Queries**
 - **[ ] Phase 5: Power BI Analytics Dashboard**
 - **[ ] Phase 6: Sentiment Analysis on Reviews**

@@ -20,7 +20,7 @@ CREATE PROCEDURE sp_monthly_kpi(
 )
 BEGIN
     SELECT 
-        year_month,
+        `year_month`,
         retail_sales_revenue,
         erickshaw_sales_revenue,
         total_gross_revenue,

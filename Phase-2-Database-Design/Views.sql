@@ -195,7 +195,7 @@ DROP VIEW IF EXISTS vw_monthly_financials;
 CREATE VIEW vw_monthly_financials AS
 WITH monthly_sales AS (
     SELECT
-        DATE_FORMAT(sale_date, '%Y-%m') AS year_month,
+        DATE_FORMAT(sale_date, '%Y-%m') AS `year_month`,
         YEAR(sale_date) AS fiscal_year,
         MONTH(sale_date) AS fiscal_month,
         COUNT(DISTINCT sale_id) AS total_sales_transactions,
@@ -214,7 +214,7 @@ WITH monthly_sales AS (
 ),
 monthly_erickshaw_sales AS (
     SELECT
-        DATE_FORMAT(booking_date, '%Y-%m') AS year_month,
+        DATE_FORMAT(booking_date, '%Y-%m') AS `year_month`,
         COUNT(er_sale_id) AS total_erickshaw_transactions,
         SUM(amount) AS total_erickshaw_revenue,
         SUM(amount - cost_price) AS total_erickshaw_profit
@@ -223,23 +223,23 @@ monthly_erickshaw_sales AS (
 ),
 monthly_expenses AS (
     SELECT
-        DATE_FORMAT(expense_date, '%Y-%m') AS year_month,
+        DATE_FORMAT(expense_date, '%Y-%m') AS `year_month`,
         COUNT(expense_id) AS total_expense_entries,
         SUM(amount) AS total_operating_expenses
     FROM expenses
     GROUP BY DATE_FORMAT(expense_date, '%Y-%m')
 ),
 all_months AS (
-    SELECT year_month FROM monthly_sales
+    SELECT `year_month` FROM monthly_sales
     UNION
-    SELECT year_month FROM monthly_erickshaw_sales
+    SELECT `year_month` FROM monthly_erickshaw_sales
     UNION
-    SELECT year_month FROM monthly_expenses
+    SELECT `year_month` FROM monthly_expenses
 )
 SELECT
-    am.year_month,
-    YEAR(STR_TO_DATE(CONCAT(am.year_month, '-01'), '%Y-%m-%d')) AS fiscal_year,
-    MONTH(STR_TO_DATE(CONCAT(am.year_month, '-01'), '%Y-%m-%d')) AS fiscal_month,
+    am.`year_month`,
+    YEAR(STR_TO_DATE(CONCAT(am.`year_month`, '-01'), '%Y-%m-%d')) AS fiscal_year,
+    MONTH(STR_TO_DATE(CONCAT(am.`year_month`, '-01'), '%Y-%m-%d')) AS fiscal_month,
     -- Revenue sources
     COALESCE(ms.total_sales_revenue, 0.00) AS retail_sales_revenue,
     COALESCE(mer.total_erickshaw_revenue, 0.00) AS erickshaw_sales_revenue,
@@ -260,8 +260,8 @@ SELECT
     (COALESCE(ms.total_sales_profit, 0.00) + COALESCE(mer.total_erickshaw_profit, 0.00) - COALESCE(me.total_operating_expenses, 0.00)) AS net_profit
 FROM
     all_months am
-    LEFT JOIN monthly_sales ms ON am.year_month = ms.year_month
-    LEFT JOIN monthly_erickshaw_sales mer ON am.year_month = mer.year_month
-    LEFT JOIN monthly_expenses me ON am.year_month = me.year_month
+    LEFT JOIN monthly_sales ms ON am.`year_month` = ms.`year_month`
+    LEFT JOIN monthly_erickshaw_sales mer ON am.`year_month` = mer.`year_month`
+    LEFT JOIN monthly_expenses me ON am.`year_month` = me.`year_month`
 ORDER BY
-    am.year_month;
+    am.`year_month`;
