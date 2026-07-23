@@ -1,0 +1,1374 @@
+feedback_id,customer_id,sale_id,feedback_date,source,rating,review_text,sentiment,feedback_category
+1,534,3890,2025-02-04,whatsapp,5,Bahut acha service mila,,product_quality
+2,782,1129,2023-10-28,whatsapp,4,"Nice shop, helpful staff",,availability
+3,629,3336,2024-11-01,in_store,5,"Good quality products, will come again",,service
+4,354,4122,2025-03-18,whatsapp,1,Very bad experience,,service
+5,410,5531,2025-11-16,google_maps,3,Could be better,,price
+6,785,3258,2024-10-26,whatsapp,5,"Good quality products, will come again",,price
+7,699,817,2023-09-07,google_maps,4,Good range of paints,,product_quality
+8,446,4934,2025-08-07,whatsapp,4,"Nice shop, helpful staff",,availability
+9,415,1030,2023-10-20,whatsapp,4,Good range of paints,,product_quality
+10,343,744,2023-08-19,whatsapp,5,Best paint shop in Ballia,,availability
+11,588,3629,2024-12-08,google_maps,4,"Nice shop, helpful staff",,service
+12,216,721,2023-08-10,in_store,4,Satisfied with purchase,,price
+13,49,3213,2024-10-20,whatsapp,5,"Good quality products, will come again",,price
+14,446,6090,2026-03-01,google_maps,4,Good range of paints,,availability
+15,608,142,2023-04-19,in_store,4,"Nice shop, helpful staff",,service
+16,924,6640,2026-05-16,in_store,4,Satisfied with purchase,,product_quality
+17,765,3513,2024-11-18,in_store,5,"Good quality products, will come again",,product_quality
+18,791,1090,2023-10-23,in_store,4,Satisfied with purchase,,service
+19,289,850,2023-09-19,in_store,2,Staff not helpful,,service
+20,292,319,2023-05-09,in_store,4,Good range of paints,,availability
+21,753,6035,2026-02-19,in_store,4,"Nice shop, helpful staff",,service
+22,635,1932,2024-03-12,in_store,1,Not recommended,,availability
+23,196,2245,2024-04-21,in_store,3,Could be better,,availability
+24,113,4772,2025-06-21,in_store,4,Satisfied with purchase,,availability
+25,502,5822,2026-01-05,google_maps,4,"Nice shop, helpful staff",,price
+26,445,581,2023-06-27,whatsapp,4,"Nice shop, helpful staff",,price
+27,918,28,2023-04-07,in_store,5,Best paint shop in Ballia,,service
+28,215,5062,2025-09-15,in_store,4,Satisfied with purchase,,availability
+29,576,2973,2024-09-21,google_maps,5,"Good quality products, will come again",,service
+30,246,6397,2026-04-13,whatsapp,4,Satisfied with purchase,,product_quality
+31,606,5518,2025-11-15,in_store,5,Bahut acha service mila,,availability
+32,848,5418,2025-10-31,whatsapp,5,Best paint shop in Ballia,,service
+33,120,2441,2024-05-13,in_store,3,Average service,,service
+34,531,4329,2025-04-11,in_store,5,Bahut acha service mila,,product_quality
+35,148,5935,2026-02-01,in_store,4,Good range of paints,,price
+36,568,1465,2023-12-09,google_maps,2,Quality not as expected,,product_quality
+37,376,6319,2026-04-03,whatsapp,3,Average service,,availability
+38,920,4402,2025-04-25,in_store,5,Best paint shop in Ballia,,availability
+39,161,525,2023-06-12,in_store,3,Average service,,availability
+40,465,5193,2025-10-09,whatsapp,3,"Product ok, price thoda zyada",,service
+41,311,458,2023-05-30,in_store,5,Bahut acha service mila,,availability
+42,171,4736,2025-06-15,in_store,2,Staff not helpful,,product_quality
+43,45,2499,2024-05-21,in_store,4,Good range of paints,,service
+44,505,1634,2024-01-14,whatsapp,5,"Good quality products, will come again",,price
+45,155,337,2023-05-10,in_store,5,Best paint shop in Ballia,,product_quality
+46,729,3319,2024-10-29,google_maps,5,Best paint shop in Ballia,,product_quality
+47,372,4187,2025-03-23,google_maps,5,"Good quality products, will come again",,availability
+48,745,192,2023-04-24,whatsapp,4,Satisfied with purchase,,service
+49,905,2160,2024-04-08,in_store,3,Average service,,price
+50,844,6832,2026-06-24,whatsapp,3,Could be better,,service
+51,331,5253,2025-10-15,whatsapp,5,Best paint shop in Ballia,,price
+52,52,5372,2025-10-26,in_store,4,Satisfied with purchase,,availability
+53,775,3720,2024-12-26,in_store,3,Could be better,,service
+54,615,691,2023-07-30,whatsapp,5,"Good quality products, will come again",,service
+55,87,5946,2026-01-31,google_maps,4,Satisfied with purchase,,availability
+56,898,6703,2026-05-26,google_maps,5,"Good quality products, will come again",,service
+57,714,2776,2024-07-24,in_store,2,Quality not as expected,,product_quality
+58,233,4932,2025-08-05,whatsapp,5,Bahut acha service mila,,product_quality
+59,110,4956,2025-08-15,in_store,5,"Good quality products, will come again",,service
+60,55,5329,2025-10-22,in_store,5,"Good quality products, will come again",,product_quality
+61,123,1036,2023-10-19,whatsapp,4,Satisfied with purchase,,price
+62,55,4173,2025-03-22,in_store,3,"Product ok, price thoda zyada",,product_quality
+63,885,858,2023-09-20,whatsapp,4,Good range of paints,,price
+64,660,4425,2025-04-29,in_store,4,"Nice shop, helpful staff",,service
+65,764,3870,2025-01-28,in_store,4,Satisfied with purchase,,product_quality
+66,864,6651,2026-05-21,google_maps,4,Good range of paints,,price
+67,273,4531,2025-05-11,whatsapp,4,"Nice shop, helpful staff",,service
+68,383,5495,2025-11-10,google_maps,4,Good range of paints,,product_quality
+69,507,6561,2026-05-06,in_store,4,"Nice shop, helpful staff",,product_quality
+70,793,2221,2024-04-19,in_store,5,Bahut acha service mila,,availability
+71,281,3142,2024-10-09,in_store,4,Good range of paints,,product_quality
+72,461,1228,2023-11-12,in_store,3,Could be better,,availability
+73,610,4484,2025-05-04,in_store,3,Could be better,,service
+74,348,6627,2026-05-16,in_store,3,Could be better,,product_quality
+75,98,6383,2026-04-07,google_maps,5,Best paint shop in Ballia,,availability
+76,781,3484,2024-11-16,google_maps,4,Satisfied with purchase,,price
+77,140,3723,2024-12-26,google_maps,5,"Good quality products, will come again",,product_quality
+78,799,2852,2024-08-20,whatsapp,4,"Nice shop, helpful staff",,product_quality
+79,582,1920,2024-03-08,whatsapp,5,Best paint shop in Ballia,,service
+80,719,686,2023-07-27,in_store,3,Average service,,price
+81,158,715,2023-08-09,google_maps,4,"Nice shop, helpful staff",,price
+82,166,4251,2025-04-02,in_store,3,"Product ok, price thoda zyada",,product_quality
+83,110,2731,2024-07-13,in_store,5,Best paint shop in Ballia,,availability
+84,228,1073,2023-10-24,in_store,4,Satisfied with purchase,,product_quality
+85,492,2621,2024-06-09,whatsapp,5,"Good quality products, will come again",,product_quality
+86,893,4094,2025-03-11,whatsapp,5,Bahut acha service mila,,availability
+87,140,2829,2024-08-10,whatsapp,5,"Good quality products, will come again",,service
+88,828,6812,2026-06-18,whatsapp,3,Average service,,availability
+89,769,5589,2025-11-26,whatsapp,3,Average service,,product_quality
+90,553,4749,2025-06-15,in_store,4,Satisfied with purchase,,price
+91,867,6351,2026-04-07,in_store,5,Best paint shop in Ballia,,price
+92,615,552,2023-06-19,whatsapp,4,"Nice shop, helpful staff",,availability
+93,288,3792,2025-01-10,google_maps,5,"Good quality products, will come again",,product_quality
+94,326,3556,2024-11-27,in_store,4,"Nice shop, helpful staff",,availability
+95,52,6448,2026-04-19,google_maps,3,Average service,,price
+96,379,3400,2024-11-05,in_store,5,"Good quality products, will come again",,price
+97,615,2784,2024-07-28,in_store,5,Best paint shop in Ballia,,service
+98,119,565,2023-06-23,google_maps,3,Could be better,,availability
+99,870,909,2023-10-05,in_store,4,Good range of paints,,availability
+100,499,6684,2026-05-25,in_store,4,Satisfied with purchase,,price
+101,668,4293,2025-04-09,whatsapp,3,"Product ok, price thoda zyada",,product_quality
+102,744,6000,2026-02-12,in_store,5,Best paint shop in Ballia,,price
+103,164,5044,2025-09-13,google_maps,3,"Product ok, price thoda zyada",,availability
+104,603,3090,2024-10-09,in_store,4,Good range of paints,,service
+105,736,2896,2024-09-01,in_store,5,Bahut acha service mila,,product_quality
+106,194,902,2023-10-05,in_store,5,Best paint shop in Ballia,,availability
+107,729,1953,2024-03-16,in_store,3,Could be better,,service
+108,190,1333,2023-11-22,whatsapp,4,Good range of paints,,availability
+109,646,6739,2026-05-29,in_store,4,Good range of paints,,service
+110,200,941,2023-10-08,in_store,4,"Nice shop, helpful staff",,service
+111,56,6463,2026-04-23,google_maps,3,"Product ok, price thoda zyada",,price
+112,849,4097,2025-03-12,in_store,4,Satisfied with purchase,,service
+113,685,4416,2025-04-27,in_store,4,"Nice shop, helpful staff",,product_quality
+114,726,2595,2024-06-01,in_store,5,"Good quality products, will come again",,product_quality
+115,454,3381,2024-11-05,in_store,5,Bahut acha service mila,,price
+116,112,3121,2024-10-08,in_store,4,Good range of paints,,availability
+117,878,5446,2025-11-02,in_store,4,Good range of paints,,service
+118,651,6768,2026-06-06,whatsapp,5,Bahut acha service mila,,service
+119,766,4771,2025-06-21,whatsapp,4,Satisfied with purchase,,availability
+120,713,3136,2024-10-12,in_store,5,Bahut acha service mila,,availability
+121,172,1828,2024-02-22,in_store,4,Satisfied with purchase,,availability
+122,525,5136,2025-09-25,whatsapp,4,Satisfied with purchase,,product_quality
+123,567,4324,2025-04-13,in_store,5,Best paint shop in Ballia,,price
+124,726,1624,2024-01-08,in_store,4,Good range of paints,,availability
+125,781,2807,2024-08-03,google_maps,3,Could be better,,availability
+126,947,3466,2024-11-12,google_maps,4,"Nice shop, helpful staff",,availability
+127,255,41,2023-04-06,in_store,3,"Product ok, price thoda zyada",,service
+128,795,3143,2024-10-12,in_store,5,Best paint shop in Ballia,,availability
+129,347,4741,2025-06-14,in_store,4,"Nice shop, helpful staff",,availability
+130,348,1184,2023-11-05,whatsapp,4,Good range of paints,,availability
+131,91,5422,2025-10-30,whatsapp,4,Satisfied with purchase,,price
+132,934,4593,2025-05-19,in_store,3,Could be better,,service
+133,600,1316,2023-11-18,google_maps,2,Quality not as expected,,product_quality
+134,358,2855,2024-08-20,in_store,5,Bahut acha service mila,,product_quality
+135,575,6047,2026-02-21,whatsapp,3,Average service,,price
+136,704,2578,2024-05-29,google_maps,3,Average service,,price
+137,475,1591,2024-01-05,in_store,2,Quality not as expected,,product_quality
+138,368,4781,2025-06-25,in_store,3,Could be better,,price
+139,445,1623,2024-01-10,whatsapp,5,Bahut acha service mila,,product_quality
+140,98,1010,2023-10-18,in_store,3,"Product ok, price thoda zyada",,service
+141,450,4398,2025-04-23,in_store,5,"Good quality products, will come again",,availability
+142,72,4233,2025-03-30,whatsapp,4,Good range of paints,,service
+143,332,3931,2025-02-10,in_store,5,"Good quality products, will come again",,price
+144,366,3758,2025-01-02,in_store,4,Satisfied with purchase,,service
+145,489,6374,2026-04-08,in_store,4,Satisfied with purchase,,product_quality
+146,171,2544,2024-05-24,in_store,3,Average service,,availability
+147,482,542,2023-06-19,in_store,4,"Nice shop, helpful staff",,availability
+148,453,74,2023-04-14,whatsapp,5,Best paint shop in Ballia,,service
+149,10,6458,2026-04-22,whatsapp,5,"Good quality products, will come again",,product_quality
+150,786,340,2023-05-14,in_store,4,Satisfied with purchase,,product_quality
+151,485,2199,2024-04-14,in_store,4,Satisfied with purchase,,availability
+152,691,3418,2024-11-07,in_store,3,Could be better,,product_quality
+153,183,6300,2026-03-30,whatsapp,2,Staff not helpful,,product_quality
+154,695,4192,2025-03-24,in_store,4,"Nice shop, helpful staff",,price
+155,113,4031,2025-03-06,in_store,4,"Nice shop, helpful staff",,service
+156,947,5803,2026-01-06,in_store,3,Could be better,,service
+157,609,4112,2025-03-14,google_maps,5,"Good quality products, will come again",,product_quality
+158,936,4527,2025-05-10,in_store,5,"Good quality products, will come again",,service
+159,617,4713,2025-06-10,in_store,3,Could be better,,product_quality
+160,247,1949,2024-03-12,in_store,4,Satisfied with purchase,,service
+161,573,2546,2024-05-27,whatsapp,4,"Nice shop, helpful staff",,service
+162,516,5409,2025-10-31,whatsapp,3,Average service,,price
+163,522,1171,2023-11-05,in_store,4,"Nice shop, helpful staff",,price
+164,305,6461,2026-04-20,google_maps,4,"Nice shop, helpful staff",,product_quality
+165,742,5563,2025-11-21,whatsapp,5,Best paint shop in Ballia,,price
+166,564,6833,2026-06-24,in_store,4,Satisfied with purchase,,price
+167,546,609,2023-07-08,in_store,5,"Good quality products, will come again",,availability
+168,287,3277,2024-10-26,in_store,3,Could be better,,product_quality
+169,606,6330,2026-04-04,whatsapp,4,"Nice shop, helpful staff",,availability
+170,232,4328,2025-04-12,whatsapp,3,Could be better,,availability
+171,111,4535,2025-05-12,in_store,3,Average service,,product_quality
+172,370,699,2023-07-31,in_store,5,"Good quality products, will come again",,price
+173,578,4253,2025-04-03,in_store,1,Wrong product delivered,,product_quality
+174,446,2224,2024-04-20,in_store,4,"Nice shop, helpful staff",,availability
+175,555,6831,2026-06-22,in_store,2,Staff not helpful,,price
+176,395,5970,2026-02-08,in_store,3,Average service,,product_quality
+177,116,810,2023-09-08,whatsapp,5,Bahut acha service mila,,service
+178,380,3378,2024-11-05,whatsapp,4,"Nice shop, helpful staff",,service
+179,294,5555,2025-11-20,whatsapp,5,"Good quality products, will come again",,availability
+180,512,2706,2024-07-04,in_store,1,Wrong product delivered,,product_quality
+181,520,4248,2025-03-30,whatsapp,4,Good range of paints,,service
+182,441,10,2023-04-05,whatsapp,5,Bahut acha service mila,,product_quality
+183,866,3682,2024-12-20,whatsapp,4,"Nice shop, helpful staff",,service
+184,203,2247,2024-04-23,google_maps,4,Satisfied with purchase,,service
+185,862,1122,2023-10-28,whatsapp,3,Average service,,price
+186,426,6019,2026-02-13,in_store,4,Good range of paints,,service
+187,339,457,2023-05-28,in_store,5,Best paint shop in Ballia,,availability
+188,264,4641,2025-05-24,in_store,5,"Good quality products, will come again",,price
+189,909,1500,2023-12-17,whatsapp,4,"Nice shop, helpful staff",,service
+190,791,2463,2024-05-15,in_store,4,"Nice shop, helpful staff",,availability
+191,218,2096,2024-04-01,whatsapp,3,Average service,,product_quality
+192,586,6470,2026-04-25,in_store,4,"Nice shop, helpful staff",,availability
+193,488,4611,2025-05-21,whatsapp,2,Quality not as expected,,product_quality
+194,784,5917,2026-01-28,in_store,4,"Nice shop, helpful staff",,availability
+195,541,6283,2026-03-26,whatsapp,5,Best paint shop in Ballia,,service
+196,456,3903,2025-02-04,whatsapp,5,"Good quality products, will come again",,price
+197,548,5615,2025-11-28,whatsapp,4,"Nice shop, helpful staff",,service
+198,526,5682,2025-12-08,in_store,5,"Good quality products, will come again",,product_quality
+199,857,5114,2025-09-25,in_store,5,Best paint shop in Ballia,,price
+200,445,6639,2026-05-16,whatsapp,4,Good range of paints,,price
+201,492,391,2023-05-20,whatsapp,2,Quality not as expected,,product_quality
+202,135,2036,2024-03-24,whatsapp,5,Best paint shop in Ballia,,service
+203,849,6367,2026-04-06,in_store,4,Satisfied with purchase,,availability
+204,22,1538,2023-12-24,google_maps,3,"Product ok, price thoda zyada",,product_quality
+205,336,1782,2024-02-14,whatsapp,4,Satisfied with purchase,,service
+206,458,3280,2024-10-28,in_store,5,Best paint shop in Ballia,,product_quality
+207,188,564,2023-06-24,google_maps,5,Best paint shop in Ballia,,product_quality
+208,826,2641,2024-06-13,whatsapp,1,Wrong product delivered,,price
+209,587,2303,2024-04-28,whatsapp,2,Quality not as expected,,product_quality
+210,229,3623,2024-12-06,in_store,5,Best paint shop in Ballia,,service
+211,512,1331,2023-11-20,google_maps,2,Delivery late,,product_quality
+212,254,5812,2026-01-07,whatsapp,3,"Product ok, price thoda zyada",,price
+213,423,5368,2025-10-25,in_store,5,Best paint shop in Ballia,,availability
+214,242,4667,2025-05-31,whatsapp,4,Satisfied with purchase,,service
+215,915,1824,2024-02-24,in_store,1,Wrong product delivered,,service
+216,299,4205,2025-03-25,in_store,5,Best paint shop in Ballia,,service
+217,602,3505,2024-11-15,whatsapp,5,Best paint shop in Ballia,,product_quality
+218,230,685,2023-07-29,whatsapp,4,"Nice shop, helpful staff",,availability
+219,630,3071,2024-10-07,in_store,3,Average service,,availability
+220,625,1620,2024-01-10,in_store,3,Could be better,,product_quality
+221,110,4642,2025-05-24,google_maps,5,Best paint shop in Ballia,,product_quality
+222,624,5243,2025-10-15,in_store,5,"Good quality products, will come again",,product_quality
+223,594,912,2023-10-05,in_store,4,Satisfied with purchase,,price
+224,400,5224,2025-10-13,in_store,4,Satisfied with purchase,,price
+225,368,6518,2026-04-30,in_store,4,"Nice shop, helpful staff",,price
+226,283,52,2023-04-11,whatsapp,4,"Nice shop, helpful staff",,service
+227,676,510,2023-06-07,google_maps,4,Satisfied with purchase,,product_quality
+228,562,5841,2026-01-12,in_store,4,Good range of paints,,service
+229,829,5117,2025-09-24,google_maps,4,Satisfied with purchase,,availability
+230,426,1277,2023-11-15,whatsapp,3,Average service,,service
+231,687,4496,2025-05-08,in_store,5,Bahut acha service mila,,product_quality
+232,227,198,2023-04-26,in_store,2,Staff not helpful,,price
+233,628,32,2023-04-06,in_store,5,Bahut acha service mila,,service
+234,486,5097,2025-09-22,in_store,3,Could be better,,service
+235,483,1169,2023-11-05,whatsapp,3,Could be better,,product_quality
+236,599,5109,2025-09-25,whatsapp,4,Good range of paints,,availability
+237,658,3134,2024-10-12,in_store,5,Best paint shop in Ballia,,service
+238,250,6818,2026-06-17,in_store,4,Satisfied with purchase,,service
+239,772,1026,2023-10-18,in_store,4,"Nice shop, helpful staff",,availability
+240,478,1288,2023-11-17,in_store,5,Best paint shop in Ballia,,price
+241,827,422,2023-05-23,whatsapp,5,Bahut acha service mila,,product_quality
+242,16,1791,2024-02-15,in_store,2,Staff not helpful,,service
+243,494,2586,2024-05-31,in_store,5,"Good quality products, will come again",,price
+244,642,6416,2026-04-12,whatsapp,2,Staff not helpful,,price
+245,948,3015,2024-09-28,in_store,4,Good range of paints,,product_quality
+246,409,4825,2025-07-09,in_store,4,Good range of paints,,availability
+247,601,5431,2025-10-30,in_store,4,"Nice shop, helpful staff",,product_quality
+248,645,3431,2024-11-09,in_store,5,"Good quality products, will come again",,service
+249,442,5256,2025-10-15,in_store,2,Staff not helpful,,price
+250,57,1178,2023-11-06,whatsapp,4,Satisfied with purchase,,price
+251,210,149,2023-04-21,in_store,4,"Nice shop, helpful staff",,service
+252,569,5656,2025-12-03,in_store,5,Bahut acha service mila,,product_quality
+253,165,1986,2024-03-19,whatsapp,5,Best paint shop in Ballia,,product_quality
+254,201,5540,2025-11-16,whatsapp,4,"Nice shop, helpful staff",,availability
+255,916,1423,2023-12-01,in_store,5,Bahut acha service mila,,availability
+256,854,527,2023-06-13,whatsapp,5,Best paint shop in Ballia,,price
+257,237,4020,2025-03-03,whatsapp,4,Satisfied with purchase,,price
+258,387,740,2023-08-15,in_store,4,Good range of paints,,service
+259,250,417,2023-05-23,in_store,3,"Product ok, price thoda zyada",,service
+260,747,1497,2023-12-14,whatsapp,3,Average service,,availability
+261,383,3811,2025-01-15,in_store,4,Good range of paints,,price
+262,12,1661,2024-01-18,whatsapp,1,Very bad experience,,product_quality
+263,447,2424,2024-05-14,in_store,2,Quality not as expected,,product_quality
+264,555,4100,2025-03-13,whatsapp,4,"Nice shop, helpful staff",,product_quality
+265,278,6093,2026-03-01,in_store,5,"Good quality products, will come again",,service
+266,817,1649,2024-01-15,whatsapp,5,Bahut acha service mila,,product_quality
+267,184,4339,2025-04-12,google_maps,2,Quality not as expected,,availability
+268,914,574,2023-06-26,google_maps,4,Satisfied with purchase,,price
+269,427,5782,2025-12-31,google_maps,4,Satisfied with purchase,,price
+270,15,4170,2025-03-19,in_store,4,"Nice shop, helpful staff",,availability
+271,691,3125,2024-10-09,google_maps,5,Best paint shop in Ballia,,product_quality
+272,648,3205,2024-10-18,in_store,1,Wrong product delivered,,product_quality
+273,515,2709,2024-07-04,in_store,5,Best paint shop in Ballia,,service
+274,773,2677,2024-06-25,in_store,3,Could be better,,product_quality
+275,581,1459,2023-12-08,whatsapp,3,"Product ok, price thoda zyada",,product_quality
+276,456,5032,2025-09-05,whatsapp,4,"Nice shop, helpful staff",,price
+277,361,2211,2024-04-15,google_maps,3,Could be better,,product_quality
+278,481,6336,2026-04-05,whatsapp,3,Could be better,,availability
+279,605,6414,2026-04-14,whatsapp,4,Good range of paints,,price
+280,347,5310,2025-10-21,in_store,4,Good range of paints,,service
+281,607,3942,2025-02-13,google_maps,3,Could be better,,price
+282,90,4074,2025-03-11,whatsapp,3,Average service,,service
+283,752,4133,2025-03-19,in_store,3,Average service,,availability
+284,926,5809,2026-01-04,in_store,5,Best paint shop in Ballia,,availability
+285,170,675,2023-07-26,in_store,4,"Nice shop, helpful staff",,service
+286,700,3930,2025-02-12,whatsapp,5,Best paint shop in Ballia,,price
+287,886,3048,2024-10-04,in_store,4,Good range of paints,,service
+288,747,725,2023-08-11,in_store,4,Satisfied with purchase,,price
+289,4,2218,2024-04-16,in_store,4,Good range of paints,,product_quality
+290,875,6803,2026-06-13,google_maps,5,Bahut acha service mila,,service
+291,593,6496,2026-04-29,in_store,3,Could be better,,product_quality
+292,629,736,2023-08-16,whatsapp,3,"Product ok, price thoda zyada",,product_quality
+293,540,2713,2024-07-05,whatsapp,5,Bahut acha service mila,,product_quality
+294,864,5936,2026-02-02,whatsapp,4,Good range of paints,,product_quality
+295,678,3454,2024-11-09,in_store,4,"Nice shop, helpful staff",,availability
+296,268,657,2023-07-19,in_store,4,"Nice shop, helpful staff",,product_quality
+297,218,3160,2024-10-13,whatsapp,4,Good range of paints,,price
+298,524,5926,2026-01-30,whatsapp,5,Best paint shop in Ballia,,price
+299,577,5990,2026-02-10,google_maps,4,"Nice shop, helpful staff",,availability
+300,861,157,2023-04-22,in_store,5,Best paint shop in Ballia,,service
+301,625,4345,2025-04-15,in_store,5,Bahut acha service mila,,availability
+302,715,5712,2025-12-16,in_store,3,Could be better,,service
+303,112,5488,2025-11-07,whatsapp,2,Quality not as expected,,price
+304,659,3025,2024-10-03,in_store,4,"Nice shop, helpful staff",,availability
+305,555,5287,2025-10-18,whatsapp,5,"Good quality products, will come again",,availability
+306,185,3760,2025-01-04,in_store,5,Best paint shop in Ballia,,availability
+307,563,3949,2025-02-15,whatsapp,4,"Nice shop, helpful staff",,product_quality
+308,534,5072,2025-09-19,in_store,5,Bahut acha service mila,,availability
+309,138,5007,2025-08-29,in_store,4,"Nice shop, helpful staff",,product_quality
+310,939,1577,2024-01-01,in_store,5,Bahut acha service mila,,service
+311,261,4766,2025-06-20,in_store,4,Satisfied with purchase,,availability
+312,498,1753,2024-02-08,in_store,5,"Good quality products, will come again",,service
+313,744,6794,2026-06-14,in_store,5,"Good quality products, will come again",,product_quality
+314,890,5560,2025-11-20,in_store,4,Good range of paints,,price
+315,664,2099,2024-03-30,in_store,2,Quality not as expected,,availability
+316,654,3568,2024-11-28,in_store,5,Bahut acha service mila,,product_quality
+317,106,5300,2025-10-18,google_maps,3,"Product ok, price thoda zyada",,product_quality
+318,613,3612,2024-12-05,in_store,5,Bahut acha service mila,,price
+319,615,2031,2024-03-26,whatsapp,5,Bahut acha service mila,,service
+320,154,3055,2024-10-04,in_store,4,"Nice shop, helpful staff",,price
+321,640,2445,2024-05-16,in_store,4,Satisfied with purchase,,availability
+322,185,1185,2023-11-08,in_store,4,Good range of paints,,service
+323,813,2620,2024-06-07,in_store,5,"Good quality products, will come again",,availability
+324,235,1547,2023-12-26,whatsapp,4,Good range of paints,,product_quality
+325,900,1518,2023-12-22,in_store,3,Could be better,,price
+326,457,5931,2026-01-27,whatsapp,4,Good range of paints,,product_quality
+327,559,758,2023-08-22,in_store,5,Best paint shop in Ballia,,product_quality
+328,898,2436,2024-05-12,whatsapp,4,Good range of paints,,availability
+329,447,4708,2025-06-08,whatsapp,5,Best paint shop in Ballia,,price
+330,883,1686,2024-01-25,in_store,5,"Good quality products, will come again",,availability
+331,708,5212,2025-10-13,in_store,4,Satisfied with purchase,,product_quality
+332,123,3348,2024-11-03,whatsapp,5,Best paint shop in Ballia,,service
+333,566,4830,2025-07-10,in_store,4,"Nice shop, helpful staff",,service
+334,684,3743,2024-12-30,in_store,5,"Good quality products, will come again",,service
+335,174,983,2023-10-15,whatsapp,4,"Nice shop, helpful staff",,availability
+336,389,3162,2024-10-11,whatsapp,3,"Product ok, price thoda zyada",,service
+337,913,6621,2026-05-15,in_store,4,Satisfied with purchase,,availability
+338,358,5948,2026-02-04,whatsapp,3,Average service,,price
+339,71,6429,2026-04-15,whatsapp,4,Good range of paints,,price
+340,310,3,2023-04-04,whatsapp,4,Good range of paints,,product_quality
+341,111,1934,2024-03-13,whatsapp,4,"Nice shop, helpful staff",,price
+342,433,4246,2025-04-02,in_store,4,Satisfied with purchase,,availability
+343,924,5776,2025-12-29,in_store,5,Best paint shop in Ballia,,service
+344,414,5885,2026-01-22,in_store,3,Average service,,availability
+345,518,815,2023-09-07,in_store,5,Bahut acha service mila,,product_quality
+346,831,5686,2025-12-10,google_maps,5,Best paint shop in Ballia,,product_quality
+347,607,1773,2024-02-15,google_maps,1,Very bad experience,,price
+348,597,5888,2026-01-22,google_maps,5,Bahut acha service mila,,price
+349,277,1214,2023-11-11,whatsapp,5,Bahut acha service mila,,availability
+350,256,1297,2023-11-15,in_store,4,Good range of paints,,service
+351,394,3288,2024-10-27,whatsapp,4,"Nice shop, helpful staff",,product_quality
+352,117,4676,2025-05-28,in_store,3,Average service,,availability
+353,341,5274,2025-10-15,whatsapp,3,Could be better,,price
+354,541,1982,2024-03-17,in_store,5,Bahut acha service mila,,service
+355,836,2366,2024-05-07,in_store,2,Delivery late,,service
+356,429,888,2023-09-29,in_store,4,"Nice shop, helpful staff",,product_quality
+357,494,1779,2024-02-16,in_store,1,Very bad experience,,product_quality
+358,177,4024,2025-03-03,whatsapp,5,Best paint shop in Ballia,,availability
+359,191,4564,2025-05-15,in_store,4,Good range of paints,,product_quality
+360,727,5906,2026-01-26,whatsapp,3,Average service,,product_quality
+361,754,1564,2023-12-29,whatsapp,5,Best paint shop in Ballia,,service
+362,897,6834,2026-06-23,whatsapp,3,"Product ok, price thoda zyada",,price
+363,556,2957,2024-09-17,in_store,5,"Good quality products, will come again",,price
+364,328,4283,2025-04-07,in_store,4,"Nice shop, helpful staff",,availability
+365,707,239,2023-04-30,in_store,5,Bahut acha service mila,,price
+366,572,235,2023-04-29,in_store,5,Best paint shop in Ballia,,product_quality
+367,416,1710,2024-02-01,in_store,4,Good range of paints,,product_quality
+368,116,5502,2025-11-12,in_store,2,Delivery late,,product_quality
+369,628,469,2023-05-30,whatsapp,5,"Good quality products, will come again",,service
+370,22,4968,2025-08-18,google_maps,3,Average service,,availability
+371,939,5096,2025-09-23,in_store,4,Satisfied with purchase,,price
+372,620,5962,2026-02-04,whatsapp,3,"Product ok, price thoda zyada",,product_quality
+373,120,6691,2026-05-24,whatsapp,3,Could be better,,service
+374,318,2602,2024-06-05,whatsapp,4,"Nice shop, helpful staff",,price
+375,525,5527,2025-11-16,google_maps,5,Best paint shop in Ballia,,service
+376,787,3227,2024-10-20,whatsapp,4,"Nice shop, helpful staff",,availability
+377,818,1247,2023-11-14,whatsapp,5,Bahut acha service mila,,product_quality
+378,32,984,2023-10-15,in_store,4,"Nice shop, helpful staff",,availability
+379,785,5780,2025-12-31,in_store,5,Bahut acha service mila,,availability
+380,24,1448,2023-12-05,in_store,4,Satisfied with purchase,,availability
+381,46,2919,2024-09-04,google_maps,5,"Good quality products, will come again",,availability
+382,707,490,2023-06-03,whatsapp,1,Not recommended,,price
+383,556,311,2023-05-07,in_store,4,Satisfied with purchase,,availability
+384,358,3127,2024-10-08,whatsapp,2,Quality not as expected,,price
+385,291,3009,2024-09-27,whatsapp,4,"Nice shop, helpful staff",,service
+386,268,4404,2025-04-22,whatsapp,4,Satisfied with purchase,,availability
+387,721,1772,2024-02-15,whatsapp,2,Delivery late,,price
+388,417,1384,2023-11-25,google_maps,5,Best paint shop in Ballia,,product_quality
+389,740,5927,2026-01-27,whatsapp,5,Best paint shop in Ballia,,availability
+390,30,1905,2024-03-09,google_maps,4,Satisfied with purchase,,price
+391,325,251,2023-05-02,in_store,3,"Product ok, price thoda zyada",,availability
+392,729,2692,2024-06-29,in_store,5,Best paint shop in Ballia,,service
+393,616,3599,2024-12-02,in_store,5,"Good quality products, will come again",,service
+394,402,6438,2026-04-17,whatsapp,5,Bahut acha service mila,,price
+395,282,1962,2024-03-17,whatsapp,5,Best paint shop in Ballia,,product_quality
+396,791,5870,2026-01-16,google_maps,5,Best paint shop in Ballia,,service
+397,539,2956,2024-09-15,google_maps,2,Delivery late,,product_quality
+398,762,4092,2025-03-14,in_store,5,Best paint shop in Ballia,,price
+399,379,3741,2024-12-31,in_store,4,Good range of paints,,availability
+400,897,3728,2024-12-27,in_store,5,"Good quality products, will come again",,product_quality
+401,132,2679,2024-06-27,in_store,5,"Good quality products, will come again",,product_quality
+402,834,5440,2025-10-31,whatsapp,5,"Good quality products, will come again",,product_quality
+403,669,2813,2024-08-07,whatsapp,4,Satisfied with purchase,,price
+404,293,3917,2025-02-08,google_maps,5,Bahut acha service mila,,service
+405,84,2796,2024-08-02,whatsapp,5,Best paint shop in Ballia,,product_quality
+406,62,363,2023-05-15,whatsapp,5,Best paint shop in Ballia,,product_quality
+407,10,2622,2024-06-10,in_store,4,"Nice shop, helpful staff",,availability
+408,429,1105,2023-10-27,google_maps,3,"Product ok, price thoda zyada",,service
+409,808,4860,2025-07-20,google_maps,5,Bahut acha service mila,,price
+410,237,4362,2025-04-17,in_store,5,Best paint shop in Ballia,,service
+411,549,2735,2024-07-13,whatsapp,1,Wrong product delivered,,availability
+412,647,406,2023-05-19,whatsapp,5,Best paint shop in Ballia,,product_quality
+413,840,5949,2026-02-02,in_store,4,Good range of paints,,availability
+414,283,4870,2025-07-22,in_store,4,"Nice shop, helpful staff",,price
+415,754,3941,2025-02-14,whatsapp,4,"Nice shop, helpful staff",,price
+416,110,4473,2025-05-03,in_store,3,"Product ok, price thoda zyada",,price
+417,696,2674,2024-06-26,whatsapp,4,Satisfied with purchase,,availability
+418,614,6281,2026-03-26,in_store,4,Good range of paints,,product_quality
+419,783,1155,2023-11-03,in_store,2,Delivery late,,service
+420,894,2492,2024-05-19,whatsapp,4,Good range of paints,,availability
+421,614,2647,2024-06-14,in_store,4,Satisfied with purchase,,availability
+422,742,3438,2024-11-08,google_maps,3,"Product ok, price thoda zyada",,service
+423,119,6769,2026-06-04,in_store,3,Could be better,,price
+424,859,5471,2025-11-07,in_store,5,Best paint shop in Ballia,,availability
+425,322,4926,2025-08-07,in_store,2,Delivery late,,product_quality
+426,809,208,2023-04-24,whatsapp,4,Satisfied with purchase,,service
+427,8,3854,2025-01-25,in_store,5,Best paint shop in Ballia,,availability
+428,106,4970,2025-08-20,in_store,4,"Nice shop, helpful staff",,price
+429,815,4849,2025-07-14,whatsapp,4,Good range of paints,,product_quality
+430,534,3250,2024-10-24,in_store,5,Best paint shop in Ballia,,price
+431,322,849,2023-09-21,in_store,4,Satisfied with purchase,,availability
+432,915,6677,2026-05-23,in_store,5,Best paint shop in Ballia,,product_quality
+433,620,1344,2023-11-19,google_maps,4,Satisfied with purchase,,service
+434,665,107,2023-04-16,whatsapp,4,"Nice shop, helpful staff",,price
+435,522,471,2023-06-01,google_maps,5,Bahut acha service mila,,price
+436,843,2020,2024-03-22,google_maps,3,Average service,,price
+437,313,2521,2024-05-25,whatsapp,5,"Good quality products, will come again",,product_quality
+438,143,4087,2025-03-14,in_store,2,Staff not helpful,,service
+439,76,838,2023-09-18,google_maps,3,"Product ok, price thoda zyada",,price
+440,522,3956,2025-02-18,in_store,2,Quality not as expected,,availability
+441,314,1714,2024-01-31,in_store,4,Satisfied with purchase,,availability
+442,657,2883,2024-08-28,in_store,4,"Nice shop, helpful staff",,product_quality
+443,461,1369,2023-11-24,in_store,5,Best paint shop in Ballia,,availability
+444,665,5501,2025-11-11,in_store,5,"Good quality products, will come again",,service
+445,382,4068,2025-03-10,whatsapp,4,"Nice shop, helpful staff",,service
+446,332,2902,2024-09-02,in_store,4,Good range of paints,,price
+447,946,579,2023-06-26,google_maps,1,Not recommended,,product_quality
+448,129,856,2023-09-21,in_store,2,Quality not as expected,,service
+449,166,262,2023-05-01,google_maps,4,Satisfied with purchase,,product_quality
+450,355,2240,2024-04-22,google_maps,4,"Nice shop, helpful staff",,price
+451,81,6112,2026-03-03,in_store,3,"Product ok, price thoda zyada",,price
+452,73,6469,2026-04-23,in_store,4,"Nice shop, helpful staff",,product_quality
+453,899,4296,2025-04-08,in_store,3,Could be better,,service
+454,762,1959,2024-03-13,whatsapp,3,Could be better,,product_quality
+455,588,1971,2024-03-15,in_store,2,Staff not helpful,,service
+456,500,2341,2024-05-06,whatsapp,5,Bahut acha service mila,,product_quality
+457,863,1703,2024-01-28,whatsapp,4,"Nice shop, helpful staff",,price
+458,861,3175,2024-10-13,google_maps,2,Delivery late,,price
+459,192,4443,2025-04-30,google_maps,5,Bahut acha service mila,,price
+460,253,3530,2024-11-22,whatsapp,3,Average service,,product_quality
+461,286,2826,2024-08-10,in_store,5,"Good quality products, will come again",,price
+462,869,3631,2024-12-08,whatsapp,5,Bahut acha service mila,,product_quality
+463,829,1110,2023-10-26,in_store,4,"Nice shop, helpful staff",,service
+464,388,4297,2025-04-09,whatsapp,4,Satisfied with purchase,,product_quality
+465,477,3486,2024-11-14,in_store,4,"Nice shop, helpful staff",,availability
+466,366,3925,2025-02-10,in_store,4,"Nice shop, helpful staff",,availability
+467,371,1452,2023-12-06,in_store,3,Could be better,,product_quality
+468,340,638,2023-07-16,in_store,4,"Nice shop, helpful staff",,product_quality
+469,315,6667,2026-05-20,whatsapp,5,Bahut acha service mila,,product_quality
+470,593,2201,2024-04-16,in_store,4,Satisfied with purchase,,price
+471,296,1046,2023-10-22,whatsapp,3,"Product ok, price thoda zyada",,availability
+472,937,6332,2026-04-02,in_store,2,Delivery late,,availability
+473,929,3301,2024-10-31,in_store,4,"Nice shop, helpful staff",,availability
+474,847,6757,2026-06-03,whatsapp,4,Good range of paints,,product_quality
+475,96,2985,2024-09-25,in_store,4,"Nice shop, helpful staff",,product_quality
+476,886,5146,2025-09-27,whatsapp,4,Satisfied with purchase,,product_quality
+477,832,31,2023-04-06,whatsapp,5,Best paint shop in Ballia,,service
+478,345,5923,2026-01-29,in_store,5,Bahut acha service mila,,availability
+479,864,4897,2025-07-29,google_maps,5,Bahut acha service mila,,service
+480,914,3698,2024-12-22,google_maps,4,"Nice shop, helpful staff",,service
+481,740,1700,2024-01-26,whatsapp,4,Satisfied with purchase,,availability
+482,33,3794,2025-01-11,whatsapp,5,"Good quality products, will come again",,service
+483,555,3820,2025-01-17,whatsapp,4,"Nice shop, helpful staff",,service
+484,565,4836,2025-07-11,in_store,4,Satisfied with purchase,,service
+485,321,6258,2026-03-26,whatsapp,5,Bahut acha service mila,,service
+486,193,2501,2024-05-20,in_store,3,Average service,,availability
+487,502,4922,2025-08-05,in_store,4,Satisfied with purchase,,availability
+488,367,4457,2025-05-01,in_store,4,Good range of paints,,service
+489,285,3683,2024-12-21,in_store,5,"Good quality products, will come again",,product_quality
+490,267,97,2023-04-15,in_store,4,Good range of paints,,price
+491,495,4664,2025-05-30,in_store,5,Bahut acha service mila,,availability
+492,422,4801,2025-07-02,in_store,4,Satisfied with purchase,,availability
+493,466,5947,2026-02-01,whatsapp,2,Staff not helpful,,product_quality
+494,800,6633,2026-05-17,in_store,4,Good range of paints,,availability
+495,368,5022,2025-09-03,whatsapp,4,"Nice shop, helpful staff",,availability
+496,27,985,2023-10-16,whatsapp,5,Bahut acha service mila,,price
+497,519,454,2023-05-29,in_store,5,Bahut acha service mila,,product_quality
+498,929,5005,2025-08-31,google_maps,5,Best paint shop in Ballia,,product_quality
+499,96,250,2023-04-30,in_store,4,Satisfied with purchase,,product_quality
+500,318,4657,2025-05-26,whatsapp,4,Good range of paints,,service
+501,876,2466,2024-05-16,in_store,5,Best paint shop in Ballia,,availability
+502,96,5640,2025-12-01,in_store,4,Satisfied with purchase,,availability
+503,523,1663,2024-01-17,in_store,4,Good range of paints,,service
+504,838,2469,2024-05-18,whatsapp,4,Good range of paints,,product_quality
+505,831,5354,2025-10-26,whatsapp,5,Bahut acha service mila,,product_quality
+506,167,6111,2026-03-05,in_store,3,"Product ok, price thoda zyada",,availability
+507,806,2723,2024-07-08,whatsapp,3,Could be better,,service
+508,125,6650,2026-05-19,in_store,4,Good range of paints,,product_quality
+509,109,400,2023-05-18,google_maps,4,Good range of paints,,price
+510,443,3456,2024-11-10,in_store,4,"Nice shop, helpful staff",,availability
+511,75,2413,2024-05-13,google_maps,4,Satisfied with purchase,,price
+512,820,2830,2024-08-12,in_store,5,Bahut acha service mila,,product_quality
+513,916,5210,2025-10-10,whatsapp,4,Good range of paints,,product_quality
+514,771,5149,2025-09-27,whatsapp,4,Satisfied with purchase,,price
+515,583,3149,2024-10-12,in_store,4,Satisfied with purchase,,service
+516,704,2603,2024-06-04,whatsapp,4,Satisfied with purchase,,service
+517,893,1240,2023-11-14,whatsapp,4,Good range of paints,,price
+518,122,3257,2024-10-26,in_store,5,Best paint shop in Ballia,,product_quality
+519,684,387,2023-05-20,whatsapp,5,Bahut acha service mila,,price
+520,123,3086,2024-10-06,google_maps,4,"Nice shop, helpful staff",,availability
+521,481,2662,2024-06-22,google_maps,4,Satisfied with purchase,,price
+522,522,787,2023-08-31,google_maps,4,"Nice shop, helpful staff",,service
+523,151,2811,2024-08-05,in_store,2,Quality not as expected,,product_quality
+524,293,6635,2026-05-18,whatsapp,4,Satisfied with purchase,,price
+525,258,3711,2024-12-26,whatsapp,5,"Good quality products, will come again",,price
+526,445,5228,2025-10-12,google_maps,5,Best paint shop in Ballia,,availability
+527,424,1424,2023-12-02,whatsapp,5,"Good quality products, will come again",,availability
+528,466,3317,2024-10-30,in_store,4,Good range of paints,,service
+529,944,2734,2024-07-12,in_store,4,Good range of paints,,product_quality
+530,875,2125,2024-04-05,in_store,4,Good range of paints,,service
+531,261,4616,2025-05-22,whatsapp,4,Satisfied with purchase,,service
+532,464,1022,2023-10-19,google_maps,4,Satisfied with purchase,,service
+533,247,1358,2023-11-21,in_store,4,"Nice shop, helpful staff",,availability
+534,402,2459,2024-05-17,in_store,4,"Nice shop, helpful staff",,availability
+535,499,226,2023-04-27,whatsapp,4,"Nice shop, helpful staff",,price
+536,938,5753,2025-12-24,in_store,4,"Nice shop, helpful staff",,price
+537,295,4623,2025-05-25,in_store,4,Satisfied with purchase,,product_quality
+538,219,2033,2024-03-26,in_store,3,"Product ok, price thoda zyada",,service
+539,510,2657,2024-06-19,whatsapp,4,Satisfied with purchase,,price
+540,299,5453,2025-11-05,in_store,4,Satisfied with purchase,,product_quality
+541,915,3197,2024-10-19,in_store,2,Delivery late,,availability
+542,318,6553,2026-05-05,whatsapp,3,Could be better,,product_quality
+543,741,6753,2026-06-01,in_store,2,Quality not as expected,,service
+544,486,5346,2025-10-24,google_maps,5,Best paint shop in Ballia,,price
+545,843,3880,2025-02-01,in_store,4,"Nice shop, helpful staff",,price
+546,352,1792,2024-02-18,in_store,1,Not recommended,,availability
+547,508,1327,2023-11-20,in_store,5,Bahut acha service mila,,product_quality
+548,717,1246,2023-11-13,google_maps,3,Average service,,product_quality
+549,107,3749,2025-01-01,in_store,4,Good range of paints,,product_quality
+550,167,373,2023-05-17,in_store,4,Satisfied with purchase,,availability
+551,904,2766,2024-07-20,in_store,5,"Good quality products, will come again",,service
+552,645,5436,2025-11-02,in_store,1,Not recommended,,availability
+553,699,5677,2025-12-10,whatsapp,5,"Good quality products, will come again",,availability
+554,301,4066,2025-03-10,google_maps,4,Satisfied with purchase,,service
+555,868,3759,2025-01-02,whatsapp,5,Best paint shop in Ballia,,service
+556,443,1717,2024-02-01,google_maps,3,Average service,,service
+557,932,729,2023-08-12,whatsapp,4,Satisfied with purchase,,service
+558,289,3680,2024-12-19,in_store,4,Satisfied with purchase,,service
+559,733,1399,2023-11-29,whatsapp,4,Good range of paints,,product_quality
+560,849,3415,2024-11-07,in_store,4,Good range of paints,,availability
+561,895,4871,2025-07-23,whatsapp,5,"Good quality products, will come again",,service
+562,143,6271,2026-03-28,whatsapp,3,Average service,,availability
+563,448,3904,2025-02-04,whatsapp,3,Average service,,availability
+564,874,1070,2023-10-22,google_maps,3,Average service,,product_quality
+565,626,756,2023-08-23,google_maps,4,Satisfied with purchase,,service
+566,699,3536,2024-11-23,in_store,5,"Good quality products, will come again",,service
+567,507,5868,2026-01-15,whatsapp,4,Good range of paints,,availability
+568,910,5155,2025-09-30,google_maps,3,Average service,,service
+569,108,5660,2025-12-06,whatsapp,2,Staff not helpful,,availability
+570,258,4088,2025-03-12,in_store,3,Could be better,,service
+571,275,5312,2025-10-22,in_store,4,Satisfied with purchase,,service
+572,859,5170,2025-10-03,in_store,4,Good range of paints,,service
+573,552,6168,2026-03-15,whatsapp,3,Average service,,price
+574,949,1350,2023-11-21,google_maps,5,Best paint shop in Ballia,,availability
+575,202,4921,2025-08-04,google_maps,4,Satisfied with purchase,,product_quality
+576,826,6775,2026-06-05,in_store,5,Bahut acha service mila,,price
+577,808,4368,2025-04-19,whatsapp,4,Good range of paints,,service
+578,127,6224,2026-03-18,in_store,4,Good range of paints,,product_quality
+579,242,6361,2026-04-08,whatsapp,5,Bahut acha service mila,,price
+580,634,5255,2025-10-14,whatsapp,4,Good range of paints,,product_quality
+581,319,2485,2024-05-19,in_store,1,Wrong product delivered,,service
+582,597,4126,2025-03-17,in_store,4,"Nice shop, helpful staff",,availability
+583,541,3428,2024-11-08,in_store,4,Satisfied with purchase,,service
+584,304,4933,2025-08-08,whatsapp,3,Average service,,availability
+585,551,6417,2026-04-15,in_store,5,"Good quality products, will come again",,price
+586,548,786,2023-09-02,in_store,5,Bahut acha service mila,,service
+587,737,4060,2025-03-10,whatsapp,4,Good range of paints,,availability
+588,470,3178,2024-10-14,in_store,4,"Nice shop, helpful staff",,product_quality
+589,723,43,2023-04-08,in_store,1,Not recommended,,availability
+590,488,3952,2025-02-14,in_store,4,Good range of paints,,product_quality
+591,893,2319,2024-05-01,google_maps,4,Satisfied with purchase,,availability
+592,480,1800,2024-02-20,in_store,4,"Nice shop, helpful staff",,availability
+593,160,4718,2025-06-11,google_maps,2,Quality not as expected,,product_quality
+594,617,2024,2024-03-24,in_store,4,Good range of paints,,product_quality
+595,500,4385,2025-04-20,in_store,4,"Nice shop, helpful staff",,availability
+596,506,4082,2025-03-11,google_maps,2,Quality not as expected,,price
+597,560,4048,2025-03-06,in_store,3,Average service,,price
+598,811,1720,2024-02-02,in_store,4,Satisfied with purchase,,product_quality
+599,688,3978,2025-02-22,in_store,5,Best paint shop in Ballia,,price
+600,134,2742,2024-07-15,whatsapp,2,Quality not as expected,,price
+601,71,5628,2025-11-30,in_store,4,"Nice shop, helpful staff",,availability
+602,280,5065,2025-09-18,google_maps,3,Average service,,product_quality
+603,314,3270,2024-10-26,whatsapp,4,"Nice shop, helpful staff",,product_quality
+604,260,48,2023-04-07,in_store,5,"Good quality products, will come again",,service
+605,192,5568,2025-11-19,in_store,3,Average service,,price
+606,163,1243,2023-11-11,in_store,4,"Nice shop, helpful staff",,availability
+607,430,2608,2024-06-05,google_maps,5,Best paint shop in Ballia,,price
+608,234,4918,2025-08-02,in_store,4,"Nice shop, helpful staff",,service
+609,839,6638,2026-05-16,in_store,2,Delivery late,,service
+610,380,2292,2024-04-27,whatsapp,4,Satisfied with purchase,,availability
+611,863,3043,2024-10-04,in_store,3,"Product ok, price thoda zyada",,availability
+612,227,4262,2025-04-03,in_store,5,"Good quality products, will come again",,availability
+613,270,5810,2026-01-05,google_maps,5,"Good quality products, will come again",,price
+614,101,2375,2024-05-07,whatsapp,5,Bahut acha service mila,,price
+615,664,3808,2025-01-14,whatsapp,5,"Good quality products, will come again",,product_quality
+616,557,5605,2025-11-27,whatsapp,5,Best paint shop in Ballia,,service
+617,680,3470,2024-11-14,in_store,5,Best paint shop in Ballia,,product_quality
+618,39,4546,2025-05-11,in_store,5,Best paint shop in Ballia,,service
+619,622,2102,2024-04-02,in_store,4,Satisfied with purchase,,price
+620,801,3108,2024-10-10,google_maps,2,Delivery late,,price
+621,630,3600,2024-12-02,google_maps,3,Average service,,product_quality
+622,422,6829,2026-06-23,whatsapp,5,Best paint shop in Ballia,,product_quality
+623,207,6062,2026-02-24,in_store,3,"Product ok, price thoda zyada",,availability
+624,503,969,2023-10-13,in_store,4,"Nice shop, helpful staff",,service
+625,373,4276,2025-04-03,in_store,2,Staff not helpful,,price
+626,714,3514,2024-11-17,in_store,3,"Product ok, price thoda zyada",,availability
+627,726,1421,2023-12-02,in_store,4,"Nice shop, helpful staff",,price
+628,447,4913,2025-08-03,google_maps,5,Bahut acha service mila,,availability
+629,186,3855,2025-01-26,whatsapp,3,Average service,,product_quality
+630,139,2698,2024-07-01,whatsapp,4,"Nice shop, helpful staff",,product_quality
+631,445,3828,2025-01-19,in_store,4,Good range of paints,,availability
+632,112,528,2023-06-16,in_store,4,Satisfied with purchase,,availability
+633,163,5902,2026-01-22,in_store,3,Average service,,product_quality
+634,299,601,2023-07-06,whatsapp,5,Best paint shop in Ballia,,availability
+635,873,4034,2025-03-07,whatsapp,3,"Product ok, price thoda zyada",,service
+636,121,2924,2024-09-06,in_store,4,Satisfied with purchase,,availability
+637,614,885,2023-09-27,whatsapp,4,Good range of paints,,availability
+638,267,300,2023-05-08,whatsapp,4,Satisfied with purchase,,product_quality
+639,533,4778,2025-06-23,in_store,5,Bahut acha service mila,,product_quality
+640,117,1420,2023-11-30,whatsapp,5,"Good quality products, will come again",,availability
+641,579,2880,2024-08-28,google_maps,4,"Nice shop, helpful staff",,price
+642,531,3751,2025-01-02,in_store,2,Staff not helpful,,product_quality
+643,521,5186,2025-10-08,whatsapp,5,Best paint shop in Ballia,,service
+644,238,587,2023-06-29,whatsapp,4,Satisfied with purchase,,product_quality
+645,152,1,2023-04-02,whatsapp,4,"Nice shop, helpful staff",,product_quality
+646,317,2412,2024-05-12,in_store,4,Good range of paints,,product_quality
+647,247,4894,2025-07-28,in_store,5,Bahut acha service mila,,service
+648,237,793,2023-09-04,in_store,4,Satisfied with purchase,,service
+649,202,6686,2026-05-23,in_store,4,"Nice shop, helpful staff",,price
+650,664,3935,2025-02-12,whatsapp,2,Delivery late,,availability
+651,239,887,2023-09-29,in_store,3,Could be better,,product_quality
+652,261,4358,2025-04-18,whatsapp,4,Good range of paints,,price
+653,54,5180,2025-10-04,whatsapp,5,Bahut acha service mila,,service
+654,864,3233,2024-10-22,google_maps,2,Quality not as expected,,availability
+655,294,6238,2026-03-21,whatsapp,5,Best paint shop in Ballia,,product_quality
+656,68,459,2023-05-30,google_maps,4,"Nice shop, helpful staff",,price
+657,784,4395,2025-04-23,whatsapp,5,Best paint shop in Ballia,,product_quality
+658,593,5800,2026-01-03,google_maps,5,"Good quality products, will come again",,product_quality
+659,565,1754,2024-02-09,whatsapp,4,Good range of paints,,availability
+660,870,2052,2024-03-27,whatsapp,4,Satisfied with purchase,,price
+661,721,4124,2025-03-16,whatsapp,4,Good range of paints,,availability
+662,570,5530,2025-11-15,in_store,4,"Nice shop, helpful staff",,availability
+663,254,46,2023-04-07,in_store,4,"Nice shop, helpful staff",,service
+664,802,1835,2024-02-26,google_maps,4,Satisfied with purchase,,product_quality
+665,470,2655,2024-06-20,in_store,4,Good range of paints,,service
+666,787,426,2023-05-22,whatsapp,4,Good range of paints,,price
+667,641,228,2023-04-29,in_store,2,Delivery late,,service
+668,929,6502,2026-04-27,google_maps,4,Good range of paints,,service
+669,906,3802,2025-01-13,in_store,5,"Good quality products, will come again",,availability
+670,241,4756,2025-06-17,google_maps,2,Quality not as expected,,price
+671,417,497,2023-06-06,in_store,5,Bahut acha service mila,,price
+672,932,770,2023-08-25,whatsapp,4,Satisfied with purchase,,availability
+673,765,196,2023-04-26,in_store,3,Could be better,,product_quality
+674,189,2778,2024-07-24,in_store,4,Good range of paints,,product_quality
+675,767,3658,2024-12-13,in_store,3,Average service,,price
+676,358,3874,2025-01-28,google_maps,3,"Product ok, price thoda zyada",,availability
+677,78,979,2023-10-12,in_store,5,"Good quality products, will come again",,availability
+678,443,5500,2025-11-11,google_maps,5,"Good quality products, will come again",,price
+679,416,2045,2024-03-26,in_store,5,Bahut acha service mila,,service
+680,130,153,2023-04-19,in_store,5,Best paint shop in Ballia,,price
+681,375,2552,2024-05-28,in_store,1,Not recommended,,service
+682,673,392,2023-05-20,google_maps,4,"Nice shop, helpful staff",,product_quality
+683,92,570,2023-06-27,whatsapp,5,Best paint shop in Ballia,,product_quality
+684,277,682,2023-07-26,in_store,2,Staff not helpful,,price
+685,518,2009,2024-03-21,in_store,4,Good range of paints,,service
+686,146,2044,2024-03-26,in_store,4,Good range of paints,,product_quality
+687,300,945,2023-10-09,whatsapp,4,"Nice shop, helpful staff",,service
+688,409,4902,2025-08-01,whatsapp,5,Bahut acha service mila,,price
+689,876,2368,2024-05-09,whatsapp,5,Bahut acha service mila,,price
+690,423,4463,2025-04-30,in_store,4,Good range of paints,,service
+691,589,3602,2024-12-03,whatsapp,1,Very bad experience,,product_quality
+692,738,1394,2023-11-27,in_store,4,Satisfied with purchase,,service
+693,910,2660,2024-06-19,google_maps,4,Good range of paints,,availability
+694,24,2961,2024-09-17,in_store,5,"Good quality products, will come again",,product_quality
+695,947,4530,2025-05-11,in_store,5,Best paint shop in Ballia,,product_quality
+696,39,4752,2025-06-18,in_store,5,Best paint shop in Ballia,,service
+697,812,4748,2025-06-15,whatsapp,4,"Nice shop, helpful staff",,availability
+698,468,2606,2024-06-05,in_store,4,Good range of paints,,availability
+699,914,1517,2023-12-21,in_store,4,"Nice shop, helpful staff",,product_quality
+700,448,5470,2025-11-05,in_store,3,Average service,,availability
+701,26,1351,2023-11-21,in_store,4,Good range of paints,,availability
+702,641,1485,2023-12-13,in_store,4,"Nice shop, helpful staff",,product_quality
+703,428,3647,2024-12-09,whatsapp,5,Bahut acha service mila,,product_quality
+704,679,3872,2025-01-31,whatsapp,5,Bahut acha service mila,,availability
+705,833,5844,2026-01-12,in_store,5,Best paint shop in Ballia,,availability
+706,482,112,2023-04-15,google_maps,5,"Good quality products, will come again",,price
+707,824,5815,2026-01-05,in_store,4,Satisfied with purchase,,availability
+708,433,2965,2024-09-17,in_store,5,Best paint shop in Ballia,,price
+709,806,962,2023-10-12,in_store,4,Good range of paints,,service
+710,286,530,2023-06-13,google_maps,5,Best paint shop in Ballia,,product_quality
+711,919,6759,2026-06-04,in_store,3,Average service,,price
+712,513,2344,2024-05-07,google_maps,5,"Good quality products, will come again",,service
+713,98,1978,2024-03-18,whatsapp,4,Good range of paints,,price
+714,405,482,2023-05-30,whatsapp,5,"Good quality products, will come again",,service
+715,259,6827,2026-06-21,whatsapp,5,"Good quality products, will come again",,availability
+716,900,3638,2024-12-09,in_store,2,Staff not helpful,,price
+717,362,5668,2025-12-08,whatsapp,4,Good range of paints,,availability
+718,431,1196,2023-11-07,whatsapp,4,Good range of paints,,service
+719,637,6343,2026-04-06,in_store,4,Good range of paints,,availability
+720,21,5992,2026-02-08,whatsapp,5,Bahut acha service mila,,availability
+721,191,4288,2025-04-08,whatsapp,4,Satisfied with purchase,,product_quality
+722,9,5083,2025-09-20,google_maps,3,Average service,,availability
+723,907,2801,2024-08-01,in_store,3,Could be better,,product_quality
+724,27,12,2023-04-03,whatsapp,5,"Good quality products, will come again",,product_quality
+725,255,1896,2024-03-08,whatsapp,5,Best paint shop in Ballia,,availability
+726,711,1546,2023-12-27,in_store,4,"Nice shop, helpful staff",,availability
+727,516,5466,2025-11-05,whatsapp,5,"Good quality products, will come again",,product_quality
+728,358,4381,2025-04-20,in_store,3,Average service,,price
+729,258,2235,2024-04-21,in_store,4,"Nice shop, helpful staff",,service
+730,916,3625,2024-12-08,whatsapp,3,"Product ok, price thoda zyada",,service
+731,748,4983,2025-08-22,whatsapp,4,"Nice shop, helpful staff",,availability
+732,793,1445,2023-12-05,in_store,5,"Good quality products, will come again",,availability
+733,768,5756,2025-12-27,whatsapp,4,Good range of paints,,product_quality
+734,943,305,2023-05-06,whatsapp,3,Average service,,availability
+735,756,1103,2023-10-24,whatsapp,2,Delivery late,,product_quality
+736,394,1411,2023-11-29,in_store,4,Good range of paints,,availability
+737,685,154,2023-04-21,in_store,5,Bahut acha service mila,,price
+738,147,1293,2023-11-17,in_store,5,"Good quality products, will come again",,service
+739,469,5857,2026-01-14,whatsapp,5,Best paint shop in Ballia,,availability
+740,569,1873,2024-03-04,whatsapp,4,Good range of paints,,service
+741,777,3946,2025-02-15,google_maps,5,Bahut acha service mila,,availability
+742,762,3046,2024-10-04,whatsapp,4,Satisfied with purchase,,product_quality
+743,708,3324,2024-10-29,in_store,4,"Nice shop, helpful staff",,price
+744,494,5191,2025-10-07,whatsapp,5,Bahut acha service mila,,service
+745,594,3475,2024-11-11,in_store,5,Bahut acha service mila,,product_quality
+746,260,6285,2026-03-29,whatsapp,4,"Nice shop, helpful staff",,price
+747,928,5105,2025-09-24,in_store,5,Bahut acha service mila,,product_quality
+748,815,5349,2025-10-25,in_store,5,Best paint shop in Ballia,,product_quality
+749,46,1076,2023-10-23,whatsapp,5,Best paint shop in Ballia,,price
+750,154,5692,2025-12-13,in_store,1,Wrong product delivered,,price
+751,160,4307,2025-04-11,in_store,2,Quality not as expected,,availability
+752,512,5539,2025-11-17,whatsapp,3,"Product ok, price thoda zyada",,price
+753,318,316,2023-05-08,whatsapp,4,Satisfied with purchase,,product_quality
+754,837,5514,2025-11-14,in_store,4,Satisfied with purchase,,price
+755,678,3421,2024-11-09,in_store,4,Good range of paints,,product_quality
+756,77,5397,2025-10-28,whatsapp,3,Average service,,service
+757,2,5157,2025-10-01,whatsapp,4,Satisfied with purchase,,product_quality
+758,390,3307,2024-10-30,whatsapp,4,"Nice shop, helpful staff",,availability
+759,170,6789,2026-06-10,google_maps,4,"Nice shop, helpful staff",,price
+760,935,4351,2025-04-17,in_store,3,Could be better,,service
+761,858,4244,2025-03-31,in_store,3,Average service,,price
+762,771,1082,2023-10-25,in_store,3,Average service,,service
+763,858,4426,2025-04-28,in_store,4,Satisfied with purchase,,product_quality
+764,377,5954,2026-02-05,whatsapp,4,Good range of paints,,price
+765,27,4803,2025-07-04,whatsapp,2,Delivery late,,price
+766,214,5720,2025-12-17,whatsapp,3,"Product ok, price thoda zyada",,price
+767,204,3754,2024-12-31,whatsapp,4,Satisfied with purchase,,availability
+768,442,5974,2026-02-09,whatsapp,3,Average service,,service
+769,687,5982,2026-02-09,whatsapp,4,Good range of paints,,service
+770,918,3214,2024-10-18,in_store,3,Could be better,,product_quality
+771,44,6791,2026-06-10,in_store,4,"Nice shop, helpful staff",,price
+772,629,3106,2024-10-08,whatsapp,4,Satisfied with purchase,,availability
+773,903,2640,2024-06-13,whatsapp,3,Average service,,service
+774,734,286,2023-05-04,whatsapp,4,Good range of paints,,product_quality
+775,492,5525,2025-11-16,whatsapp,4,Good range of paints,,product_quality
+776,807,1715,2024-02-03,google_maps,2,Delivery late,,service
+777,249,688,2023-07-29,whatsapp,2,Quality not as expected,,service
+778,343,2512,2024-05-21,in_store,3,"Product ok, price thoda zyada",,product_quality
+779,457,4566,2025-05-17,in_store,3,"Product ok, price thoda zyada",,price
+780,602,5529,2025-11-14,in_store,4,Satisfied with purchase,,service
+781,311,195,2023-04-26,whatsapp,4,Satisfied with purchase,,product_quality
+782,670,5908,2026-01-24,in_store,5,"Good quality products, will come again",,product_quality
+783,644,3646,2024-12-11,in_store,4,Satisfied with purchase,,availability
+784,512,2193,2024-04-12,in_store,3,"Product ok, price thoda zyada",,price
+785,245,6032,2026-02-16,in_store,4,Good range of paints,,product_quality
+786,186,2376,2024-05-08,in_store,5,Best paint shop in Ballia,,service
+787,456,6632,2026-05-18,in_store,5,"Good quality products, will come again",,product_quality
+788,368,1000,2023-10-16,in_store,4,"Nice shop, helpful staff",,availability
+789,759,3668,2024-12-16,whatsapp,4,Good range of paints,,service
+790,837,5490,2025-11-09,whatsapp,5,Best paint shop in Ballia,,availability
+791,553,2563,2024-05-28,in_store,5,Best paint shop in Ballia,,availability
+792,409,5665,2025-12-05,whatsapp,4,Good range of paints,,service
+793,276,4202,2025-03-25,whatsapp,2,Quality not as expected,,price
+794,489,2583,2024-05-31,in_store,4,Good range of paints,,product_quality
+795,18,6043,2026-02-17,in_store,5,Best paint shop in Ballia,,price
+796,334,5026,2025-09-03,in_store,4,Good range of paints,,price
+797,891,816,2023-09-07,whatsapp,5,Bahut acha service mila,,product_quality
+798,862,1368,2023-11-23,in_store,5,Best paint shop in Ballia,,price
+799,810,2594,2024-05-31,whatsapp,1,Wrong product delivered,,availability
+800,640,4227,2025-03-26,in_store,4,Good range of paints,,availability
+801,570,4450,2025-04-29,whatsapp,4,Satisfied with purchase,,product_quality
+802,562,4880,2025-07-23,google_maps,4,"Nice shop, helpful staff",,availability
+803,574,1600,2024-01-07,in_store,4,"Nice shop, helpful staff",,price
+804,337,3928,2025-02-12,whatsapp,4,Good range of paints,,product_quality
+805,273,4498,2025-05-06,whatsapp,1,Not recommended,,service
+806,815,4988,2025-08-26,whatsapp,4,Satisfied with purchase,,price
+807,371,834,2023-09-17,whatsapp,3,Average service,,product_quality
+808,537,6814,2026-06-19,in_store,4,"Nice shop, helpful staff",,service
+809,420,1021,2023-10-18,google_maps,5,"Good quality products, will come again",,product_quality
+810,243,4862,2025-07-17,google_maps,5,Bahut acha service mila,,price
+811,22,4018,2025-03-05,whatsapp,3,"Product ok, price thoda zyada",,service
+812,932,1557,2023-12-28,whatsapp,3,"Product ok, price thoda zyada",,product_quality
+813,456,6347,2026-04-05,whatsapp,4,Satisfied with purchase,,availability
+814,423,5941,2026-02-01,in_store,5,"Good quality products, will come again",,availability
+815,472,5437,2025-11-02,whatsapp,5,Bahut acha service mila,,price
+816,438,1479,2023-12-12,in_store,4,Good range of paints,,service
+817,705,901,2023-10-03,in_store,5,Best paint shop in Ballia,,availability
+818,790,3468,2024-11-11,in_store,3,Could be better,,price
+819,817,961,2023-10-11,whatsapp,2,Quality not as expected,,availability
+820,447,897,2023-10-01,whatsapp,5,"Good quality products, will come again",,service
+821,458,3604,2024-12-03,in_store,4,Good range of paints,,price
+822,850,768,2023-08-24,in_store,5,Best paint shop in Ballia,,product_quality
+823,862,6507,2026-04-29,whatsapp,3,"Product ok, price thoda zyada",,product_quality
+824,519,5847,2026-01-11,whatsapp,3,Could be better,,price
+825,333,6649,2026-05-19,whatsapp,5,Best paint shop in Ballia,,service
+826,532,2836,2024-08-13,in_store,5,Bahut acha service mila,,price
+827,781,5883,2026-01-20,whatsapp,5,Best paint shop in Ballia,,availability
+828,340,4268,2025-04-05,whatsapp,4,"Nice shop, helpful staff",,product_quality
+829,127,2289,2024-04-27,in_store,5,Best paint shop in Ballia,,product_quality
+830,700,5758,2025-12-27,whatsapp,4,Good range of paints,,price
+831,518,2458,2024-05-18,in_store,5,"Good quality products, will come again",,product_quality
+832,825,627,2023-07-10,in_store,2,Delivery late,,price
+833,627,851,2023-09-21,in_store,5,Bahut acha service mila,,product_quality
+834,598,4101,2025-03-14,in_store,3,"Product ok, price thoda zyada",,product_quality
+835,390,4561,2025-05-15,in_store,4,Good range of paints,,price
+836,946,1346,2023-11-20,in_store,3,Average service,,service
+837,712,3024,2024-09-29,whatsapp,4,"Nice shop, helpful staff",,price
+838,161,1308,2023-11-17,whatsapp,5,Bahut acha service mila,,availability
+839,127,2010,2024-03-21,whatsapp,4,"Nice shop, helpful staff",,availability
+840,209,6348,2026-04-04,in_store,4,"Nice shop, helpful staff",,service
+841,45,2639,2024-06-14,in_store,5,"Good quality products, will come again",,price
+842,269,953,2023-10-12,whatsapp,4,Good range of paints,,price
+843,808,6604,2026-05-11,whatsapp,4,"Nice shop, helpful staff",,service
+844,293,1314,2023-11-17,google_maps,5,Best paint shop in Ballia,,product_quality
+845,144,2942,2024-09-13,in_store,2,Staff not helpful,,price
+846,828,1770,2024-02-13,google_maps,4,Good range of paints,,product_quality
+847,874,6577,2026-05-10,whatsapp,5,Best paint shop in Ballia,,product_quality
+848,668,2507,2024-05-21,whatsapp,4,"Nice shop, helpful staff",,price
+849,83,5231,2025-10-13,whatsapp,3,Could be better,,availability
+850,723,4181,2025-03-23,in_store,4,Good range of paints,,service
+851,435,1845,2024-02-27,in_store,2,Delivery late,,availability
+852,818,1746,2024-02-08,in_store,4,"Nice shop, helpful staff",,price
+853,886,169,2023-04-22,in_store,4,Satisfied with purchase,,price
+854,538,616,2023-07-09,google_maps,5,Best paint shop in Ballia,,product_quality
+855,513,5952,2026-02-02,whatsapp,2,Quality not as expected,,availability
+856,763,4544,2025-05-13,whatsapp,5,Bahut acha service mila,,price
+857,875,3709,2024-12-25,in_store,4,"Nice shop, helpful staff",,availability
+858,611,1735,2024-02-05,in_store,4,Satisfied with purchase,,availability
+859,11,2252,2024-04-22,in_store,4,Good range of paints,,availability
+860,418,1817,2024-02-20,in_store,4,Satisfied with purchase,,price
+861,327,4320,2025-04-12,in_store,5,Bahut acha service mila,,product_quality
+862,871,2405,2024-05-10,in_store,3,"Product ok, price thoda zyada",,price
+863,320,6498,2026-04-29,google_maps,4,"Nice shop, helpful staff",,service
+864,240,6384,2026-04-09,in_store,5,Best paint shop in Ballia,,product_quality
+865,764,4266,2025-04-03,in_store,4,Satisfied with purchase,,price
+866,290,5239,2025-10-15,google_maps,4,Good range of paints,,product_quality
+867,409,1565,2024-01-01,whatsapp,4,"Nice shop, helpful staff",,availability
+868,551,3496,2024-11-16,in_store,4,Good range of paints,,availability
+869,330,2835,2024-08-11,in_store,5,Bahut acha service mila,,service
+870,547,247,2023-05-02,in_store,4,Satisfied with purchase,,availability
+871,509,4583,2025-05-20,in_store,4,Good range of paints,,service
+872,191,878,2023-09-27,whatsapp,4,Satisfied with purchase,,product_quality
+873,412,6583,2026-05-10,in_store,4,Satisfied with purchase,,price
+874,100,521,2023-06-13,in_store,5,Bahut acha service mila,,availability
+875,208,1038,2023-10-21,in_store,4,Good range of paints,,service
+876,545,2356,2024-05-05,in_store,5,"Good quality products, will come again",,service
+877,853,3044,2024-10-05,whatsapp,5,Bahut acha service mila,,availability
+878,925,1501,2023-12-16,whatsapp,5,Best paint shop in Ballia,,product_quality
+879,181,2104,2024-04-02,whatsapp,4,"Nice shop, helpful staff",,service
+880,160,6840,2026-06-24,in_store,5,"Good quality products, will come again",,availability
+881,587,1812,2024-02-21,in_store,5,"Good quality products, will come again",,price
+882,421,2191,2024-04-14,whatsapp,2,Delivery late,,product_quality
+883,674,3087,2024-10-07,in_store,5,Best paint shop in Ballia,,service
+884,274,2115,2024-04-01,in_store,4,Good range of paints,,service
+885,525,4828,2025-07-09,whatsapp,5,Bahut acha service mila,,service
+886,381,1084,2023-10-23,in_store,5,"Good quality products, will come again",,availability
+887,64,2611,2024-06-07,in_store,4,"Nice shop, helpful staff",,product_quality
+888,238,6060,2026-02-23,in_store,3,"Product ok, price thoda zyada",,product_quality
+889,740,1892,2024-03-04,in_store,4,Good range of paints,,product_quality
+890,854,4215,2025-03-25,in_store,4,Good range of paints,,price
+891,505,4044,2025-03-09,in_store,2,Staff not helpful,,product_quality
+892,293,2667,2024-06-24,whatsapp,1,Not recommended,,service
+893,304,5657,2025-12-05,whatsapp,4,Satisfied with purchase,,product_quality
+894,882,3295,2024-10-28,google_maps,4,Satisfied with purchase,,availability
+895,271,3229,2024-10-21,whatsapp,1,Not recommended,,product_quality
+896,596,4755,2025-06-18,in_store,4,"Nice shop, helpful staff",,service
+897,352,4156,2025-03-17,in_store,3,Could be better,,service
+898,211,5603,2025-11-27,whatsapp,4,"Nice shop, helpful staff",,service
+899,229,4543,2025-05-12,in_store,5,Best paint shop in Ballia,,availability
+900,406,5214,2025-10-13,in_store,3,Average service,,product_quality
+901,210,4955,2025-08-12,google_maps,5,"Good quality products, will come again",,service
+902,145,2457,2024-05-16,google_maps,4,Satisfied with purchase,,availability
+903,401,2920,2024-09-05,whatsapp,4,Satisfied with purchase,,price
+904,851,1324,2023-11-19,whatsapp,4,Satisfied with purchase,,service
+905,3,6008,2026-02-14,whatsapp,5,Best paint shop in Ballia,,product_quality
+906,716,5581,2025-11-23,in_store,2,Delivery late,,service
+907,534,4835,2025-07-10,in_store,4,Satisfied with purchase,,product_quality
+908,505,3644,2024-12-09,whatsapp,4,Satisfied with purchase,,service
+909,192,2417,2024-05-12,google_maps,3,Could be better,,availability
+910,582,5624,2025-11-29,in_store,4,"Nice shop, helpful staff",,product_quality
+911,352,4954,2025-08-12,in_store,4,"Nice shop, helpful staff",,price
+912,709,4001,2025-02-26,in_store,4,Satisfied with purchase,,availability
+913,742,3329,2024-10-30,whatsapp,5,Best paint shop in Ballia,,service
+914,436,1148,2023-11-03,google_maps,4,Satisfied with purchase,,product_quality
+915,284,3037,2024-10-02,whatsapp,5,Bahut acha service mila,,product_quality
+916,239,25,2023-04-07,in_store,5,Best paint shop in Ballia,,availability
+917,684,2617,2024-06-07,in_store,3,Average service,,availability
+918,664,3839,2025-01-23,in_store,5,Bahut acha service mila,,price
+919,571,6836,2026-06-25,whatsapp,4,Good range of paints,,availability
+920,503,2140,2024-04-05,in_store,5,Bahut acha service mila,,service
+921,462,2074,2024-03-29,in_store,5,"Good quality products, will come again",,service
+922,11,1482,2023-12-13,in_store,5,Bahut acha service mila,,service
+923,174,168,2023-04-21,whatsapp,4,"Nice shop, helpful staff",,service
+924,744,954,2023-10-09,whatsapp,5,Bahut acha service mila,,price
+925,831,3038,2024-10-01,in_store,5,Best paint shop in Ballia,,service
+926,120,4600,2025-05-19,whatsapp,1,Not recommended,,availability
+927,739,4985,2025-08-23,in_store,2,Staff not helpful,,availability
+928,782,3267,2024-10-27,whatsapp,4,Satisfied with purchase,,availability
+929,31,3082,2024-10-08,in_store,4,"Nice shop, helpful staff",,availability
+930,861,1902,2024-03-08,in_store,3,Could be better,,product_quality
+931,386,1245,2023-11-11,in_store,5,Best paint shop in Ballia,,price
+932,737,6527,2026-05-04,in_store,4,Satisfied with purchase,,price
+933,797,1969,2024-03-17,in_store,4,"Nice shop, helpful staff",,product_quality
+934,65,70,2023-04-10,google_maps,5,"Good quality products, will come again",,product_quality
+935,241,1202,2023-11-09,in_store,4,Satisfied with purchase,,price
+936,500,6231,2026-03-19,in_store,3,Could be better,,service
+937,931,1322,2023-11-18,in_store,4,"Nice shop, helpful staff",,price
+938,139,3365,2024-11-03,whatsapp,4,Good range of paints,,availability
+939,143,2582,2024-05-30,in_store,2,Delivery late,,availability
+940,738,3068,2024-10-07,google_maps,4,Satisfied with purchase,,price
+941,638,3685,2024-12-19,in_store,4,Good range of paints,,price
+942,447,5987,2026-02-08,google_maps,4,Good range of paints,,availability
+943,852,3491,2024-11-16,whatsapp,3,Could be better,,price
+944,839,2098,2024-03-30,whatsapp,5,"Good quality products, will come again",,availability
+945,282,6017,2026-02-15,whatsapp,4,Good range of paints,,price
+946,931,5583,2025-11-24,in_store,3,Could be better,,product_quality
+947,493,4259,2025-04-02,in_store,4,"Nice shop, helpful staff",,availability
+948,296,5951,2026-02-02,in_store,4,Satisfied with purchase,,product_quality
+949,776,5163,2025-10-03,in_store,5,"Good quality products, will come again",,price
+950,160,876,2023-09-25,in_store,2,Quality not as expected,,product_quality
+951,373,4274,2025-04-06,in_store,5,"Good quality products, will come again",,service
+952,417,5757,2025-12-25,whatsapp,5,"Good quality products, will come again",,service
+953,755,1611,2024-01-09,whatsapp,4,Good range of paints,,price
+954,526,1952,2024-03-12,whatsapp,3,"Product ok, price thoda zyada",,availability
+955,929,220,2023-04-28,in_store,4,"Nice shop, helpful staff",,product_quality
+956,831,1432,2023-11-30,whatsapp,4,Good range of paints,,product_quality
+957,35,5121,2025-09-24,whatsapp,5,Best paint shop in Ballia,,product_quality
+958,262,1113,2023-10-27,in_store,2,Delivery late,,availability
+959,870,4026,2025-03-06,whatsapp,5,Bahut acha service mila,,price
+960,678,4960,2025-08-16,google_maps,4,Satisfied with purchase,,product_quality
+961,201,3902,2025-02-07,in_store,4,Satisfied with purchase,,price
+962,499,1996,2024-03-18,google_maps,4,"Nice shop, helpful staff",,service
+963,46,6520,2026-05-01,whatsapp,5,"Good quality products, will come again",,price
+964,446,3350,2024-10-31,google_maps,5,Bahut acha service mila,,availability
+965,301,6185,2026-03-16,in_store,5,"Good quality products, will come again",,product_quality
+966,849,6581,2026-05-09,in_store,4,"Nice shop, helpful staff",,service
+967,211,3750,2025-01-03,whatsapp,4,Good range of paints,,availability
+968,869,4414,2025-04-27,google_maps,5,Bahut acha service mila,,service
+969,165,2474,2024-05-17,whatsapp,3,Average service,,product_quality
+970,914,1721,2024-02-01,in_store,3,"Product ok, price thoda zyada",,product_quality
+971,50,6232,2026-03-21,whatsapp,5,Best paint shop in Ballia,,product_quality
+972,580,425,2023-05-25,whatsapp,3,Average service,,availability
+973,487,1985,2024-03-16,google_maps,5,"Good quality products, will come again",,product_quality
+974,466,7,2023-04-01,in_store,4,Satisfied with purchase,,product_quality
+975,137,5131,2025-09-26,whatsapp,4,Satisfied with purchase,,product_quality
+976,317,2251,2024-04-21,google_maps,3,"Product ok, price thoda zyada",,price
+977,231,3232,2024-10-22,google_maps,2,Quality not as expected,,product_quality
+978,734,4286,2025-04-06,google_maps,4,"Nice shop, helpful staff",,price
+979,724,4959,2025-08-14,whatsapp,5,Bahut acha service mila,,service
+980,251,2937,2024-09-10,in_store,4,Good range of paints,,service
+981,628,3883,2025-02-02,in_store,5,Bahut acha service mila,,availability
+982,651,1099,2023-10-24,in_store,3,Could be better,,service
+983,93,5729,2025-12-18,in_store,4,"Nice shop, helpful staff",,price
+984,438,2296,2024-04-28,google_maps,1,Wrong product delivered,,availability
+985,790,2793,2024-07-30,in_store,3,Average service,,availability
+986,358,3689,2024-12-21,in_store,3,Average service,,price
+987,88,2791,2024-07-31,whatsapp,5,Bahut acha service mila,,availability
+988,387,4305,2025-04-09,google_maps,4,Satisfied with purchase,,service
+989,153,5616,2025-11-27,whatsapp,2,Staff not helpful,,product_quality
+990,3,2638,2024-06-12,in_store,4,Good range of paints,,price
+991,817,5056,2025-09-15,in_store,4,Good range of paints,,availability
+992,523,5435,2025-11-01,in_store,4,Good range of paints,,price
+993,794,3165,2024-10-15,in_store,5,Bahut acha service mila,,service
+994,912,1067,2023-10-21,whatsapp,4,Satisfied with purchase,,product_quality
+995,853,65,2023-04-12,whatsapp,5,Bahut acha service mila,,availability
+996,43,2599,2024-06-04,whatsapp,4,Good range of paints,,product_quality
+997,607,5778,2025-12-31,in_store,4,Satisfied with purchase,,price
+998,292,1897,2024-03-07,in_store,5,Best paint shop in Ballia,,service
+999,88,4886,2025-07-27,in_store,4,Good range of paints,,availability
+1000,271,4428,2025-04-27,google_maps,3,Could be better,,service
+1001,449,4813,2025-07-05,whatsapp,5,Best paint shop in Ballia,,availability
+1002,570,2442,2024-05-13,in_store,4,Good range of paints,,availability
+1003,209,629,2023-07-10,whatsapp,3,Could be better,,availability
+1004,105,1263,2023-11-14,whatsapp,4,Satisfied with purchase,,service
+1005,210,2197,2024-04-13,whatsapp,4,Good range of paints,,price
+1006,686,1268,2023-11-15,whatsapp,3,Could be better,,product_quality
+1007,346,535,2023-06-15,google_maps,5,Best paint shop in Ballia,,service
+1008,267,6780,2026-06-08,google_maps,5,Best paint shop in Ballia,,availability
+1009,292,2741,2024-07-14,in_store,4,"Nice shop, helpful staff",,availability
+1010,609,5258,2025-10-17,in_store,4,Satisfied with purchase,,availability
+1011,632,4683,2025-06-02,in_store,4,Good range of paints,,availability
+1012,188,5785,2026-01-02,in_store,5,"Good quality products, will come again",,availability
+1013,195,2355,2024-05-06,in_store,5,"Good quality products, will come again",,service
+1014,354,4524,2025-05-09,google_maps,3,Could be better,,availability
+1015,645,3266,2024-10-28,google_maps,4,"Nice shop, helpful staff",,service
+1016,855,492,2023-06-05,google_maps,4,"Nice shop, helpful staff",,service
+1017,212,4795,2025-06-30,whatsapp,3,Could be better,,product_quality
+1018,918,4353,2025-04-18,whatsapp,4,Satisfied with purchase,,product_quality
+1019,740,2863,2024-08-22,google_maps,4,Good range of paints,,price
+1020,649,1539,2023-12-26,in_store,5,"Good quality products, will come again",,availability
+1021,50,1354,2023-11-20,in_store,3,Could be better,,service
+1022,899,5830,2026-01-07,whatsapp,5,"Good quality products, will come again",,service
+1023,66,5029,2025-09-04,whatsapp,5,Bahut acha service mila,,price
+1024,728,5526,2025-11-15,in_store,5,Bahut acha service mila,,price
+1025,767,4697,2025-06-05,google_maps,4,Satisfied with purchase,,product_quality
+1026,597,776,2023-08-27,in_store,4,"Nice shop, helpful staff",,availability
+1027,387,5575,2025-11-21,in_store,5,Best paint shop in Ballia,,product_quality
+1028,597,5093,2025-09-20,in_store,2,Staff not helpful,,availability
+1029,307,759,2023-08-22,whatsapp,4,"Nice shop, helpful staff",,service
+1030,575,1446,2023-12-02,whatsapp,4,Satisfied with purchase,,price
+1031,205,807,2023-09-04,whatsapp,4,Good range of paints,,price
+1032,434,5080,2025-09-20,in_store,3,Average service,,availability
+1033,646,4143,2025-03-17,in_store,4,Satisfied with purchase,,service
+1034,453,2310,2024-05-02,whatsapp,5,"Good quality products, will come again",,product_quality
+1035,114,5646,2025-12-03,in_store,5,Best paint shop in Ballia,,availability
+1036,552,4733,2025-06-14,google_maps,4,Satisfied with purchase,,price
+1037,330,5752,2025-12-24,google_maps,4,"Nice shop, helpful staff",,price
+1038,481,5166,2025-10-02,in_store,4,Good range of paints,,product_quality
+1039,882,4291,2025-04-06,google_maps,4,"Nice shop, helpful staff",,price
+1040,939,1741,2024-02-05,in_store,5,Bahut acha service mila,,price
+1041,465,2131,2024-04-05,in_store,5,"Good quality products, will come again",,product_quality
+1042,834,6227,2026-03-21,in_store,5,"Good quality products, will come again",,service
+1043,664,3959,2025-02-16,whatsapp,4,Satisfied with purchase,,product_quality
+1044,91,2147,2024-04-08,in_store,2,Staff not helpful,,service
+1045,380,5662,2025-12-06,google_maps,3,"Product ok, price thoda zyada",,service
+1046,155,4323,2025-04-10,whatsapp,1,Wrong product delivered,,availability
+1047,692,2861,2024-08-23,in_store,4,"Nice shop, helpful staff",,product_quality
+1048,225,6262,2026-03-24,whatsapp,4,Satisfied with purchase,,price
+1049,46,3262,2024-10-26,in_store,3,"Product ok, price thoda zyada",,service
+1050,416,4807,2025-07-07,google_maps,4,"Nice shop, helpful staff",,availability
+1051,741,1926,2024-03-10,in_store,1,Not recommended,,service
+1052,102,5315,2025-10-20,google_maps,4,Good range of paints,,availability
+1053,280,6698,2026-05-24,in_store,4,"Nice shop, helpful staff",,price
+1054,504,1898,2024-03-07,in_store,5,Best paint shop in Ballia,,price
+1055,196,6049,2026-02-20,whatsapp,4,Satisfied with purchase,,price
+1056,32,2229,2024-04-19,in_store,5,"Good quality products, will come again",,availability
+1057,647,3696,2024-12-23,in_store,4,"Nice shop, helpful staff",,price
+1058,414,6087,2026-03-01,in_store,1,Wrong product delivered,,price
+1059,464,5499,2025-11-10,in_store,4,"Nice shop, helpful staff",,price
+1060,178,1469,2023-12-09,in_store,5,"Good quality products, will come again",,service
+1061,670,2625,2024-06-09,google_maps,5,"Good quality products, will come again",,price
+1062,89,6851,2026-06-29,whatsapp,1,Wrong product delivered,,service
+1063,444,3708,2024-12-25,in_store,4,Good range of paints,,service
+1064,47,6467,2026-04-23,in_store,4,Satisfied with purchase,,price
+1065,754,2659,2024-06-21,in_store,4,Satisfied with purchase,,price
+1066,408,3278,2024-10-28,whatsapp,5,Best paint shop in Ballia,,service
+1067,562,2717,2024-07-09,in_store,4,Satisfied with purchase,,product_quality
+1068,619,3176,2024-10-15,whatsapp,5,"Good quality products, will come again",,product_quality
+1069,78,389,2023-05-18,in_store,4,"Nice shop, helpful staff",,price
+1070,500,3762,2025-01-04,whatsapp,3,Average service,,availability
+1071,507,3467,2024-11-12,in_store,4,Satisfied with purchase,,product_quality
+1072,402,6293,2026-03-29,whatsapp,5,"Good quality products, will come again",,service
+1073,148,1361,2023-11-23,in_store,4,Satisfied with purchase,,price
+1074,659,5806,2026-01-05,in_store,5,Bahut acha service mila,,service
+1075,895,3784,2025-01-11,whatsapp,5,"Good quality products, will come again",,price
+1076,134,6167,2026-03-12,whatsapp,5,Best paint shop in Ballia,,availability
+1077,795,2336,2024-05-04,google_maps,4,Good range of paints,,product_quality
+1078,397,2912,2024-09-03,whatsapp,5,Best paint shop in Ballia,,service
+1079,114,1704,2024-01-27,in_store,4,Good range of paints,,service
+1080,712,3263,2024-10-28,google_maps,5,Best paint shop in Ballia,,price
+1081,756,85,2023-04-15,whatsapp,5,Bahut acha service mila,,product_quality
+1082,61,1470,2023-12-08,whatsapp,4,"Nice shop, helpful staff",,service
+1083,449,2454,2024-05-17,whatsapp,5,"Good quality products, will come again",,service
+1084,136,6196,2026-03-15,whatsapp,5,"Good quality products, will come again",,price
+1085,588,3548,2024-11-27,in_store,4,"Nice shop, helpful staff",,service
+1086,783,3492,2024-11-15,in_store,4,Good range of paints,,price
+1087,309,5288,2025-10-18,in_store,5,Bahut acha service mila,,product_quality
+1088,588,5205,2025-10-09,whatsapp,4,Good range of paints,,price
+1089,379,120,2023-04-18,in_store,1,Not recommended,,availability
+1090,557,2473,2024-05-18,in_store,5,Bahut acha service mila,,price
+1091,427,1499,2023-12-18,in_store,5,"Good quality products, will come again",,price
+1092,432,1912,2024-03-09,google_maps,5,Bahut acha service mila,,service
+1093,634,6786,2026-06-11,in_store,5,"Good quality products, will come again",,product_quality
+1094,403,2325,2024-05-04,in_store,4,Satisfied with purchase,,availability
+1095,734,2903,2024-08-31,whatsapp,5,Bahut acha service mila,,service
+1096,370,2085,2024-03-31,whatsapp,5,Bahut acha service mila,,service
+1097,326,5445,2025-10-31,in_store,4,"Nice shop, helpful staff",,price
+1098,778,2648,2024-06-16,in_store,4,Good range of paints,,price
+1099,486,4559,2025-05-15,in_store,4,Satisfied with purchase,,availability
+1100,141,2969,2024-09-18,in_store,5,"Good quality products, will come again",,price
+1101,604,3133,2024-10-09,in_store,4,Good range of paints,,availability
+1102,592,5447,2025-11-02,in_store,4,Satisfied with purchase,,product_quality
+1103,808,2986,2024-09-22,in_store,4,Satisfied with purchase,,product_quality
+1104,527,1829,2024-02-23,whatsapp,3,Could be better,,service
+1105,186,6273,2026-03-26,in_store,5,Best paint shop in Ballia,,availability
+1106,178,1106,2023-10-27,in_store,4,Good range of paints,,availability
+1107,835,3866,2025-01-29,whatsapp,4,Good range of paints,,price
+1108,882,1455,2023-12-06,in_store,2,Staff not helpful,,availability
+1109,95,4935,2025-08-10,google_maps,4,Satisfied with purchase,,availability
+1110,164,6475,2026-04-25,in_store,5,Bahut acha service mila,,product_quality
+1111,235,3656,2024-12-14,in_store,2,Staff not helpful,,product_quality
+1112,312,1126,2023-10-30,google_maps,5,"Good quality products, will come again",,availability
+1113,845,3588,2024-11-30,in_store,4,Good range of paints,,availability
+1114,198,1226,2023-11-12,in_store,4,Satisfied with purchase,,product_quality
+1115,816,210,2023-04-25,in_store,4,Satisfied with purchase,,service
+1116,62,2977,2024-09-19,in_store,5,"Good quality products, will come again",,product_quality
+1117,414,6678,2026-05-24,in_store,2,Quality not as expected,,price
+1118,556,5799,2026-01-01,whatsapp,3,Could be better,,price
+1119,583,1533,2023-12-25,whatsapp,5,Best paint shop in Ballia,,price
+1120,12,6135,2026-03-07,in_store,4,Good range of paints,,availability
+1121,4,511,2023-06-07,whatsapp,5,Best paint shop in Ballia,,price
+1122,365,5280,2025-10-15,whatsapp,4,Good range of paints,,availability
+1123,410,5731,2025-12-19,whatsapp,1,Wrong product delivered,,price
+1124,104,5503,2025-11-10,in_store,4,"Nice shop, helpful staff",,service
+1125,194,1111,2023-10-27,google_maps,1,Wrong product delivered,,availability
+1126,503,5459,2025-11-03,in_store,3,Could be better,,price
+1127,697,4654,2025-05-27,in_store,3,Average service,,service
+1128,681,1486,2023-12-12,in_store,3,Could be better,,service
+1129,201,3450,2024-11-11,in_store,3,Could be better,,price
+1130,551,4038,2025-03-07,google_maps,5,Best paint shop in Ballia,,availability
+1131,412,4747,2025-06-16,whatsapp,4,Satisfied with purchase,,availability
+1132,200,1294,2023-11-15,in_store,5,Bahut acha service mila,,product_quality
+1133,626,5496,2025-11-10,in_store,4,Satisfied with purchase,,availability
+1134,230,3411,2024-11-09,google_maps,5,"Good quality products, will come again",,service
+1135,238,4977,2025-08-21,in_store,5,Best paint shop in Ballia,,service
+1136,867,243,2023-04-28,in_store,4,"Nice shop, helpful staff",,availability
+1137,538,4580,2025-05-18,in_store,3,"Product ok, price thoda zyada",,price
+1138,484,1341,2023-11-22,whatsapp,4,"Nice shop, helpful staff",,price
+1139,498,1832,2024-02-24,whatsapp,5,Best paint shop in Ballia,,availability
+1140,413,152,2023-04-20,in_store,5,"Good quality products, will come again",,price
+1141,620,946,2023-10-09,google_maps,4,"Nice shop, helpful staff",,availability
+1142,882,5983,2026-02-09,google_maps,3,Could be better,,product_quality
+1143,732,2695,2024-06-29,whatsapp,5,"Good quality products, will come again",,product_quality
+1144,626,3040,2024-10-03,whatsapp,4,Satisfied with purchase,,availability
+1145,359,652,2023-07-15,whatsapp,4,Good range of paints,,availability
+1146,6,55,2023-04-09,in_store,3,Could be better,,service
+1147,207,4598,2025-05-22,whatsapp,2,Delivery late,,service
+1148,545,6487,2026-04-27,whatsapp,5,Best paint shop in Ballia,,product_quality
+1149,721,785,2023-08-31,whatsapp,1,Wrong product delivered,,price
+1150,778,792,2023-09-02,in_store,5,Best paint shop in Ballia,,price
+1151,70,3500,2024-11-17,whatsapp,3,Could be better,,service
+1152,810,4832,2025-07-10,in_store,5,Bahut acha service mila,,product_quality
+1153,249,5584,2025-11-25,in_store,2,Staff not helpful,,availability
+1154,82,6700,2026-05-26,in_store,4,Good range of paints,,price
+1155,293,5735,2025-12-21,whatsapp,5,Bahut acha service mila,,product_quality
+1156,140,4889,2025-07-27,in_store,5,"Good quality products, will come again",,price
+1157,229,4698,2025-06-04,in_store,4,Satisfied with purchase,,product_quality
+1158,919,3028,2024-10-01,whatsapp,5,"Good quality products, will come again",,product_quality
+1159,326,2901,2024-08-31,whatsapp,5,Bahut acha service mila,,product_quality
+1160,593,6301,2026-03-29,in_store,3,"Product ok, price thoda zyada",,price
+1161,585,6321,2026-03-31,whatsapp,5,Best paint shop in Ballia,,availability
+1162,187,664,2023-07-21,in_store,3,Could be better,,service
+1163,405,3545,2024-11-23,whatsapp,5,"Good quality products, will come again",,price
+1164,495,34,2023-04-07,in_store,5,"Good quality products, will come again",,availability
+1165,342,6548,2026-05-05,whatsapp,2,Quality not as expected,,price
+1166,108,2756,2024-07-18,in_store,4,"Nice shop, helpful staff",,product_quality
+1167,192,2665,2024-06-24,in_store,4,Satisfied with purchase,,service
+1168,322,1642,2024-01-13,in_store,5,Best paint shop in Ballia,,product_quality
+1169,175,5571,2025-11-19,whatsapp,5,"Good quality products, will come again",,price
+1170,230,1750,2024-02-09,google_maps,5,"Good quality products, will come again",,price
+1171,83,3515,2024-11-17,whatsapp,4,Satisfied with purchase,,availability
+1172,89,2479,2024-05-19,in_store,4,Good range of paints,,service
+1173,704,6499,2026-04-27,in_store,5,"Good quality products, will come again",,service
+1174,594,5434,2025-11-02,in_store,5,Best paint shop in Ballia,,price
+1175,674,1437,2023-12-02,in_store,5,"Good quality products, will come again",,availability
+1176,380,5869,2026-01-16,in_store,3,Average service,,availability
+1177,249,5536,2025-11-16,in_store,4,Good range of paints,,service
+1178,763,4522,2025-05-10,in_store,5,"Good quality products, will come again",,price
+1179,539,4397,2025-04-23,whatsapp,3,"Product ok, price thoda zyada",,availability
+1180,603,668,2023-07-24,in_store,4,Satisfied with purchase,,product_quality
+1181,191,2061,2024-03-30,in_store,5,Bahut acha service mila,,availability
+1182,582,3032,2024-10-03,in_store,5,Bahut acha service mila,,service
+1183,824,1924,2024-03-12,whatsapp,4,Satisfied with purchase,,service
+1184,322,1748,2024-02-07,in_store,4,Satisfied with purchase,,service
+1185,490,3790,2025-01-11,in_store,1,Not recommended,,service
+1186,96,1390,2023-11-25,google_maps,2,Delivery late,,price
+1187,342,6597,2026-05-10,in_store,4,Good range of paints,,service
+1188,426,1931,2024-03-13,in_store,3,"Product ok, price thoda zyada",,product_quality
+1189,328,2165,2024-04-10,in_store,4,Good range of paints,,product_quality
+1190,164,1487,2023-12-12,in_store,4,Good range of paints,,product_quality
+1191,125,4930,2025-08-08,whatsapp,5,"Good quality products, will come again",,price
+1192,803,476,2023-05-31,whatsapp,3,"Product ok, price thoda zyada",,availability
+1193,406,4260,2025-04-02,whatsapp,4,"Nice shop, helpful staff",,service
+1194,830,2600,2024-06-06,google_maps,5,Bahut acha service mila,,price
+1195,65,5192,2025-10-09,in_store,4,"Nice shop, helpful staff",,product_quality
+1196,51,2194,2024-04-14,whatsapp,4,"Nice shop, helpful staff",,price
+1197,212,4130,2025-03-16,google_maps,5,Bahut acha service mila,,product_quality
+1198,73,1157,2023-11-05,in_store,4,Satisfied with purchase,,product_quality
+1199,53,6466,2026-04-23,in_store,5,Bahut acha service mila,,product_quality
+1200,4,6860,2026-07-01,in_store,4,Satisfied with purchase,,price
+1201,271,5303,2025-10-21,google_maps,4,Satisfied with purchase,,service
+1202,597,524,2023-06-13,whatsapp,5,"Good quality products, will come again",,product_quality
+1203,216,4279,2025-04-04,whatsapp,5,"Good quality products, will come again",,product_quality
+1204,233,823,2023-09-11,in_store,4,"Nice shop, helpful staff",,price
+1205,584,2671,2024-06-26,google_maps,5,Best paint shop in Ballia,,product_quality
+1206,706,6038,2026-02-18,google_maps,4,Satisfied with purchase,,product_quality
+1207,856,2014,2024-03-23,whatsapp,4,"Nice shop, helpful staff",,product_quality
+1208,146,50,2023-04-10,whatsapp,4,Good range of paints,,service
+1209,447,5251,2025-10-16,in_store,5,"Good quality products, will come again",,availability
+1210,741,5846,2026-01-11,in_store,3,Average service,,product_quality
+1211,161,4096,2025-03-11,in_store,3,Could be better,,price
+1212,895,6689,2026-05-24,in_store,5,"Good quality products, will come again",,product_quality
+1213,748,2276,2024-04-23,whatsapp,2,Delivery late,,product_quality
+1214,727,3443,2024-11-08,whatsapp,5,Best paint shop in Ballia,,service
+1215,292,1877,2024-03-05,in_store,4,Satisfied with purchase,,availability
+1216,694,1563,2023-12-28,whatsapp,4,"Nice shop, helpful staff",,service
+1217,485,1303,2023-11-17,in_store,5,"Good quality products, will come again",,service
+1218,822,5565,2025-11-20,in_store,5,Bahut acha service mila,,service
+1219,898,5928,2026-01-27,in_store,1,Very bad experience,,availability
+1220,905,6557,2026-05-07,whatsapp,2,Staff not helpful,,service
+1221,367,6080,2026-03-01,whatsapp,4,Good range of paints,,availability
+1222,885,5761,2025-12-28,in_store,4,Satisfied with purchase,,availability
+1223,237,5322,2025-10-23,in_store,4,"Nice shop, helpful staff",,price
+1224,186,630,2023-07-13,in_store,5,"Good quality products, will come again",,price
+1225,41,190,2023-04-23,in_store,2,Quality not as expected,,product_quality
+1226,589,3914,2025-02-09,in_store,1,Not recommended,,availability
+1227,167,6158,2026-03-10,whatsapp,5,Best paint shop in Ballia,,price
+1228,665,6325,2026-04-02,google_maps,5,"Good quality products, will come again",,service
+1229,949,1215,2023-11-10,google_maps,4,"Nice shop, helpful staff",,availability
+1230,41,6776,2026-06-08,whatsapp,4,Satisfied with purchase,,availability
+1231,564,903,2023-10-03,whatsapp,4,Good range of paints,,price
+1232,857,6066,2026-02-25,whatsapp,5,Best paint shop in Ballia,,availability
+1233,688,6190,2026-03-15,in_store,4,Satisfied with purchase,,availability
+1234,125,959,2023-10-11,google_maps,5,Best paint shop in Ballia,,availability
+1235,135,2309,2024-04-28,whatsapp,4,Satisfied with purchase,,availability
+1236,797,5153,2025-10-01,in_store,1,Very bad experience,,product_quality
+1237,648,3557,2024-11-26,in_store,4,"Nice shop, helpful staff",,price
+1238,294,2529,2024-05-26,in_store,3,Average service,,product_quality
+1239,840,1712,2024-02-01,in_store,3,Average service,,product_quality
+1240,743,6567,2026-05-08,in_store,5,Bahut acha service mila,,product_quality
+1241,808,4693,2025-06-01,whatsapp,5,Bahut acha service mila,,availability
+1242,214,5430,2025-11-02,whatsapp,4,Good range of paints,,service
+1243,56,5063,2025-09-15,whatsapp,4,Satisfied with purchase,,price
+1244,260,280,2023-05-02,whatsapp,4,"Nice shop, helpful staff",,product_quality
+1245,630,468,2023-05-29,google_maps,5,Bahut acha service mila,,product_quality
+1246,129,2517,2024-05-23,in_store,4,Satisfied with purchase,,availability
+1247,151,1388,2023-11-25,whatsapp,5,Bahut acha service mila,,availability
+1248,834,4308,2025-04-08,whatsapp,4,Good range of paints,,service
+1249,315,960,2023-10-11,in_store,5,Best paint shop in Ballia,,product_quality
+1250,688,420,2023-05-21,in_store,3,Could be better,,service
+1251,759,2282,2024-04-24,in_store,4,"Nice shop, helpful staff",,service
+1252,247,5613,2025-11-25,in_store,5,Best paint shop in Ballia,,availability
+1253,249,4503,2025-05-06,google_maps,3,Average service,,availability
+1254,755,1825,2024-02-24,in_store,1,Wrong product delivered,,price
+1255,744,6595,2026-05-09,in_store,5,Best paint shop in Ballia,,product_quality
+1256,67,1208,2023-11-10,in_store,4,Satisfied with purchase,,service
+1257,184,6353,2026-04-08,in_store,5,Best paint shop in Ballia,,product_quality
+1258,548,1299,2023-11-18,whatsapp,4,"Nice shop, helpful staff",,service
+1259,487,4168,2025-03-22,in_store,4,Satisfied with purchase,,service
+1260,615,2070,2024-03-28,in_store,4,"Nice shop, helpful staff",,price
+1261,252,5711,2025-12-14,whatsapp,5,Bahut acha service mila,,service
+1262,655,3338,2024-11-01,in_store,4,Good range of paints,,price
+1263,858,3727,2024-12-27,whatsapp,4,Satisfied with purchase,,service
+1264,129,2497,2024-05-20,in_store,4,"Nice shop, helpful staff",,price
+1265,266,102,2023-04-18,google_maps,1,Very bad experience,,service
+1266,873,4892,2025-07-30,in_store,3,Could be better,,product_quality
+1267,501,393,2023-05-21,in_store,5,Best paint shop in Ballia,,availability
+1268,29,5823,2026-01-06,whatsapp,2,Staff not helpful,,availability
+1269,841,5875,2026-01-19,whatsapp,3,"Product ok, price thoda zyada",,product_quality
+1270,918,4790,2025-06-30,whatsapp,4,Good range of paints,,product_quality
+1271,357,4840,2025-07-13,whatsapp,3,Average service,,service
+1272,134,3005,2024-09-26,in_store,4,Satisfied with purchase,,service
+1273,283,3863,2025-01-29,in_store,3,"Product ok, price thoda zyada",,availability
+1274,83,1560,2023-12-27,google_maps,4,"Nice shop, helpful staff",,price
+1275,902,6204,2026-03-19,in_store,4,Satisfied with purchase,,product_quality
+1276,237,5722,2025-12-20,in_store,4,Satisfied with purchase,,service
+1277,819,343,2023-05-12,whatsapp,5,Best paint shop in Ballia,,service
+1278,384,5891,2026-01-22,in_store,5,"Good quality products, will come again",,price
+1279,767,5252,2025-10-13,in_store,5,"Good quality products, will come again",,price
+1280,782,182,2023-04-25,in_store,5,"Good quality products, will come again",,price
+1281,291,5396,2025-10-29,whatsapp,5,"Good quality products, will come again",,product_quality
+1282,762,3739,2024-12-29,whatsapp,4,Satisfied with purchase,,service
+1283,468,223,2023-04-29,whatsapp,4,Satisfied with purchase,,availability
+1284,417,2858,2024-08-19,in_store,4,Good range of paints,,availability
+1285,10,3737,2025-01-01,in_store,3,Could be better,,service
+1286,769,1283,2023-11-14,google_maps,3,Could be better,,availability
+1287,605,2362,2024-05-06,whatsapp,4,"Nice shop, helpful staff",,product_quality
+1288,786,1475,2023-12-09,google_maps,4,"Nice shop, helpful staff",,availability
+1289,587,2890,2024-08-29,in_store,3,"Product ok, price thoda zyada",,product_quality
+1290,332,1799,2024-02-17,google_maps,2,Staff not helpful,,product_quality
+1291,54,1187,2023-11-08,in_store,4,Good range of paints,,price
+1292,655,3686,2024-12-20,google_maps,1,Very bad experience,,availability
+1293,875,6707,2026-05-25,whatsapp,5,Bahut acha service mila,,availability
+1294,279,5580,2025-11-22,in_store,4,Good range of paints,,service
+1295,407,6413,2026-04-12,in_store,4,"Nice shop, helpful staff",,service
+1296,712,5977,2026-02-08,in_store,3,Average service,,availability
+1297,634,268,2023-05-01,in_store,3,Could be better,,availability
+1298,851,3991,2025-02-26,in_store,4,"Nice shop, helpful staff",,availability
+1299,941,6603,2026-05-11,whatsapp,1,Wrong product delivered,,price
+1300,433,1109,2023-10-27,whatsapp,4,"Nice shop, helpful staff",,product_quality
+1301,478,4916,2025-08-04,whatsapp,5,"Good quality products, will come again",,service
+1302,393,1503,2023-12-18,whatsapp,3,Average service,,availability
+1303,70,2213,2024-04-17,in_store,4,Good range of paints,,price
+1304,508,3957,2025-02-15,in_store,3,Average service,,service
+1305,782,3478,2024-11-12,google_maps,4,Satisfied with purchase,,service
+1306,777,1267,2023-11-12,in_store,5,"Good quality products, will come again",,availability
+1307,93,1177,2023-11-06,in_store,4,"Nice shop, helpful staff",,price
+1308,48,4325,2025-04-10,in_store,4,Satisfied with purchase,,availability
+1309,566,5865,2026-01-17,whatsapp,4,Good range of paints,,availability
+1310,766,1225,2023-11-10,whatsapp,5,Bahut acha service mila,,service
+1311,342,4162,2025-03-18,in_store,5,Best paint shop in Ballia,,product_quality
+1312,761,6162,2026-03-12,in_store,4,"Nice shop, helpful staff",,service
+1313,441,4634,2025-05-25,in_store,4,Satisfied with purchase,,product_quality
+1314,572,619,2023-07-10,whatsapp,4,Satisfied with purchase,,availability
+1315,13,5168,2025-10-04,in_store,2,Delivery late,,availability
+1316,255,2783,2024-07-26,in_store,5,Bahut acha service mila,,service
+1317,684,3582,2024-12-01,in_store,4,Good range of paints,,service
+1318,681,3549,2024-11-24,in_store,5,"Good quality products, will come again",,service
+1319,395,4628,2025-05-24,in_store,4,"Nice shop, helpful staff",,availability
+1320,316,4581,2025-05-19,in_store,5,Best paint shop in Ballia,,service
+1321,513,4786,2025-06-27,whatsapp,4,Good range of paints,,service
+1322,628,29,2023-04-07,in_store,3,Could be better,,availability
+1323,535,6615,2026-05-13,in_store,2,Staff not helpful,,service
+1324,503,4374,2025-04-19,in_store,4,Good range of paints,,availability
+1325,91,4679,2025-05-31,in_store,4,Good range of paints,,availability
+1326,559,3898,2025-02-06,in_store,5,Best paint shop in Ballia,,product_quality
+1327,706,2516,2024-05-23,google_maps,4,"Nice shop, helpful staff",,product_quality
+1328,429,2955,2024-09-17,google_maps,4,Satisfied with purchase,,availability
+1329,948,5498,2025-11-10,in_store,5,Best paint shop in Ballia,,product_quality
+1330,451,3753,2024-12-31,in_store,4,Good range of paints,,availability
+1331,504,1596,2024-01-06,whatsapp,5,"Good quality products, will come again",,availability
+1332,454,2898,2024-09-01,whatsapp,4,Satisfied with purchase,,price
+1333,765,3098,2024-10-06,whatsapp,4,Good range of paints,,price
+1334,527,4672,2025-05-31,in_store,4,Satisfied with purchase,,price
+1335,329,2652,2024-06-18,in_store,1,Not recommended,,service
+1336,858,164,2023-04-20,in_store,5,Best paint shop in Ballia,,price
+1337,821,2467,2024-05-16,in_store,5,Best paint shop in Ballia,,product_quality
+1338,159,2761,2024-07-19,google_maps,3,Average service,,product_quality
+1339,143,1805,2024-02-20,in_store,4,Satisfied with purchase,,service
+1340,729,5968,2026-02-05,in_store,4,"Nice shop, helpful staff",,price
+1341,537,2510,2024-05-20,in_store,5,"Good quality products, will come again",,service
+1342,817,5909,2026-01-26,whatsapp,4,"Nice shop, helpful staff",,product_quality
+1343,378,105,2023-04-16,google_maps,2,Staff not helpful,,price
+1344,659,1063,2023-10-21,google_maps,3,"Product ok, price thoda zyada",,product_quality
+1345,63,4188,2025-03-23,in_store,4,"Nice shop, helpful staff",,availability
+1346,540,2897,2024-08-29,in_store,1,Not recommended,,product_quality
+1347,704,4010,2025-03-03,in_store,5,Best paint shop in Ballia,,service
+1348,508,981,2023-10-12,google_maps,3,Could be better,,price
+1349,791,5784,2025-12-30,google_maps,3,Average service,,service
+1350,638,3366,2024-11-04,in_store,4,Satisfied with purchase,,product_quality
+1351,238,499,2023-06-05,in_store,4,Satisfied with purchase,,service
+1352,696,4909,2025-08-01,whatsapp,3,Could be better,,service
+1353,650,366,2023-05-14,in_store,4,"Nice shop, helpful staff",,product_quality
+1354,82,1672,2024-01-19,whatsapp,1,Very bad experience,,price
+1355,370,3419,2024-11-06,whatsapp,3,"Product ok, price thoda zyada",,availability
+1356,666,6230,2026-03-22,in_store,3,Average service,,availability
+1357,487,2894,2024-08-28,whatsapp,5,Bahut acha service mila,,product_quality
+1358,357,1078,2023-10-23,whatsapp,1,Not recommended,,service
+1359,162,1857,2024-02-29,in_store,5,Best paint shop in Ballia,,availability
+1360,941,2243,2024-04-19,google_maps,5,Bahut acha service mila,,price
+1361,327,3234,2024-10-23,google_maps,1,Very bad experience,,availability
+1362,86,893,2023-09-29,in_store,4,Good range of paints,,service
+1363,708,3936,2025-02-14,in_store,5,Bahut acha service mila,,price
+1364,505,6611,2026-05-12,whatsapp,3,"Product ok, price thoda zyada",,product_quality
+1365,461,6476,2026-04-23,whatsapp,5,Best paint shop in Ballia,,availability
+1366,809,4523,2025-05-08,in_store,3,Average service,,product_quality
+1367,405,6826,2026-06-19,whatsapp,2,Delivery late,,availability
+1368,193,6522,2026-04-30,whatsapp,4,Good range of paints,,product_quality
+1369,604,423,2023-05-23,whatsapp,4,Good range of paints,,availability
+1370,359,6181,2026-03-14,in_store,2,Staff not helpful,,price
+1371,627,6254,2026-03-24,google_maps,4,Good range of paints,,availability
+1372,284,949,2023-10-11,in_store,5,Best paint shop in Ballia,,availability
+1373,660,3460,2024-11-10,whatsapp,4,Good range of paints,,availability
